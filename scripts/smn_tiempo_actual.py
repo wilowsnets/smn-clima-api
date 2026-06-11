@@ -74,25 +74,51 @@ def parse_viento(viento_txt):
 
 
 def descargar_tiepre():
-    r = requests.get(URL_TIEMPO, timeout=30)
+    r = requests.get(
+        URL_TIEMPO,
+        timeout=30,
+        headers={"User-Agent": "Mozilla/5.0 smn-clima-api"},
+    )
     r.raise_for_status()
 
     z = zipfile.ZipFile(io.BytesIO(r.content))
-    nombre = z.namelist()[0]
+
+    # Elegir el primer archivo real dentro del ZIP.
+    # A veces un ZIP puede traer carpetas o entradas raras.
+    nombres = [
+        n for n in z.namelist()
+        if not n.endswith("/") and not n.startswith("__MACOSX")
+    ]
+
+    if not nombres:
+        raise RuntimeError("El ZIP del SMN no contiene archivos legibles.")
+
+    nombre = nombres[0]
 
     with z.open(nombre) as f:
-        texto = f.read().decode("latin-1")
+        texto = f.read().decode("latin-1", errors="replace")
 
-    return texto
+    return texto, nombre, z.namelist()
+
+
+def limpiar_linea(linea):
+    linea = linea.strip()
+
+    if not linea:
+        return ""
+
+    # Quitar el cierre final del SMN: " /"
+    linea = re.sub(r"\s*/\s*$", "", linea)
+
+    return linea.strip()
 
 
 def parsear_linea(linea):
-    linea = linea.strip()
+    linea = limpiar_linea(linea)
 
     if not linea:
         return None
 
-    linea = linea.rstrip("/").strip()
     partes = [p.strip() for p in linea.split(";")]
 
     if len(partes) < 10:
@@ -193,17 +219,32 @@ def marcar_estado(data, ok=True, mensaje=None):
 def main():
     tiempo_path = OUT_DIR / "tiempo_actual.json"
     top_path = OUT_DIR / "top_nacional.json"
+    debug_path = OUT_DIR / "debug_tiepre.json"
 
     anterior = cargar_json_anterior(tiempo_path)
 
     try:
-        texto = descargar_tiepre()
+        texto, archivo_zip, archivos_zip = descargar_tiepre()
+
         estaciones_lista = []
+        lineas_invalidas = []
 
         for linea in texto.splitlines():
-            item = parsear_linea(linea)
-            if item:
-                estaciones_lista.append(item)
+            try:
+                item = parsear_linea(linea)
+                if item:
+                    estaciones_lista.append(item)
+                elif linea.strip():
+                    lineas_invalidas.append(linea.strip()[:300])
+            except Exception as e:
+                lineas_invalidas.append(f"ERROR: {e} | LINEA: {linea.strip()[:300]}")
+
+        if not estaciones_lista:
+            raise RuntimeError(
+                "No se pudo parsear ninguna estación. "
+                f"Archivo interno: {archivo_zip}. "
+                f"Primeros 500 caracteres: {texto[:500]}"
+            )
 
         estaciones = {
             item["estacion"].upper(): item
@@ -214,13 +255,25 @@ def main():
             "fuente": "Servicio Meteorológico Nacional",
             "producto": "tiepre",
             "url_fuente": URL_TIEMPO,
+            "archivo_zip": archivo_zip,
+            "cantidad_estaciones": len(estaciones),
             "estaciones": estaciones,
         }
 
         data = marcar_estado(data, ok=True)
 
+        debug = {
+            "estado": "ok",
+            "archivo_zip_usado": archivo_zip,
+            "archivos_zip": archivos_zip,
+            "cantidad_estaciones": len(estaciones),
+            "lineas_invalidas_muestra": lineas_invalidas[:10],
+            "primeros_500_caracteres": texto[:500],
+            "actualizado_github": data["actualizado_github"],
+        }
+
     except Exception as e:
-        if anterior:
+        if anterior and anterior.get("estaciones"):
             data = marcar_estado(
                 anterior,
                 ok=False,
@@ -237,6 +290,12 @@ def main():
                 "estaciones": {},
                 "actualizado_github": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
             }
+
+        debug = {
+            "estado": "error",
+            "error": str(e),
+            "actualizado_github": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        }
 
     tiempo_path.write_text(
         json.dumps(data, ensure_ascii=False, indent=2),
@@ -259,8 +318,15 @@ def main():
         encoding="utf-8",
     )
 
+    debug_path.write_text(
+        json.dumps(debug, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
     print("Generado:", tiempo_path)
     print("Generado:", top_path)
+    print("Generado:", debug_path)
+    print("Estaciones:", len(data.get("estaciones", {})))
 
 
 if __name__ == "__main__":
