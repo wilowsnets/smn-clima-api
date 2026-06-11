@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add docs/data/tiempo_actual.json docs/data/top_nacional.json
+          git add docs/data/tiempo_actual.json docs/data/top_nacional.json docs/data/debug_tiepre.json
           git commit -m "Actualizar clima SMN" || echo "Sin cambios para guardar"
           git push
