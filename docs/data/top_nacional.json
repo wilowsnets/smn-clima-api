@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-11T21:16:16.289557Z",
-  "ultima_actualizacion_smn": "2026-06-11T17:00:00-03:00",
+  "actualizado_github": "2026-06-11T23:04:58.344474Z",
+  "ultima_actualizacion_smn": "2026-06-11T19:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "La Rioja",
-    "fecha_hora": "2026-06-11T17:00:00-03:00",
+    "estacion": "Chepes",
+    "fecha_hora": "2026-06-11T15:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "20 km",
-    "temperatura": 21.7,
+    "visibilidad": "15 km",
+    "temperatura": 20.4,
     "termica": null,
-    "humedad": 45,
+    "humedad": 51,
     "viento_dir": "Noreste",
-    "viento_vel": 11,
-    "presion": 963.0
+    "viento_vel": 3,
+    "presion": 940.8
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-11T15:00:00-03:00",
+    "fecha_hora": "2026-06-11T18:00:00-03:00",
     "estado": "Nublado con nevada",
     "visibilidad": "3.0 km",
-    "temperatura": -17.5,
-    "termica": -27.4,
-    "humedad": 74,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 20,
-    "presion": 948.8
+    "temperatura": -17.4,
+    "termica": -25.2,
+    "humedad": 69,
+    "viento_dir": "Oeste",
+    "viento_vel": 13,
+    "presion": 949.7
   },
   "mayor_viento": {
     "estacion": "Puerto Deseado",
@@ -43,15 +43,15 @@
     "presion": 980.7
   },
   "mayor_humedad": {
-    "estacion": "Chilecito",
-    "fecha_hora": "2026-06-11T09:00:00-03:00",
-    "estado": "Despejado con neblina",
-    "visibilidad": "15 km",
-    "temperatura": 7.4,
+    "estacion": "Base San Martín",
+    "fecha_hora": "2026-06-11T18:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura": -5.5,
     "termica": null,
-    "humedad": 99,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 915.2
+    "humedad": 100,
+    "viento_dir": "Direcciones Variables",
+    "viento_vel": 3,
+    "presion": 988.6
   }
 }
