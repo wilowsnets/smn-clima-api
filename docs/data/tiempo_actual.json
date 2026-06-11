@@ -1,0 +1,12 @@
+{
+  "fuente": "Servicio Meteorológico Nacional",
+  "producto": "tiepre",
+  "url_fuente": "https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=tiepre",
+  "estaciones": {},
+  "actualizado_github": "2026-06-11T01:26:33.302473Z",
+  "ultima_actualizacion_smn": null,
+  "edad_minutos": null,
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles."
+}
