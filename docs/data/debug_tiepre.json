@@ -1,5 +1,11 @@
 {
-  "estado": "error",
-  "error": "No se pudo parsear ninguna estación. Archivo interno: estado_tiempo20260611.txt. Primeros 500 caracteres: ",
-  "actualizado_github": "2026-06-11T06:12:41.696328Z"
+  "estado": "ok",
+  "archivo_zip_usado": "estado_tiempo20260611.txt",
+  "archivos_zip": [
+    "estado_tiempo20260611.txt"
+  ],
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;11-junio-2026;07:00;Cielo invisible con niebla;Menor a 100 mts;5.8;No se calcula; 100;Sudoeste  3;999.8 / \r\n Bahía Blanca;11-junio-2026;07:00;Algo nublado;15 km;2.8;-0.6; 91;Norte  13;1006.6 / \r\n Benito Juárez;10-junio-2026;21:00;Algo nublado;15 km;9.2;7.0; 93;Oeste  14;990.2 / \r\n Bolívar;10-junio-2026;21:00;Algo nublado;15 km;9.6;No se calcula; 94;Calma;1005.3 / \r\n Campo de Mayo;10-junio-2026;21:00;Cubierto;10 km;10.7;No se calcula; 96;Calma;1013.8 / \r\n Coronel Suarez;11-junio-2026;07:00;C",
+  "actualizado_github": "2026-06-11T11:07:23.916737Z"
 }

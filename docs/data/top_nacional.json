@@ -1,13 +1,57 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-11T06:12:41.696304Z",
-  "ultima_actualizacion_smn": null,
-  "estado": "sin_datos",
-  "desactualizado": true,
-  "mensaje": "No hay datos disponibles. Error: No se pudo parsear ninguna estación. Archivo interno: estado_tiempo20260611.txt. Primeros 500 caracteres: ",
-  "mas_calor": null,
-  "mas_frio": null,
-  "mayor_viento": null,
-  "mayor_humedad": null
+  "actualizado_github": "2026-06-11T11:07:23.916737Z",
+  "ultima_actualizacion_smn": "2026-06-11T07:00:00-03:00",
+  "estado": "ok",
+  "desactualizado": false,
+  "mensaje": "Datos actualizados.",
+  "mas_calor": {
+    "estacion": "Ituzaingó",
+    "fecha_hora": "2026-06-10T21:00:00-03:00",
+    "estado": "Cubierto con neblina",
+    "visibilidad": "2.0 km",
+    "temperatura": 18.4,
+    "termica": null,
+    "humedad": 96,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1002.5
+  },
+  "mas_frio": {
+    "estacion": "Base Belgrano II",
+    "fecha_hora": "2026-06-11T06:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -17.8,
+    "termica": -22.2,
+    "humedad": 73,
+    "viento_dir": "Oeste",
+    "viento_vel": 5,
+    "presion": 948.6
+  },
+  "mayor_viento": {
+    "estacion": "Santa Cruz",
+    "fecha_hora": "2026-06-10T21:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura": 1.4,
+    "termica": -6.0,
+    "humedad": 76,
+    "viento_dir": "Oeste",
+    "viento_vel": 46,
+    "presion": 986.6
+  },
+  "mayor_humedad": {
+    "estacion": "Azul",
+    "fecha_hora": "2026-06-11T07:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 5.8,
+    "termica": null,
+    "humedad": 100,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 3,
+    "presion": 999.8
+  }
 }
