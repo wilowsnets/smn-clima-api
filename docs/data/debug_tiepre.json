@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;11-junio-2026;07:00;Cielo invisible con niebla;Menor a 100 mts;5.8;No se calcula; 100;Sudoeste  3;999.8 / \r\n Bahía Blanca;11-junio-2026;07:00;Algo nublado;15 km;2.8;-0.6; 91;Norte  13;1006.6 / \r\n Benito Juárez;10-junio-2026;21:00;Algo nublado;15 km;9.2;7.0; 93;Oeste  14;990.2 / \r\n Bolívar;10-junio-2026;21:00;Algo nublado;15 km;9.6;No se calcula; 94;Calma;1005.3 / \r\n Campo de Mayo;10-junio-2026;21:00;Cubierto;10 km;10.7;No se calcula; 96;Calma;1013.8 / \r\n Coronel Suarez;11-junio-2026;07:00;C",
-  "actualizado_github": "2026-06-11T11:07:23.916737Z"
+  "primeros_500_caracteres": "Azul;11-junio-2026;11:00;Parcialmente nublado con niebla en la hora anterior;3.0 km;8;6.8; 97;Oeste  7;1001 / \r\n Bahía Blanca;11-junio-2026;10:00;Algo nublado;15 km;5.6;2.3; 84;Norte  16;1007.7 / \r\n Benito Juárez;11-junio-2026;09:00;Cielo invisible con niebla;Menor a 100 mts;5.7;3.7; 100;Norte  9;992.4 / \r\n Bolívar;11-junio-2026;11:00;Cielo invisible con niebla;100 mts;7.8;No se calcula; 99;Calma;1008.9 / \r\n Campo de Mayo;11-junio-2026;10:00;Algo nublado con neblina;6 km;12.2;No se calcula; 95;S",
+  "actualizado_github": "2026-06-11T15:02:34.926521Z"
 }
