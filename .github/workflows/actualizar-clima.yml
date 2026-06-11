@@ -1,1 +1,33 @@
+name: Actualizar clima SMN
 
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clima:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Ejecutar script clima SMN
+        run: python scripts/smn_tiempo_actual.py
+
+      - name: Guardar JSON generados
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/data/tiempo_actual.json docs/data/top_nacional.json
+          git commit -m "Actualizar clima SMN" || echo "Sin cambios para guardar"
+          git push
