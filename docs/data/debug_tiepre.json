@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260611.txt",
+  "archivo_zip_usado": "estado_tiempo20260612.txt",
   "archivos_zip": [
-    "estado_tiempo20260611.txt"
+    "estado_tiempo20260612.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;11-junio-2026;19:00;Algo nublado;15 km;11.4;No se calcula; 72;Noroeste  5;998.4 / \r\n Bahía Blanca;11-junio-2026;19:00;Nublado;15 km;9.6;7.0; 76;Norte  18;1003 / \r\n Benito Juárez;11-junio-2026;15:00;Algo nublado;15 km;15.7;No se calcula; 44;Noroeste  9;990.2 / \r\n Bolívar;11-junio-2026;19:00;Algo nublado;10 km;11.9;No se calcula; 82;Calma;1005 / \r\n Campo de Mayo;11-junio-2026;19:00;Algo nublado;10 km;12;No se calcula; 93;Noroeste  1;1014.6 / \r\n Coronel Suarez;11-junio-2026;15:00;Algo nublado;",
-  "actualizado_github": "2026-06-11T23:04:58.344474Z"
+  "primeros_500_caracteres": "Azul;11-junio-2026;21:00;Despejado;15 km;10.5;No se calcula; 76;Noroeste  7;998.2 / \r\n Bahía Blanca;11-junio-2026;21:00;Nublado;15 km;10.8;No se calcula; 70;Norte  24;1002 / \r\n Benito Juárez;11-junio-2026;15:00;Algo nublado;15 km;15.7;No se calcula; 44;Noroeste  9;990.2 / \r\n Bolívar;11-junio-2026;21:00;Parcialmente nublado;10 km;11.3;No se calcula; 89;Calma;1005 / \r\n Campo de Mayo;11-junio-2026;21:00;Algo nublado con banco delgado de niebla;10 km;8;No se calcula; 98;Oeste  1;1014.5 / \r\n Coronel ",
+  "actualizado_github": "2026-06-12T01:43:21.657079Z"
 }
