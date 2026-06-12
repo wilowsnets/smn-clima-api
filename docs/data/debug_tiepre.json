@@ -6,8 +6,8 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '-' | LINEA: Córdoba Observatorio;12-junio-2026;10:00;Algo nublado;10 km;10.3;No se calcula; 69;Noreste  3;- /"
+    "ERROR: could not convert string to float: '-' | LINEA: Córdoba Observatorio;12-junio-2026;13:00;Algo nublado;10 km;19.5;No se calcula; 47;Este  9;- /"
   ],
-  "primeros_500_caracteres": "Azul;12-junio-2026;10:00;Algo nublado con niebla en la hora anterior;6 km;7.8;5.5; 98;Noroeste  13;995.8 / \r\n Bahía Blanca;12-junio-2026;10:00;Nublado;15 km;12;No se calcula; 77;Norte  31;999 / \r\n Benito Juárez;12-junio-2026;09:00;Nublado con neblina;9 km;9.3;7.1; 92;Norte  14;986.4 / \r\n Bolívar;12-junio-2026;10:00;Parcialmente nublado con neblina;8 km;10.5;No se calcula; 91;Norte  9;1002.6 / \r\n Campo de Mayo;12-junio-2026;10:00;Cielo invisible con niebla;Menor a 100 mts;8.7;No se calcula; 93;No",
-  "actualizado_github": "2026-06-12T17:20:41.171039Z"
+  "primeros_500_caracteres": "Azul;12-junio-2026;13:00;Parcialmente nublado;15 km;15.2;No se calcula; 59;Noroeste  22;995.2 / \r\n Bahía Blanca;12-junio-2026;13:00;Cubierto;15 km;14.6;No se calcula; 73;Noroeste  29;999.2 / \r\n Benito Juárez;12-junio-2026;09:00;Nublado con neblina;9 km;9.3;7.1; 92;Norte  14;986.4 / \r\n Bolívar;12-junio-2026;13:00;Nublado;12 km;15.8;No se calcula; 69;Noroeste  18;1002.4 / \r\n Campo de Mayo;12-junio-2026;13:00;Algo nublado con neblina;5 km;16;No se calcula; 70;Noroeste  9;1012 / \r\n Coronel Suarez;12",
+  "actualizado_github": "2026-06-12T19:28:06.693547Z"
 }
