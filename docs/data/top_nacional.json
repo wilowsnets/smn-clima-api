@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-12T10:50:33.169869Z",
-  "ultima_actualizacion_smn": "2026-06-12T07:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "actualizado_github": "2026-06-12T14:03:36.396561Z",
+  "ultima_actualizacion_smn": "2026-06-12T08:00:00-03:00",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Oberá",
     "fecha_hora": "2026-06-11T21:00:00-03:00",
@@ -43,15 +43,15 @@
     "presion": 943.3
   },
   "mayor_humedad": {
-    "estacion": "El Palomar",
-    "fecha_hora": "2026-06-12T07:00:00-03:00",
-    "estado": "Despejado con niebla",
-    "visibilidad": "100 mts",
-    "temperatura": 2.0,
+    "estacion": "Ezeiza",
+    "fecha_hora": "2026-06-12T08:00:00-03:00",
+    "estado": "Parcialmente nublado con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 2.4,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Calma",
     "viento_vel": 0,
-    "presion": 1014.0
+    "presion": 1013.4
   }
 }
