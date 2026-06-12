@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-12T21:13:50.540556Z",
-  "ultima_actualizacion_smn": "2026-06-12T15:00:00-03:00",
-  "estado": "desactualizado",
-  "desactualizado": true,
-  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
+  "actualizado_github": "2026-06-12T22:54:56.723119Z",
+  "ultima_actualizacion_smn": "2026-06-12T19:00:00-03:00",
+  "estado": "ok",
+  "desactualizado": false,
+  "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Jachal",
+    "estacion": "Oberá",
     "fecha_hora": "2026-06-12T15:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "15 km",
-    "temperatura": 23.2,
+    "estado": "Cubierto",
+    "visibilidad": "20 km",
+    "temperatura": 19.8,
     "termica": null,
-    "humedad": 16,
-    "viento_dir": "Sudeste",
-    "viento_vel": 14,
-    "presion": 876.2
+    "humedad": 74,
+    "viento_dir": "Este",
+    "viento_vel": 3,
+    "presion": 981.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-12T15:00:00-03:00",
+    "fecha_hora": "2026-06-12T18:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": -21.4,
-    "termica": -31.8,
-    "humedad": 46,
+    "temperatura": -22.6,
+    "termica": -32.2,
+    "humedad": 65,
     "viento_dir": "Sudeste",
-    "viento_vel": 18,
-    "presion": 951.4
+    "viento_vel": 14,
+    "presion": 951.0
   },
   "mayor_viento": {
     "estacion": "San Julián",
@@ -43,15 +43,15 @@
     "presion": 994.9
   },
   "mayor_humedad": {
-    "estacion": "Mount Pleasant Airport (Islas Malvinas)",
-    "fecha_hora": "2026-06-12T15:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "Sin información",
-    "temperatura": 5.5,
-    "termica": 3.0,
-    "humedad": 97,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 11,
-    "presion": 974.6
+    "estacion": "Punta Indio B.A.",
+    "fecha_hora": "2026-06-12T19:00:00-03:00",
+    "estado": "Despejado con niebla",
+    "visibilidad": "800 mts",
+    "temperatura": 10.0,
+    "termica": 8.2,
+    "humedad": 100,
+    "viento_dir": "Noreste",
+    "viento_vel": 13,
+    "presion": 1012.0
   }
 }
