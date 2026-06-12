@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-12T06:29:45.713226Z",
-  "ultima_actualizacion_smn": "2026-06-12T01:00:00-03:00",
+  "actualizado_github": "2026-06-12T10:50:33.169869Z",
+  "ultima_actualizacion_smn": "2026-06-12T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-12T00:00:00-03:00",
-    "estado": "Nublado con nevada",
-    "visibilidad": "5 km",
-    "temperatura": -20.2,
-    "termica": -31.2,
-    "humedad": 69,
-    "viento_dir": "Oeste",
-    "viento_vel": 22,
-    "presion": 949.6
+    "fecha_hora": "2026-06-12T06:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "20 km",
+    "temperatura": -20.4,
+    "termica": null,
+    "humedad": 62,
+    "viento_dir": "Este",
+    "viento_vel": 3,
+    "presion": 950.6
   },
   "mayor_viento": {
     "estacion": "Gobernador Gregores",
@@ -43,15 +43,15 @@
     "presion": 943.3
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-06-12T01:00:00-03:00",
+    "estacion": "El Palomar",
+    "fecha_hora": "2026-06-12T07:00:00-03:00",
     "estado": "Despejado con niebla",
     "visibilidad": "100 mts",
-    "temperatura": 6.2,
+    "temperatura": 2.0,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Norte",
-    "viento_vel": 1,
-    "presion": 1014.6
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1014.0
   }
 }
