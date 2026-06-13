@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-13T14:36:19.003109Z",
-  "ultima_actualizacion_smn": "2026-06-13T09:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "actualizado_github": "2026-06-13T16:11:25.590561Z",
+  "ultima_actualizacion_smn": "2026-06-13T10:00:00-03:00",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
-    "estacion": "Orán",
-    "fecha_hora": "2026-06-13T09:00:00-03:00",
-    "estado": "Cubierto con neblina",
-    "visibilidad": "8 km",
-    "temperatura": 15.4,
+    "estacion": "Formosa",
+    "fecha_hora": "2026-06-13T10:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura": 15.9,
     "termica": null,
-    "humedad": 91,
-    "viento_dir": "Noroeste",
-    "viento_vel": 3,
-    "presion": 973.4
+    "humedad": 81,
+    "viento_dir": "Este",
+    "viento_vel": 16,
+    "presion": 1010.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Dolores",
-    "fecha_hora": "2026-06-13T09:00:00-03:00",
+    "fecha_hora": "2026-06-13T10:00:00-03:00",
     "estado": "Cielo invisible con niebla",
     "visibilidad": "100 mts",
     "temperatura": 8.0,
     "termica": 6.8,
     "humedad": 100,
-    "viento_dir": "Noroeste",
+    "viento_dir": "Oeste",
     "viento_vel": 7,
-    "presion": 1015.3
+    "presion": 1016.0
   }
 }
