@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-13T10:44:19.619063Z",
-  "ultima_actualizacion_smn": "2026-06-13T05:00:00-03:00",
+  "actualizado_github": "2026-06-13T12:22:04.690671Z",
+  "ultima_actualizacion_smn": "2026-06-13T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-13T03:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "20 km",
-    "temperatura": -21.7,
-    "termica": null,
-    "humedad": 67,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 949.0
+    "fecha_hora": "2026-06-13T06:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -20.8,
+    "termica": -25.6,
+    "humedad": 62,
+    "viento_dir": "Sudeste",
+    "viento_vel": 5,
+    "presion": 948.5
   },
   "mayor_viento": {
     "estacion": "San Julián",
@@ -43,15 +43,15 @@
     "presion": 1004.2
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-06-13T05:00:00-03:00",
-    "estado": "Parcialmente nublado con niebla",
-    "visibilidad": "400 mts",
-    "temperatura": 5.4,
-    "termica": null,
+    "estacion": "Ezeiza",
+    "fecha_hora": "2026-06-13T07:00:00-03:00",
+    "estado": "Parcialmente nublado con niebla en bancos",
+    "visibilidad": "800 mts",
+    "temperatura": 8.8,
+    "termica": 8.2,
     "humedad": 100,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 1013.0
+    "viento_dir": "Norte",
+    "viento_vel": 5,
+    "presion": 1013.4
   }
 }
