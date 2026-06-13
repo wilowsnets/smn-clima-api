@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-13T20:46:54.549781Z",
-  "ultima_actualizacion_smn": "2026-06-13T15:00:00-03:00",
+  "actualizado_github": "2026-06-13T21:58:43.059552Z",
+  "ultima_actualizacion_smn": "2026-06-13T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Orán",
+    "estacion": "Oberá",
     "fecha_hora": "2026-06-13T15:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "10 km",
-    "temperatura": 21.8,
+    "estado": "Cubierto",
+    "visibilidad": "20 km",
+    "temperatura": 20.8,
     "termica": null,
-    "humedad": 60,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 970.9
+    "humedad": 92,
+    "viento_dir": "Norte",
+    "viento_vel": 3,
+    "presion": 978.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Río Cuarto",
-    "fecha_hora": "2026-06-13T15:00:00-03:00",
+    "fecha_hora": "2026-06-13T17:00:00-03:00",
     "estado": "Cubierto con llovizna",
-    "visibilidad": "800 mts",
-    "temperatura": 6.8,
-    "termica": 2.6,
+    "visibilidad": "1.2 km",
+    "temperatura": 6.0,
+    "termica": 1.6,
     "humedad": 98,
-    "viento_dir": "Sudoeste",
+    "viento_dir": "Sur",
     "viento_vel": 27,
-    "presion": 970.0
+    "presion": 971.3
   }
 }
