@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-13T00:16:31.432008Z",
-  "ultima_actualizacion_smn": "2026-06-12T19:00:00-03:00",
+  "actualizado_github": "2026-06-13T04:58:23.854154Z",
+  "ultima_actualizacion_smn": "2026-06-13T01:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-12T18:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-06-13T00:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
     "temperatura": -22.6,
-    "termica": -32.2,
+    "termica": -31.5,
     "humedad": 65,
     "viento_dir": "Sudeste",
-    "viento_vel": 14,
-    "presion": 951.0
+    "viento_vel": 13,
+    "presion": 949.8
   },
   "mayor_viento": {
     "estacion": "San Julián",
-    "fecha_hora": "2026-06-12T15:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "4.0 km",
-    "temperatura": 1.6,
-    "termica": -6.8,
-    "humedad": 90,
+    "fecha_hora": "2026-06-12T21:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura": -0.2,
+    "termica": -8.3,
+    "humedad": 85,
     "viento_dir": "Sudoeste",
-    "viento_vel": 64,
-    "presion": 994.9
+    "viento_vel": 48,
+    "presion": 1004.2
   },
   "mayor_humedad": {
     "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-06-12T19:00:00-03:00",
-    "estado": "Despejado con niebla",
-    "visibilidad": "800 mts",
-    "temperatura": 10.0,
-    "termica": 8.2,
+    "fecha_hora": "2026-06-12T21:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 9.8,
+    "termica": 8.9,
     "humedad": 100,
-    "viento_dir": "Noreste",
-    "viento_vel": 13,
-    "presion": 1012.0
+    "viento_dir": "Norte",
+    "viento_vel": 7,
+    "presion": 1012.7
   }
 }

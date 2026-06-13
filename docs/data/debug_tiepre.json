@@ -1,13 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260612.txt",
+  "archivo_zip_usado": "estado_tiempo20260613.txt",
   "archivos_zip": [
-    "estado_tiempo20260612.txt"
+    "estado_tiempo20260613.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '-' | LINEA: Trelew;12-junio-2026;19:00;Algo nublado;30 km;7.8;3.9; 39;Oeste  27;- /"
-  ],
-  "primeros_500_caracteres": "Azul;12-junio-2026;19:00;Parcialmente nublado;15 km;12.4;No se calcula; 74;Norte  5;994.8 / \r\n Bahía Blanca;12-junio-2026;19:00;Nublado;15 km;13.2;No se calcula; 76;Oeste  16;1001 / \r\n Benito Juárez;12-junio-2026;15:00;Nublado;15 km;15;No se calcula; 58;Norte  24;985.2 / \r\n Bolívar;12-junio-2026;19:00;Nublado;15 km;10.8;No se calcula; 88;Noroeste  3;1001.4 / \r\n Campo de Mayo;12-junio-2026;18:00;Algo nublado;10 km;12.2;No se calcula; 89;Norte  3;1011.4 / \r\n Coronel Suarez;12-junio-2026;15:00;Nubl",
-  "actualizado_github": "2026-06-13T00:16:31.432008Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;13-junio-2026;01:00;Algo nublado;15 km;8.7;8.1; 89;Oeste  5;996.8 / \r\n Bahía Blanca;13-junio-2026;01:00;Cubierto;15 km;8.5;7.0; 87;Sur  9;1006.4 / \r\n Benito Juárez;12-junio-2026;21:00;Cubierto;15 km;11.4;No se calcula; 87;Noroeste  9;986.8 / \r\n Bolívar;12-junio-2026;21:00;Nublado;15 km;10;No se calcula; 89;Calma;1002.1 / \r\n Campo de Mayo;12-junio-2026;21:00;Despejado;10 km;8.4;No se calcula; 91;Norte  3;1012 / \r\n Coronel Suarez;12-junio-2026;21:00;Nublado;12 km;10.9;No se calcula; 93;Oeste ",
+  "actualizado_github": "2026-06-13T04:58:23.854154Z"
 }
