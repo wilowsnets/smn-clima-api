@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;13-junio-2026;10:00;Nublado;15 km;8.3;5.9; 71;Sur  14;1001 / \r\n Bahía Blanca;13-junio-2026;10:00;Cubierto con lluvia en la hora anterior;15 km;6.6;4.4; 71;Sudoeste  11;1012.2 / \r\n Benito Juárez;13-junio-2026;09:00;Cubierto con lluvia;9 km;6.2;4.3; 90;Sur  9;993.6 / \r\n Bolívar;13-junio-2026;10:00;Cubierto;15 km;8.6;4.8; 68;Sur  29;1007.8 / \r\n Campo de Mayo;13-junio-2026;10:00;Cubierto con neblina;3.0 km;9.4;8.1; 98;Oeste  9;1015.2 / \r\n Coronel Suarez;13-junio-2026;10:00;Nublado con lluvia;4.",
-  "actualizado_github": "2026-06-13T16:11:25.590561Z"
+  "primeros_500_caracteres": "Azul;13-junio-2026;13:00;Nublado con lluvia;6 km;6.7;4.5; 86;Sur  11;1002.1 / \r\n Bahía Blanca;13-junio-2026;13:00;Parcialmente nublado;15 km;7.9;4.5; 58;Sur  22;1013 / \r\n Benito Juárez;13-junio-2026;09:00;Cubierto con lluvia;9 km;6.2;4.3; 90;Sur  9;993.6 / \r\n Bolívar;13-junio-2026;13:00;Cubierto;15 km;7.2;3.6; 77;Sur  22;1009.6 / \r\n Campo de Mayo;13-junio-2026;13:00;Nublado;10 km;15;No se calcula; 75;Oeste  9;1014.6 / \r\n Coronel Suarez;13-junio-2026;12:00;Nublado con llovizna;12 km;4.9;1.4; 85;S",
+  "actualizado_github": "2026-06-13T17:51:33.439164Z"
 }
