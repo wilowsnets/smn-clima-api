@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260614.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;14-junio-2026;07:00;Despejado;15 km;-2;No se calcula; 97;Oeste  3;1005.8 / \r\n Bahía Blanca;14-junio-2026;07:00;Despejado;15 km;-2.2;-7.8; 85;Norte  18;1012.9 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;13-junio-2026;21:00;Parcialmente nublado;15 km;3.8;No se calcula; 93;Sur  3;1012.9 / \r\n Campo de Mayo;13-junio-2026;21:00;Nublado con llovizna;8 km;7.6;4.5; 90;Sur  18;1018 / \r\n Coronel Suarez;14-junio-2026;07:00;Despejado;12 km;-1.1;-6.",
-  "actualizado_github": "2026-06-14T12:21:14.940064Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Gobernador Gregores;14-junio-2026;09:00;Algo nublado;45 km;7;---; 58;---  0;969.9 /"
+  ],
+  "primeros_500_caracteres": "Azul;14-junio-2026;09:00;Despejado;15 km;-2.6;No se calcula; 97;Calma;1006.6 / \r\n Bahía Blanca;14-junio-2026;09:00;Algo nublado;15 km;-0.6;-6.0; 79;Norte  20;1012.8 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;14-junio-2026;09:00;Despejado;15 km;-3.5;No se calcula; 94;Calma;1014.4 / \r\n Campo de Mayo;14-junio-2026;09:00;Despejado;10 km;1.8;0.2; 89;Sudoeste  5;1022.8 / \r\n Coronel Suarez;14-junio-2026;09:00;Despejado;12 km;-1.6;No se calcula; 8",
+  "actualizado_github": "2026-06-14T14:38:37.579445Z"
 }
