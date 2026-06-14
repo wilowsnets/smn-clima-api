@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '---' | LINEA: Gobernador Gregores;14-junio-2026;09:00;Algo nublado;45 km;7;---; 58;---  0;969.9 /"
   ],
-  "primeros_500_caracteres": "Azul;14-junio-2026;12:00;Despejado;15 km;6;2.5; 53;Oeste  18;1006.2 / \r\n Bahía Blanca;14-junio-2026;13:00;Despejado;15 km;9.8;6.3; 59;Noroeste  29;1011.3 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;14-junio-2026;13:00;Despejado;15 km;8.4;6.0; 59;Noroeste  14;1013.7 / \r\n Campo de Mayo;14-junio-2026;13:00;Despejado;10 km;8.9;7.1; 52;Sudoeste  11;1022.4 / \r\n Coronel Suarez;14-junio-2026;12:00;Algo nublado;15 km;5.7;1.7; 71;Oeste  22;995.4 / \r\n",
-  "actualizado_github": "2026-06-14T17:56:00.442086Z"
+  "primeros_500_caracteres": "Azul;14-junio-2026;15:00;Despejado;15 km;9;6.3; 46;Oeste  18;1003.8 / \r\n Bahía Blanca;14-junio-2026;15:00;Despejado;15 km;11.5;No se calcula; 49;Noroeste  27;1009.4 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;14-junio-2026;15:00;Despejado;15 km;10.2;No se calcula; 48;Noroeste  9;1011.6 / \r\n Campo de Mayo;14-junio-2026;15:00;Despejado;10 km;9.5;8.2; 50;Oeste  9;1020.8 / \r\n Coronel Suarez;14-junio-2026;15:00;Algo nublado;15 km;9.2;6.2; 55;Oes",
+  "actualizado_github": "2026-06-14T19:20:26.831490Z"
 }
