@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260613.txt",
+  "archivo_zip_usado": "estado_tiempo20260614.txt",
   "archivos_zip": [
-    "estado_tiempo20260613.txt"
+    "estado_tiempo20260614.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;13-junio-2026;19:00;Cubierto;15 km;5.1;4.0; 92;Sudoeste  5;1003.5 / \r\n Bahía Blanca;13-junio-2026;19:00;Algo nublado;15 km;4.1;1.0; 68;Sudoeste  13;1013.7 / \r\n Benito Juárez;13-junio-2026;15:00;Nublado;15 km;5.2;No se calcula; 92;Sur  3;994.1 / \r\n Bolívar;13-junio-2026;19:00;Nublado;15 km;5;No se calcula; 96;Sur  3;1011.6 / \r\n Campo de Mayo;13-junio-2026;19:00;Nublado con lluvia;5 km;10.4;No se calcula; 98;Sur  14;1015.6 / \r\n Coronel Suarez;13-junio-2026;15:00;Nublado;12 km;6.4;3.0; 68;Sur ",
-  "actualizado_github": "2026-06-13T23:09:33.891173Z"
+  "primeros_500_caracteres": "Azul;13-junio-2026;21:00;Algo nublado;15 km;3.8;1.9; 90;Sudoeste  7;1004.7 / \r\n Bahía Blanca;13-junio-2026;21:00;Despejado;15 km;2.5;-0.1; 72;Sudoeste  9;1014.6 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;13-junio-2026;21:00;Parcialmente nublado;15 km;3.8;No se calcula; 93;Sur  3;1012.9 / \r\n Campo de Mayo;13-junio-2026;21:00;Nublado con llovizna;8 km;7.6;4.5; 90;Sur  18;1018 / \r\n Coronel Suarez;13-junio-2026;21:00;Despejado;12 km;1.2;No se ",
+  "actualizado_github": "2026-06-14T01:42:02.389831Z"
 }
