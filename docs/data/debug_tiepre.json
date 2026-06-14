@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;14-junio-2026;17:00;Despejado;15 km;8.4;5.5; 50;Oeste  18;1003.2 / \r\n Bahía Blanca;14-junio-2026;17:00;Despejado;15 km;11;No se calcula; 54;Noroeste  20;1009.3 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;14-junio-2026;17:00;Despejado;15 km;9.7;9.3; 49;Noroeste  5;1010.8 / \r\n Campo de Mayo;14-junio-2026;17:00;Despejado;10 km;8.2;7.0; 61;Sudoeste  7;1020.5 / \r\n Coronel Suarez;14-junio-2026;15:00;Algo nublado;15 km;9.2;6.2; 55;Oeste  22;9",
-  "actualizado_github": "2026-06-14T22:04:40.162326Z"
+  "primeros_500_caracteres": "Azul;14-junio-2026;19:00;Despejado;15 km;5.4;2.6; 72;Noroeste  13;1003 / \r\n Bahía Blanca;14-junio-2026;19:00;Despejado;15 km;5.1;2.6; 78;Norte  11;1009.8 / \r\n Benito Juárez;13-junio-2026;21:00;Despejado;15 km;3.1;-0.5; 84;Sudoeste  14;996.4 / \r\n Bolívar;14-junio-2026;19:00;Despejado;15 km;4.6;No se calcula; 73;Calma;1011 / \r\n Campo de Mayo;14-junio-2026;19:00;Despejado;10 km;3.4;No se calcula; 90;Calma;1021.2 / \r\n Coronel Suarez;14-junio-2026;15:00;Algo nublado;15 km;9.2;6.2; 55;Oeste  22;992.6 ",
+  "actualizado_github": "2026-06-14T23:44:42.809113Z"
 }
