@@ -4,10 +4,11 @@
   "archivos_zip": [
     "estado_tiempo20260615.txt"
   ],
-  "cantidad_estaciones": 120,
+  "cantidad_estaciones": 119,
   "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Posadas;15-junio-2026;11:00;Parcialmente nublado;20 km;12.6;---;---;Sudeste  7;1008.6 /"
+    "ERROR: could not convert string to float: '---' | LINEA: Tinogasta;15-junio-2026;12:00;Parcialmente nublado;20 km;5.9;---;---;Norte  9;881.7 /",
+    "ERROR: could not convert string to float: '-' | LINEA: Posadas;15-junio-2026;15:00;Parcialmente nublado;20 km;16.4;No se calcula; 51;Sur  11;- /"
   ],
-  "primeros_500_caracteres": "Azul;15-junio-2026;11:00;Despejado;15 km;5.7;2.7; 83;Oeste  14;1002.8 / \r\n Bahía Blanca;15-junio-2026;11:00;Despejado;15 km;8.5;5.7; 79;Norte  18;1008.6 / \r\n Benito Juárez;15-junio-2026;09:00;Despejado;15 km;2.1;No se calcula; 92;Noroeste  3;994 / \r\n Bolívar;15-junio-2026;11:00;Despejado;15 km;8.7;8.1; 74;Noroeste  5;1010 / \r\n Campo de Mayo;15-junio-2026;11:00;Algo nublado;10 km;9;7.6; 61;Noroeste  9;1021.3 / \r\n Coronel Suarez;15-junio-2026;11:00;Despejado;15 km;6.4;4.1; 85;Oeste  11;991.4 / \r\n ",
-  "actualizado_github": "2026-06-15T15:45:00.668005Z"
+  "primeros_500_caracteres": "Azul;15-junio-2026;15:00;Despejado;15 km;14.2;No se calcula; 59;Oeste  20;999.3 / \r\n Bahía Blanca;15-junio-2026;15:00;Algo nublado;15 km;16.3;No se calcula; 39;Oeste  35;1004.4 / \r\n Benito Juárez;15-junio-2026;15:00;Despejado;15 km;14;No se calcula; 54;Noroeste  24;989.3 / \r\n Bolívar;15-junio-2026;15:00;Despejado;15 km;16.8;No se calcula; 50;Noroeste  14;1006.9 / \r\n Campo de Mayo;15-junio-2026;15:00;Despejado;10 km;13.6;No se calcula; 60;Noroeste  13;1017.7 / \r\n Coronel Suarez;15-junio-2026;15:0",
+  "actualizado_github": "2026-06-15T19:42:32.358440Z"
 }
