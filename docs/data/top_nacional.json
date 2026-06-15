@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-15T19:42:32.358440Z",
-  "ultima_actualizacion_smn": "2026-06-15T15:00:00-03:00",
+  "actualizado_github": "2026-06-15T22:13:35.108669Z",
+  "ultima_actualizacion_smn": "2026-06-15T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-15T15:00:00-03:00",
+    "fecha_hora": "2026-06-15T17:00:00-03:00",
     "estado": "Cubierto con niebla",
     "visibilidad": "300 mts",
-    "temperatura": -22.8,
-    "termica": -41.1,
-    "humedad": 33,
+    "temperatura": -23.6,
+    "termica": -42.4,
+    "humedad": 21,
     "viento_dir": "Sur",
-    "viento_vel": 68,
-    "presion": 956.2
+    "viento_vel": 70,
+    "presion": 957.4
   },
   "mayor_viento": {
     "estacion": "Base Esperanza",
