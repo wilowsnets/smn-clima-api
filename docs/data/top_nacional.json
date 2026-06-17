@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-17T08:41:37.695421Z",
-  "ultima_actualizacion_smn": "2026-06-17T03:00:00-03:00",
+  "actualizado_github": "2026-06-17T12:48:50.524273Z",
+  "ultima_actualizacion_smn": "2026-06-17T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-17T03:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": -25.0,
-    "termica": null,
-    "humedad": 31,
+    "fecha_hora": "2026-06-17T07:00:00-03:00",
+    "estado": "Cubierto con niebla",
+    "visibilidad": "300 mts",
+    "temperatura": -22.3,
+    "termica": -32.9,
+    "humedad": 50,
     "viento_dir": "Noreste",
-    "viento_vel": 3,
-    "presion": 968.1
+    "viento_vel": 18,
+    "presion": 967.4
   },
   "mayor_viento": {
     "estacion": "Puerto Deseado",
@@ -43,15 +43,15 @@
     "presion": 1005.0
   },
   "mayor_humedad": {
-    "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-06-17T03:00:00-03:00",
+    "estacion": "Azul",
+    "fecha_hora": "2026-06-17T07:00:00-03:00",
     "estado": "Despejado con niebla",
-    "visibilidad": "300 mts",
-    "temperatura": 0.0,
-    "termica": null,
+    "visibilidad": "500 mts",
+    "temperatura": -0.2,
+    "termica": -3.3,
     "humedad": 100,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 1014.5
+    "viento_dir": "Sur",
+    "viento_vel": 9,
+    "presion": 1006.8
   }
 }
