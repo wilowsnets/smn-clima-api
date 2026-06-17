@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260616.txt",
+  "archivo_zip_usado": "estado_tiempo20260617.txt",
   "archivos_zip": [
-    "estado_tiempo20260616.txt"
+    "estado_tiempo20260617.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;16-junio-2026;19:00;Algo nublado;15 km;10.8;No se calcula; 43;Oeste  7;999.4 / \r\n Bahía Blanca;16-junio-2026;19:00;Despejado;15 km;9.4;8.9; 54;Sur  5;1009.4 / \r\n Benito Juárez;16-junio-2026;15:00;Despejado;15 km;15.6;No se calcula; 30;Sudoeste  14;987.4 / \r\n Bolívar;16-junio-2026;19:00;Algo nublado;15 km;12;No se calcula; 62;Calma;1006.5 / \r\n Campo de Mayo;16-junio-2026;19:00;Algo nublado;10 km;14.5;No se calcula; 79;Noroeste  9;1014 / \r\n Coronel Suarez;16-junio-2026;15:00;Algo nublado;15 k",
-  "actualizado_github": "2026-06-16T23:54:16.554196Z"
+  "primeros_500_caracteres": "Azul;16-junio-2026;23:00;Despejado;15 km;3.6;1.2; 81;Sur  9;1003.4 / \r\n Bahía Blanca;16-junio-2026;23:00;Despejado;15 km;6.8;4.0; 91;Sur  14;1013.6 / \r\n Benito Juárez;16-junio-2026;21:00;Despejado;15 km;4.7;No se calcula; 81;Sudoeste  3;993.7 / \r\n Bolívar;16-junio-2026;21:00;Algo nublado;15 km;10.2;No se calcula; 65;Calma;1008.4 / \r\n Campo de Mayo;16-junio-2026;21:00;Algo nublado;10 km;12.5;No se calcula; 83;Noroeste  5;1014.9 / \r\n Coronel Suarez;16-junio-2026;21:00;Despejado;12 km;5.4;4.3; 72;S",
+  "actualizado_github": "2026-06-17T03:29:39.611744Z"
 }
