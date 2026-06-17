@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-17T19:21:47.533175Z",
-  "ultima_actualizacion_smn": "2026-06-17T15:00:00-03:00",
+  "actualizado_github": "2026-06-17T21:27:53.492311Z",
+  "ultima_actualizacion_smn": "2026-06-17T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
-    "fecha_hora": "2026-06-17T15:00:00-03:00",
-    "estado": "Cubierto",
+    "estacion": "Iguazú",
+    "fecha_hora": "2026-06-17T17:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": 22.6,
+    "temperatura": 21.4,
     "termica": null,
-    "humedad": 68,
-    "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 1005.7
+    "humedad": 54,
+    "viento_dir": "Sur",
+    "viento_vel": 5,
+    "presion": 989.8
   },
   "mas_frio": {
     "estacion": "Base Orcadas",
@@ -31,16 +31,16 @@
     "presion": 994.9
   },
   "mayor_viento": {
-    "estacion": "Trelew",
+    "estacion": "Puerto Deseado",
     "fecha_hora": "2026-06-17T15:00:00-03:00",
-    "estado": "Algo nublado",
+    "estado": "Cubierto",
     "visibilidad": "30 km",
-    "temperatura": 14.6,
-    "termica": null,
-    "humedad": 31,
+    "temperatura": 8.6,
+    "termica": 3.9,
+    "humedad": 76,
     "viento_dir": "Norte",
-    "viento_vel": 63,
-    "presion": 1007.8
+    "viento_vel": 44,
+    "presion": 996.4
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
