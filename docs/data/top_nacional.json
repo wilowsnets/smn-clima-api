@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-17T22:58:12.180851Z",
-  "ultima_actualizacion_smn": "2026-06-17T17:00:00-03:00",
+  "actualizado_github": "2026-06-18T00:17:53.327214Z",
+  "ultima_actualizacion_smn": "2026-06-17T19:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Iguazú",
-    "fecha_hora": "2026-06-17T17:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "20 km",
-    "temperatura": 21.4,
+    "estacion": "Rafaela",
+    "fecha_hora": "2026-06-17T15:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura": 17.7,
     "termica": null,
-    "humedad": 54,
-    "viento_dir": "Sur",
-    "viento_vel": 5,
-    "presion": 989.8
+    "humedad": 60,
+    "viento_dir": "Noreste",
+    "viento_vel": 11,
+    "presion": 1011.0
   },
   "mas_frio": {
     "estacion": "Base Orcadas",
-    "fecha_hora": "2026-06-17T15:00:00-03:00",
-    "estado": "Algo nublado con neblina",
-    "visibilidad": "5 km",
+    "fecha_hora": "2026-06-17T18:00:00-03:00",
+    "estado": "Despejado",
+    "visibilidad": "20 km",
     "temperatura": -23.0,
-    "termica": -31.3,
+    "termica": -30.4,
     "humedad": 82,
-    "viento_dir": "Noreste",
-    "viento_vel": 11,
-    "presion": 994.9
+    "viento_dir": "Sur",
+    "viento_vel": 9,
+    "presion": 996.0
   },
   "mayor_viento": {
     "estacion": "Puerto Deseado",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-06-17T15:00:00-03:00",
+    "fecha_hora": "2026-06-17T18:00:00-03:00",
     "estado": "Cubierto con neblina",
     "visibilidad": "4.0 km",
-    "temperatura": -0.9,
-    "termica": -8.5,
+    "temperatura": -1.0,
+    "termica": -8.1,
     "humedad": 99,
     "viento_dir": "Oeste",
-    "viento_vel": 38,
-    "presion": 988.9
+    "viento_vel": 33,
+    "presion": 989.3
   }
 }
