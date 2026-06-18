@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-18T05:14:10.930280Z",
-  "ultima_actualizacion_smn": "2026-06-18T01:00:00-03:00",
+  "actualizado_github": "2026-06-18T09:51:52.619705Z",
+  "ultima_actualizacion_smn": "2026-06-18T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Orcadas",
-    "fecha_hora": "2026-06-18T00:00:00-03:00",
+    "fecha_hora": "2026-06-18T03:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
     "temperatura": -22.4,
-    "termica": -31.9,
+    "termica": -29.7,
     "humedad": 83,
-    "viento_dir": "Sudeste",
-    "viento_vel": 14,
-    "presion": 997.0
+    "viento_dir": "Sur",
+    "viento_vel": 9,
+    "presion": 997.7
   },
   "mayor_viento": {
     "estacion": "Río Cuarto",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-06-18T00:00:00-03:00",
-    "estado": "Cubierto con neblina",
-    "visibilidad": "4.0 km",
+    "fecha_hora": "2026-06-18T03:00:00-03:00",
+    "estado": "Cubierto con nevada",
+    "visibilidad": "3.0 km",
     "temperatura": -0.5,
-    "termica": -6.9,
+    "termica": -7.3,
     "humedad": 99,
-    "viento_dir": "Oeste",
-    "viento_vel": 27,
-    "presion": 988.6
+    "viento_dir": "Noroeste",
+    "viento_vel": 31,
+    "presion": 988.0
   }
 }
