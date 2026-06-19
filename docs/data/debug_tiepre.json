@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260618.txt",
+  "archivo_zip_usado": "estado_tiempo20260619.txt",
   "archivos_zip": [
-    "estado_tiempo20260618.txt"
+    "estado_tiempo20260619.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;18-junio-2026;19:00;Nublado con lluvia;2.0 km;8.6;7.1; 97;Noroeste  9;996.1 / \r\n Bahía Blanca;18-junio-2026;19:00;Parcialmente nublado;15 km;8;No se calcula; 82;Este  1;1005.7 / \r\n Benito Juárez;18-junio-2026;15:00;Cubierto con llovizna;9 km;9.5;7.3; 93;Norte  14;988.2 / \r\n Bolívar;18-junio-2026;19:00;Cubierto con llovizna;7 km;8.6;No se calcula; 100;Calma;1003.4 / \r\n Campo de Mayo;18-junio-2026;19:00;Cubierto;10 km;9.8;No se calcula; 98;Oeste  3;1010.8 / \r\n Coronel Suarez;18-junio-2026;15:",
-  "actualizado_github": "2026-06-18T23:16:15.861654Z"
+  "primeros_500_caracteres": "Azul;18-junio-2026;21:00;Cubierto con llovizna;700 mts;8.5;7.9; 97;Oeste  5;996.9 / \r\n Bahía Blanca;18-junio-2026;21:00;Algo nublado;15 km;5.7;4.7; 87;Noroeste  5;1006.8 / \r\n Benito Juárez;18-junio-2026;21:00;Cubierto con llovizna;8 km;8.6;No se calcula; 100;Noroeste  3;989.6 / \r\n Bolívar;18-junio-2026;21:00;Cubierto;10 km;8.5;No se calcula; 97;Calma;1003.4 / \r\n Campo de Mayo;18-junio-2026;21:00;Cubierto con neblina;2.0 km;10.2;No se calcula; 96;Sudoeste  3;1010.6 / \r\n Coronel Suarez;18-junio-20",
+  "actualizado_github": "2026-06-19T02:14:24.283773Z"
 }
