@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-19T07:36:55.103069Z",
-  "ultima_actualizacion_smn": "2026-06-19T03:00:00-03:00",
+  "actualizado_github": "2026-06-19T12:01:43.392451Z",
+  "ultima_actualizacion_smn": "2026-06-19T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-19T03:00:00-03:00",
-    "estado": "Despejado",
+    "fecha_hora": "2026-06-19T07:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "15 km",
-    "temperatura": -21.6,
-    "termica": -30.3,
-    "humedad": 31,
+    "temperatura": -22.0,
+    "termica": -31.4,
+    "humedad": 29,
     "viento_dir": "Sur",
-    "viento_vel": 13,
-    "presion": 975.7
+    "viento_vel": 14,
+    "presion": 975.8
   },
   "mayor_viento": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-19T03:00:00-03:00",
+    "fecha_hora": "2026-06-19T06:00:00-03:00",
     "estado": "Despejado con ventisca alta",
     "visibilidad": "500 mts",
-    "temperatura": -13.7,
-    "termica": -27.1,
-    "humedad": 71,
+    "temperatura": -12.8,
+    "termica": -24.8,
+    "humedad": 73,
     "viento_dir": "Sudeste",
-    "viento_vel": 53,
-    "presion": 947.4
+    "viento_vel": 42,
+    "presion": 947.8
   },
   "mayor_humedad": {
     "estacion": "Benito Juárez",
