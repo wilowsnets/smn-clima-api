@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-20T10:09:27.259633Z",
-  "ultima_actualizacion_smn": "2026-06-20T05:00:00-03:00",
+  "actualizado_github": "2026-06-20T12:13:54.129799Z",
+  "ultima_actualizacion_smn": "2026-06-20T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-20T03:00:00-03:00",
+    "fecha_hora": "2026-06-20T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -15.0,
-    "termica": -23.3,
-    "humedad": 64,
+    "temperatura": -13.7,
+    "termica": -19.4,
+    "humedad": 59,
     "viento_dir": "Sudeste",
-    "viento_vel": 16,
-    "presion": 943.0
+    "viento_vel": 9,
+    "presion": 941.2
   },
   "mayor_viento": {
-    "estacion": "Bariloche",
-    "fecha_hora": "2026-06-20T05:00:00-03:00",
-    "estado": "Cubierto con lluvia",
+    "estacion": "Base Carlini",
+    "fecha_hora": "2026-06-20T06:00:00-03:00",
+    "estado": "Nublado",
     "visibilidad": "10 km",
-    "temperatura": 2.8,
-    "termica": -3.8,
-    "humedad": 83,
-    "viento_dir": "Oeste",
-    "viento_vel": 42,
-    "presion": 912.4
+    "temperatura": -1.0,
+    "termica": -10.3,
+    "humedad": 89,
+    "viento_dir": "Noroeste",
+    "viento_vel": 63,
+    "presion": 989.8
   },
   "mayor_humedad": {
-    "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-06-19T21:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "300 mts",
-    "temperatura": 11.3,
+    "estacion": "El Palomar",
+    "fecha_hora": "2026-06-20T07:00:00-03:00",
+    "estado": "Parcialmente nublado con neblina",
+    "visibilidad": "9 km",
+    "temperatura": -1.2,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Oeste",
-    "viento_vel": 9,
-    "presion": 924.2
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1016.2
   }
 }
