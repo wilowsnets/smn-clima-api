@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-20T20:48:21.065277Z",
-  "ultima_actualizacion_smn": "2026-06-20T15:00:00-03:00",
+  "actualizado_github": "2026-06-20T22:02:07.648266Z",
+  "ultima_actualizacion_smn": "2026-06-20T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,16 +31,16 @@
     "presion": 935.4
   },
   "mayor_viento": {
-    "estacion": "Bariloche",
+    "estacion": "Base Carlini",
     "fecha_hora": "2026-06-20T15:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "10 km",
-    "temperatura": 6.2,
-    "termica": 0.2,
-    "humedad": 65,
+    "estado": "Cubierto con nevada",
+    "visibilidad": "3.0 km",
+    "temperatura": 0.7,
+    "termica": -7.2,
+    "humedad": 98,
     "viento_dir": "Noroeste",
-    "viento_vel": 51,
-    "presion": 910.1
+    "viento_vel": 50,
+    "presion": 982.4
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
