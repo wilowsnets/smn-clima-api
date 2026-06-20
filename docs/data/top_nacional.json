@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-20T14:39:22.090760Z",
-  "ultima_actualizacion_smn": "2026-06-20T09:00:00-03:00",
+  "actualizado_github": "2026-06-20T16:13:37.565208Z",
+  "ultima_actualizacion_smn": "2026-06-20T11:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Chilecito",
-    "fecha_hora": "2026-06-19T21:00:00-03:00",
+    "estacion": "Esc. Aviación Militar",
+    "fecha_hora": "2026-06-20T11:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "29 km",
-    "temperatura": 13.0,
+    "visibilidad": "10 km",
+    "temperatura": 17.4,
     "termica": null,
-    "humedad": 55,
-    "viento_dir": "Sur",
-    "viento_vel": 5,
-    "presion": 912.3
+    "humedad": 42,
+    "viento_dir": "Norte",
+    "viento_vel": 27,
+    "presion": 954.4
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 939.4
   },
   "mayor_viento": {
-    "estacion": "Base Carlini",
-    "fecha_hora": "2026-06-20T09:00:00-03:00",
-    "estado": "Cubierto con neblina",
-    "visibilidad": "5 km",
-    "temperatura": 0.3,
-    "termica": -7.7,
-    "humedad": 92,
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-06-20T11:00:00-03:00",
+    "estado": "Nublado con ventisca baja",
+    "visibilidad": "6 km",
+    "temperatura": -2.6,
+    "termica": -12.3,
+    "humedad": 80,
     "viento_dir": "Noroeste",
-    "viento_vel": 50,
-    "presion": 987.2
+    "viento_vel": 59,
+    "presion": 953.7
   },
   "mayor_humedad": {
     "estacion": "Bernardo De Irigoyen",

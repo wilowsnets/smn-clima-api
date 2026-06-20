@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260620.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;20-junio-2026;09:00;Parcialmente nublado;15 km;0.4;No se calcula; 97;Calma;998.8 / \r\n Bahía Blanca;20-junio-2026;09:00;Cubierto;15 km;9.4;6.1; 62;Norte  25;1002.2 / \r\n Benito Juárez;20-junio-2026;09:00;Algo nublado;15 km;4;0.6; 77;Noroeste  14;989.3 / \r\n Bolívar;20-junio-2026;09:00;Nublado;12 km;3.5;No se calcula; 91;Calma;1005.6 / \r\n Campo de Mayo;20-junio-2026;09:00;Parcialmente nublado;10 km;7;5.6; 81;Norte  7;1015 / \r\n Coronel Suarez;20-junio-2026;09:00;Nublado;15 km;2.1;-0.6; 85;Norest",
-  "actualizado_github": "2026-06-20T14:39:22.090760Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Esquel;20-junio-2026;11:00;Parcialmente nublado con lluvia;20 km;4.1;---;---;Oeste  24;911.1 /"
+  ],
+  "primeros_500_caracteres": "Azul;20-junio-2026;11:00;Parcialmente nublado;15 km;8.8;6.7; 65;Noroeste  13;998 / \r\n Bahía Blanca;20-junio-2026;11:00;Algo nublado;15 km;10.9;No se calcula; 61;Noroeste  25;1002.4 / \r\n Benito Juárez;20-junio-2026;09:00;Algo nublado;15 km;4;0.6; 77;Noroeste  14;989.3 / \r\n Bolívar;20-junio-2026;11:00;Nublado;15 km;8.1;6.5; 79;Norte  9;1004.8 / \r\n Campo de Mayo;20-junio-2026;11:00;Parcialmente nublado;10 km;9;8.5; 75;Norte  5;1015.8 / \r\n Coronel Suarez;20-junio-2026;11:00;Nublado;15 km;8;5.2; 69;N",
+  "actualizado_github": "2026-06-20T16:13:37.565208Z"
 }
