@@ -6,9 +6,9 @@
   ],
   "cantidad_estaciones": 119,
   "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '-' | LINEA: Córdoba Observatorio;21-junio-2026;11:00;Parcialmente nublado;10 km;11;No se calcula; 64;Sur  1;- /",
-    "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /"
+    "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /",
+    "ERROR: could not convert string to float: '-' | LINEA: Maquinchao;21-junio-2026;13:00;Parcialmente nublado;40 km;5.4;2.3; 57;Oeste  14;- /"
   ],
-  "primeros_500_caracteres": "Azul;21-junio-2026;11:00;Algo nublado;15 km;9.1;8.1; 62;Sudoeste  7;996.6 / \r\n Bahía Blanca;21-junio-2026;11:00;Algo nublado;15 km;8.9;6.0; 53;Noroeste  20;1003 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;11:00;Despejado;15 km;9;8.5; 61;Noroeste  5;1004.6 / \r\n Campo de Mayo;21-junio-2026;11:00;Nublado;10 km;10.6;No se calcula; 72;Noroeste  5;1013.8 / \r\n Coronel Suarez;21-junio-2026;11:00;Despejado;15 km;8;5.0; 59;Oeste  18;986.4",
-  "actualizado_github": "2026-06-21T17:01:15.965049Z"
+  "primeros_500_caracteres": "Azul;21-junio-2026;13:00;Algo nublado;15 km;13;No se calcula; 46;Oeste  16;996.2 / \r\n Bahía Blanca;21-junio-2026;13:00;Despejado;15 km;11.2;No se calcula; 47;Oeste  20;1002.6 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;13:00;Despejado;15 km;14.1;No se calcula; 43;Oeste  9;1003.8 / \r\n Campo de Mayo;21-junio-2026;13:00;Parcialmente nublado con neblina;9 km;14.2;No se calcula; 61;Noroeste  9;1012.9 / \r\n Coronel Suarez;21-junio-2026",
+  "actualizado_github": "2026-06-21T18:58:07.403586Z"
 }
