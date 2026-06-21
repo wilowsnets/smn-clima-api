@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-21T13:22:10.678683Z",
-  "ultima_actualizacion_smn": "2026-06-21T09:00:00-03:00",
+  "actualizado_github": "2026-06-21T15:22:05.295878Z",
+  "ultima_actualizacion_smn": "2026-06-21T11:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Chilecito",
-    "fecha_hora": "2026-06-19T21:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "29 km",
-    "temperatura": 13.0,
+    "estacion": "Resistencia",
+    "fecha_hora": "2026-06-21T11:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura": 15.5,
     "termica": null,
-    "humedad": 55,
-    "viento_dir": "Sur",
-    "viento_vel": 5,
-    "presion": 912.3
+    "humedad": 72,
+    "viento_dir": "Noreste",
+    "viento_vel": 9,
+    "presion": 1008.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 974.0
   },
   "mayor_humedad": {
-    "estacion": "Iguazú",
-    "fecha_hora": "2026-06-21T09:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "400 mts",
-    "temperatura": 9.5,
-    "termica": 7.6,
+    "estacion": "Mount Pleasant Airport (Islas Malvinas)",
+    "fecha_hora": "2026-06-21T11:00:00-03:00",
+    "estado": "Cubierto",
+    "visibilidad": "Sin información",
+    "temperatura": 3.9,
+    "termica": 0.8,
     "humedad": 100,
-    "viento_dir": "Este",
+    "viento_dir": "Norte",
     "viento_vel": 13,
-    "presion": 984.8
+    "presion": 998.1
   }
 }

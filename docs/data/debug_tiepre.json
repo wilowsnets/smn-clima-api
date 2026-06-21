@@ -4,10 +4,11 @@
   "archivos_zip": [
     "estado_tiempo20260621.txt"
   ],
-  "cantidad_estaciones": 120,
+  "cantidad_estaciones": 119,
   "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '-' | LINEA: Córdoba Observatorio;21-junio-2026;11:00;Parcialmente nublado;10 km;11;No se calcula; 64;Sur  1;- /",
     "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /"
   ],
-  "primeros_500_caracteres": "Azul;21-junio-2026;09:00;Algo nublado con neblina;9 km;2.8;-0.6; 89;Oeste  13;995.8 / \r\n Bahía Blanca;21-junio-2026;09:00;Algo nublado;15 km;1.2;-3.2; 83;Norte  16;1002 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;09:00;Despejado;10 km;2.6;No se calcula; 93;Calma;1003.6 / \r\n Campo de Mayo;21-junio-2026;09:00;Parcialmente nublado;10 km;6.4;No se calcula; 90;Calma;1012.8 / \r\n Coronel Suarez;21-junio-2026;09:00;Despejado;15 km;3.1;-",
-  "actualizado_github": "2026-06-21T13:22:10.678683Z"
+  "primeros_500_caracteres": "Azul;21-junio-2026;11:00;Algo nublado;15 km;9.1;8.1; 62;Sudoeste  7;996.6 / \r\n Bahía Blanca;21-junio-2026;11:00;Algo nublado;15 km;8.9;6.0; 53;Noroeste  20;1003 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;11:00;Despejado;15 km;9;8.5; 61;Noroeste  5;1004.6 / \r\n Campo de Mayo;21-junio-2026;11:00;Nublado;10 km;10.6;No se calcula; 72;Noroeste  5;1013.8 / \r\n Coronel Suarez;21-junio-2026;11:00;Despejado;15 km;8;5.0; 59;Oeste  18;986.4",
+  "actualizado_github": "2026-06-21T15:22:05.295878Z"
 }
