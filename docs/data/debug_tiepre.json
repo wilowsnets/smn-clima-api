@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /"
   ],
-  "primeros_500_caracteres": "Azul;20-junio-2026;23:00;Algo nublado;15 km;6.1;4.1; 87;Oeste  9;995.2 / \r\n Bahía Blanca;20-junio-2026;23:00;Parcialmente nublado;15 km;3.7;0.9; 67;Noroeste  11;999.8 / \r\n Benito Juárez;20-junio-2026;15:00;Parcialmente nublado;15 km;11.8;No se calcula; 59;Noroeste  14;985.3 / \r\n Bolívar;20-junio-2026;20:00;Parcialmente nublado;15 km;7.2;No se calcula; 85;Noroeste  3;1001.3 / \r\n Campo de Mayo;20-junio-2026;21:00;Parcialmente nublado;10 km;7.2;No se calcula; 94;Norte  3;1010.2 / \r\n Coronel Suarez;",
-  "actualizado_github": "2026-06-21T03:31:46.175374Z"
+  "primeros_500_caracteres": "Azul;21-junio-2026;03:00;Despejado;15 km;5.3;2.8; 88;Noroeste  11;995.8 / \r\n Bahía Blanca;21-junio-2026;03:00;Despejado;15 km;4.3;0.6; 69;Norte  16;1000.6 / \r\n Benito Juárez;20-junio-2026;15:00;Parcialmente nublado;15 km;11.8;No se calcula; 59;Noroeste  14;985.3 / \r\n Bolívar;20-junio-2026;20:00;Parcialmente nublado;15 km;7.2;No se calcula; 85;Noroeste  3;1001.3 / \r\n Campo de Mayo;20-junio-2026;21:00;Parcialmente nublado;10 km;7.2;No se calcula; 94;Norte  3;1010.2 / \r\n Coronel Suarez;20-junio-202",
+  "actualizado_github": "2026-06-21T08:23:46.021357Z"
 }
