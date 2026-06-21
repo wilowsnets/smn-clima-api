@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-21T20:26:03.643431Z",
-  "ultima_actualizacion_smn": "2026-06-21T15:00:00-03:00",
+  "actualizado_github": "2026-06-21T21:52:48.626421Z",
+  "ultima_actualizacion_smn": "2026-06-21T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Salta",
-    "fecha_hora": "2026-06-21T15:00:00-03:00",
+    "estacion": "Orán",
+    "fecha_hora": "2026-06-21T17:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": 21.3,
+    "visibilidad": "10 km",
+    "temperatura": 21.4,
     "termica": null,
-    "humedad": 36,
-    "viento_dir": "Noreste",
-    "viento_vel": 13,
-    "presion": 869.0
+    "humedad": 44,
+    "viento_dir": "Sur",
+    "viento_vel": 14,
+    "presion": 963.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 944.9
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-21T15:00:00-03:00",
-    "estado": "Algo nublado con ventisca baja",
+    "estacion": "Santa Cruz",
+    "fecha_hora": "2026-06-20T21:00:00-03:00",
+    "estado": "Cubierto con llovizna",
     "visibilidad": "15 km",
-    "temperatura": -9.6,
-    "termica": -21.4,
-    "humedad": 66,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 51,
-    "presion": 940.1
+    "temperatura": 4.0,
+    "termica": -2.5,
+    "humedad": 91,
+    "viento_dir": "Sur",
+    "viento_vel": 46,
+    "presion": 986.8
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
