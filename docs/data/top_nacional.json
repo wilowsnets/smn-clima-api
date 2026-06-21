@@ -1,33 +1,33 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-20T23:43:14.464361Z",
-  "ultima_actualizacion_smn": "2026-06-20T19:00:00-03:00",
+  "actualizado_github": "2026-06-21T03:31:46.175374Z",
+  "ultima_actualizacion_smn": "2026-06-20T23:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Jachal",
-    "fecha_hora": "2026-06-20T18:00:00-03:00",
-    "estado": "Parcialmente nublado con polvo levantado por viento",
-    "visibilidad": "9 km",
-    "temperatura": 26.8,
+    "estacion": "Metán",
+    "fecha_hora": "2026-06-20T15:00:00-03:00",
+    "estado": "Despejado con bruma",
+    "visibilidad": "20 km",
+    "temperatura": 21.5,
     "termica": null,
-    "humedad": 9,
-    "viento_dir": "Oeste",
+    "humedad": 48,
+    "viento_dir": "Este",
     "viento_vel": 24,
-    "presion": 875.7
+    "presion": 912.1
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-20T18:00:00-03:00",
-    "estado": "Despejado",
+    "fecha_hora": "2026-06-20T21:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -20.9,
-    "termica": -26.9,
-    "humedad": 55,
-    "viento_dir": "Este",
-    "viento_vel": 7,
+    "temperatura": -21.4,
+    "termica": null,
+    "humedad": 60,
+    "viento_dir": "Sur",
+    "viento_vel": 3,
     "presion": 934.5
   },
   "mayor_viento": {
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-06-20T18:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "20 km",
-    "temperatura": 10.5,
-    "termica": null,
-    "humedad": 98,
+    "fecha_hora": "2026-06-20T21:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "800 mts",
+    "temperatura": 9.4,
+    "termica": 8.1,
+    "humedad": 100,
     "viento_dir": "Norte",
     "viento_vel": 9,
-    "presion": 921.3
+    "presion": 921.8
   }
 }

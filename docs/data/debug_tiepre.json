@@ -1,11 +1,13 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260620.txt",
+  "archivo_zip_usado": "estado_tiempo20260621.txt",
   "archivos_zip": [
-    "estado_tiempo20260620.txt"
+    "estado_tiempo20260621.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;20-junio-2026;19:00;Parcialmente nublado;15 km;9.9;8.1; 69;Norte  13;993.4 / \r\n Bahía Blanca;20-junio-2026;19:00;Despejado;15 km;9.7;7.6; 55;Noroeste  14;999.4 / \r\n Benito Juárez;20-junio-2026;15:00;Parcialmente nublado;15 km;11.8;No se calcula; 59;Noroeste  14;985.3 / \r\n Bolívar;20-junio-2026;19:00;Parcialmente nublado;15 km;9.6;8.3; 74;Noroeste  9;1000.6 / \r\n Campo de Mayo;20-junio-2026;19:00;Parcialmente nublado;10 km;10;No se calcula; 85;Norte  3;1010.6 / \r\n Coronel Suarez;20-junio-2026",
-  "actualizado_github": "2026-06-20T23:43:14.464361Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /"
+  ],
+  "primeros_500_caracteres": "Azul;20-junio-2026;23:00;Algo nublado;15 km;6.1;4.1; 87;Oeste  9;995.2 / \r\n Bahía Blanca;20-junio-2026;23:00;Parcialmente nublado;15 km;3.7;0.9; 67;Noroeste  11;999.8 / \r\n Benito Juárez;20-junio-2026;15:00;Parcialmente nublado;15 km;11.8;No se calcula; 59;Noroeste  14;985.3 / \r\n Bolívar;20-junio-2026;20:00;Parcialmente nublado;15 km;7.2;No se calcula; 85;Noroeste  3;1001.3 / \r\n Campo de Mayo;20-junio-2026;21:00;Parcialmente nublado;10 km;7.2;No se calcula; 94;Norte  3;1010.2 / \r\n Coronel Suarez;",
+  "actualizado_github": "2026-06-21T03:31:46.175374Z"
 }
