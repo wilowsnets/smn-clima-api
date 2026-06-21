@@ -4,11 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260621.txt"
   ],
-  "cantidad_estaciones": 119,
+  "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /",
-    "ERROR: could not convert string to float: '-' | LINEA: Maquinchao;21-junio-2026;13:00;Parcialmente nublado;40 km;5.4;2.3; 57;Oeste  14;- /"
+    "ERROR: could not convert string to float: '-' | LINEA: Cipolletti;20-junio-2026;21:00;Parcialmente nublado;25 km;11.6;No se calcula; 34;Noroeste  9;- /"
   ],
-  "primeros_500_caracteres": "Azul;21-junio-2026;13:00;Algo nublado;15 km;13;No se calcula; 46;Oeste  16;996.2 / \r\n Bahía Blanca;21-junio-2026;13:00;Despejado;15 km;11.2;No se calcula; 47;Oeste  20;1002.6 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;13:00;Despejado;15 km;14.1;No se calcula; 43;Oeste  9;1003.8 / \r\n Campo de Mayo;21-junio-2026;13:00;Parcialmente nublado con neblina;9 km;14.2;No se calcula; 61;Noroeste  9;1012.9 / \r\n Coronel Suarez;21-junio-2026",
-  "actualizado_github": "2026-06-21T18:58:07.403586Z"
+  "primeros_500_caracteres": "Azul;21-junio-2026;15:00;Algo nublado;15 km;14.4;No se calcula; 42;Sudoeste  13;995.4 / \r\n Bahía Blanca;21-junio-2026;15:00;Algo nublado;15 km;13.3;No se calcula; 43;Oeste  18;1002.6 / \r\n Benito Juárez;20-junio-2026;21:00;Despejado;15 km;7.1;5.3; 84;Noroeste  9;985.7 / \r\n Bolívar;21-junio-2026;15:00;Despejado;15 km;15.8;No se calcula; 32;Oeste  24;1003 / \r\n Campo de Mayo;21-junio-2026;15:00;Nublado con neblina;9 km;14.4;No se calcula; 64;Noroeste  7;1012.1 / \r\n Coronel Suarez;21-junio-2026;15:00",
+  "actualizado_github": "2026-06-21T20:26:03.643431Z"
 }
