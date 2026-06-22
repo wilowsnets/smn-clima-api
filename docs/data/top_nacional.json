@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-22T21:29:29.296440Z",
+  "actualizado_github": "2026-06-22T23:03:48.958261Z",
   "ultima_actualizacion_smn": "2026-06-22T17:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Rivadavia",
     "fecha_hora": "2026-06-22T15:00:00-03:00",
