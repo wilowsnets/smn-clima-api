@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260622.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Oberá;22-junio-2026;09:00;Cubierto;20 km;---;---;---;Sudeste  3;979.8 /"
-  ],
-  "primeros_500_caracteres": "Azul;22-junio-2026;13:00;Parcialmente nublado;15 km;8.8;7.0; 65;Sudoeste  11;1000.1 / \r\n Bahía Blanca;22-junio-2026;13:00;Parcialmente nublado con llovizna en la hora anterior;15 km;7.4;3.9; 86;Oeste  22;1009.4 / \r\n Benito Juárez;22-junio-2026;09:00;Parcialmente nublado;15 km;1.3;No se calcula; 94;Noroeste  3;991.6 / \r\n Bolívar;22-junio-2026;13:00;Parcialmente nublado;15 km;9;5.6; 61;Sur  25;1008.6 / \r\n Campo de Mayo;22-junio-2026;13:00;Parcialmente nublado;10 km;10.3;No se calcula; 70;Sudoeste ",
-  "actualizado_github": "2026-06-22T18:43:07.426240Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;22-junio-2026;17:00;Parcialmente nublado con lluvia;15 km;8.6;7.5; 68;Sudoeste  7;998.6 / \r\n Bahía Blanca;22-junio-2026;17:00;Nublado;15 km;9.7;7.2; 68;Oeste  18;1007.8 / \r\n Benito Juárez;22-junio-2026;15:00;Cubierto;15 km;7.9;6.3; 76;Oeste  9;990.1 / \r\n Bolívar;22-junio-2026;17:00;Cubierto;15 km;9.4;6.4; 59;Sudoeste  22;1006.9 / \r\n Campo de Mayo;22-junio-2026;16:00;Parcialmente nublado;10 km;10.2;No se calcula; 75;Sudoeste  18;1013.8 / \r\n Coronel Suarez;22-junio-2026;15:00;Parcialmente nub",
+  "actualizado_github": "2026-06-22T21:29:29.296440Z"
 }
