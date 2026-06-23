@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-23T05:43:49.879453Z",
-  "ultima_actualizacion_smn": "2026-06-23T01:00:00-03:00",
+  "actualizado_github": "2026-06-23T09:29:10.670093Z",
+  "ultima_actualizacion_smn": "2026-06-23T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-23T00:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "20 km",
-    "temperatura": -19.6,
-    "termica": null,
-    "humedad": 58,
-    "viento_dir": "Este",
-    "viento_vel": 3,
-    "presion": 953.6
+    "fecha_hora": "2026-06-23T03:00:00-03:00",
+    "estado": "Algo nublado con ventisca baja",
+    "visibilidad": "5 km",
+    "temperatura": -21.1,
+    "termica": -35.1,
+    "humedad": 67,
+    "viento_dir": "Sudeste",
+    "viento_vel": 37,
+    "presion": 953.0
   },
   "mayor_viento": {
     "estacion": "Perito Moreno",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Mar del Plata",
-    "fecha_hora": "2026-06-23T01:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-06-23T05:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "10 km",
-    "temperatura": 5.4,
-    "termica": 2.6,
+    "temperatura": 4.4,
+    "termica": 2.1,
     "humedad": 100,
     "viento_dir": "Oeste",
-    "viento_vel": 13,
-    "presion": 1010.3
+    "viento_vel": 9,
+    "presion": 1008.3
   }
 }
