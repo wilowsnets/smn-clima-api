@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260622.txt",
+  "archivo_zip_usado": "estado_tiempo20260623.txt",
   "archivos_zip": [
-    "estado_tiempo20260622.txt"
+    "estado_tiempo20260623.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;22-junio-2026;17:00;Parcialmente nublado con lluvia;15 km;8.6;7.5; 68;Sudoeste  7;998.6 / \r\n Bahía Blanca;22-junio-2026;17:00;Nublado;15 km;9.7;7.2; 68;Oeste  18;1007.8 / \r\n Benito Juárez;22-junio-2026;15:00;Cubierto;15 km;7.9;6.3; 76;Oeste  9;990.1 / \r\n Bolívar;22-junio-2026;17:00;Cubierto;15 km;9.4;6.4; 59;Sudoeste  22;1006.9 / \r\n Campo de Mayo;22-junio-2026;16:00;Parcialmente nublado;10 km;10.2;No se calcula; 75;Sudoeste  18;1013.8 / \r\n Coronel Suarez;22-junio-2026;15:00;Parcialmente nub",
-  "actualizado_github": "2026-06-22T23:03:48.958261Z"
+  "primeros_500_caracteres": "Azul;22-junio-2026;21:00;Nublado;15 km;5;3.9; 96;Sudoeste  5;998.6 / \r\n Bahía Blanca;22-junio-2026;21:00;Cubierto;15 km;7.2;4.2; 77;Oeste  16;1008.2 / \r\n Benito Juárez;22-junio-2026;21:00;Cubierto;15 km;5.3;3.2; 96;Sudoeste  9;989.8 / \r\n Bolívar;22-junio-2026;21:00;Parcialmente nublado;15 km;5.6;3.2; 79;Sudoeste  11;1007.2 / \r\n Campo de Mayo;22-junio-2026;21:00;Parcialmente nublado;10 km;7;5.6; 87;Sudoeste  7;1014.9 / \r\n Coronel Suarez;22-junio-2026;21:00;Algo nublado;12 km;5.8;3.4; 61;Oeste  11",
+  "actualizado_github": "2026-06-23T01:28:46.636054Z"
 }
