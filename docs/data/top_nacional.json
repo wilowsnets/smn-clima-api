@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-23T23:52:03.791459Z",
-  "ultima_actualizacion_smn": "2026-06-23T19:00:00-03:00",
+  "actualizado_github": "2026-06-24T02:42:34.847199Z",
+  "ultima_actualizacion_smn": "2026-06-23T21:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -19,39 +19,39 @@
     "presion": 979.3
   },
   "mas_frio": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-23T19:00:00-03:00",
+    "estacion": "Base Belgrano II",
+    "fecha_hora": "2026-06-23T21:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": -20.4,
-    "termica": -31.5,
-    "humedad": 30,
-    "viento_dir": "Sur",
-    "viento_vel": 22,
-    "presion": 977.0
+    "visibilidad": "20 km",
+    "temperatura": -19.9,
+    "termica": -30.4,
+    "humedad": 26,
+    "viento_dir": "Este",
+    "viento_vel": 20,
+    "presion": 949.7
   },
   "mayor_viento": {
-    "estacion": "Pigué",
-    "fecha_hora": "2026-06-23T15:00:00-03:00",
-    "estado": "Algo nublado con llovizna en la hora anterior",
+    "estacion": "Tinogasta",
+    "fecha_hora": "2026-06-23T18:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 8.3,
-    "termica": 4.1,
-    "humedad": 67,
+    "temperatura": 14.6,
+    "termica": null,
+    "humedad": 39,
     "viento_dir": "Sur",
     "viento_vel": 33,
-    "presion": 979.8
+    "presion": 879.1
   },
   "mayor_humedad": {
     "estacion": "Mar del Plata",
-    "fecha_hora": "2026-06-23T19:00:00-03:00",
-    "estado": "Algo nublado con lluvia en la hora anterior",
-    "visibilidad": "10 km",
-    "temperatura": 7.0,
-    "termica": 5.2,
-    "humedad": 97,
+    "fecha_hora": "2026-06-23T21:00:00-03:00",
+    "estado": "Parcialmente nublado con lluvia en la hora anterior",
+    "visibilidad": "7 km",
+    "temperatura": 7.1,
+    "termica": 4.4,
+    "humedad": 98,
     "viento_dir": "Oeste",
-    "viento_vel": 9,
-    "presion": 1011.3
+    "viento_vel": 14,
+    "presion": 1012.0
   }
 }
