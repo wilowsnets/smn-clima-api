@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;24-junio-2026;13:00;Parcialmente nublado;15 km;5;3.3; 84;Noroeste  7;997.6 / \r\n Bahía Blanca;24-junio-2026;13:00;Cubierto con lluvia;15 km;5.9;2.4; 73;Norte  18;1002.2 / \r\n Benito Juárez;24-junio-2026;09:00;Parcialmente nublado;12 km;0.5;No se calcula; 95;Noroeste  3;990.5 / \r\n Bolívar;24-junio-2026;13:00;Cubierto;15 km;5;3.9; 80;Noroeste  5;1005.6 / \r\n Campo de Mayo;24-junio-2026;13:00;Parcialmente nublado;10 km;11.2;No se calcula; 66;Oeste  16;1014.6 / \r\n Coronel Suarez;24-junio-2026;12:0",
-  "actualizado_github": "2026-06-24T17:49:54.723331Z"
+  "primeros_500_caracteres": "Azul;24-junio-2026;15:00;Nublado;15 km;5.6;3.2; 81;Noroeste  11;996.2 / \r\n Bahía Blanca;24-junio-2026;15:00;Nublado con lluvia;15 km;6.9;3.1; 75;Norte  24;1000.5 / \r\n Benito Juárez;24-junio-2026;15:00;Cubierto;12 km;5.9;No se calcula; 80;Noroeste  3;987.3 / \r\n Bolívar;24-junio-2026;15:00;Cubierto;15 km;7.1;6.3; 68;Noroeste  5;1002.9 / \r\n Campo de Mayo;24-junio-2026;15:00;Parcialmente nublado;10 km;10.5;No se calcula; 69;Noroeste  13;1013 / \r\n Coronel Suarez;24-junio-2026;15:00;Nublado;15 km;7.3;",
+  "actualizado_github": "2026-06-24T19:38:35.574980Z"
 }
