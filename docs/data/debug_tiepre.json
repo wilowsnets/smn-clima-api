@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;24-junio-2026;07:00;Despejado con neblina;9 km;-1.2;No se calcula; 100;Noroeste  3;998.1 / \r\n Bahía Blanca;24-junio-2026;07:00;Parcialmente nublado;15 km;-1.3;-5.6; 95;Norte  13;1004.6 / \r\n Benito Juárez;23-junio-2026;21:00;Algo nublado;15 km;5.6;No se calcula; 96;Oeste  3;989.8 / \r\n Bolívar;23-junio-2026;21:00;Despejado;15 km;2.2;No se calcula; 96;Calma;1008.1 / \r\n Campo de Mayo;23-junio-2026;21:00;Parcialmente nublado;10 km;8.1;6.9; 66;Oeste  7;1015.3 / \r\n Coronel Suarez;24-junio-2026;07:",
-  "actualizado_github": "2026-06-24T12:32:40.208953Z"
+  "primeros_500_caracteres": "Azul;24-junio-2026;11:00;Parcialmente nublado con neblina;15 km;3.8;2.5; 90;Noroeste  5;998.8 / \r\n Bahía Blanca;24-junio-2026;11:00;Cubierto;15 km;4.1;-0.1; 74;Noroeste  20;1004.1 / \r\n Benito Juárez;24-junio-2026;09:00;Parcialmente nublado;12 km;0.5;No se calcula; 95;Noroeste  3;990.5 / \r\n Bolívar;24-junio-2026;11:00;Nublado;15 km;2.7;1.3; 82;Noroeste  5;1006.8 / \r\n Campo de Mayo;24-junio-2026;11:00;Despejado con banco delgado de niebla;8 km;9.2;No se calcula; 75;Noroeste  3;1015.4 / \r\n Coronel ",
+  "actualizado_github": "2026-06-24T15:31:13.354378Z"
 }
