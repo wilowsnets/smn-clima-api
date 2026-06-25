@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-25T13:33:48.533785Z",
-  "ultima_actualizacion_smn": "2026-06-25T10:00:00-03:00",
+  "actualizado_github": "2026-06-25T16:19:15.137629Z",
+  "ultima_actualizacion_smn": "2026-06-25T11:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Formosa",
-    "fecha_hora": "2026-06-25T09:00:00-03:00",
+    "estacion": "Monte Caseros",
+    "fecha_hora": "2026-06-25T11:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 9.6,
+    "temperatura": 16.0,
     "termica": null,
-    "humedad": 83,
-    "viento_dir": "Sudeste",
-    "viento_vel": 3,
-    "presion": 1017.7
+    "humedad": 50,
+    "viento_dir": "Noroeste",
+    "viento_vel": 20,
+    "presion": 1018.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 990.6
   },
   "mayor_humedad": {
-    "estacion": "Bahía Blanca",
+    "estacion": "Victorica",
     "fecha_hora": "2026-06-25T09:00:00-03:00",
-    "estado": "Cubierto con niebla en la hora anterior",
-    "visibilidad": "1.2 km",
-    "temperatura": 4.8,
-    "termica": 2.2,
-    "humedad": 100,
+    "estado": "Despejado",
+    "visibilidad": "40 km",
+    "temperatura": -1.0,
+    "termica": null,
+    "humedad": 99,
     "viento_dir": "Oeste",
-    "viento_vel": 11,
-    "presion": 1010.2
+    "viento_vel": 3,
+    "presion": 985.7
   }
 }
