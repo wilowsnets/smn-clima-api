@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260625.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Puerto Deseado;24-junio-2026;21:00;Despejado;30 km;---;---;---;Calma;1006 /"
-  ],
-  "primeros_500_caracteres": "Azul;25-junio-2026;05:00;Despejado;15 km;2.8;-0.2; 93;Norte  11;997.8 / \r\n Bahía Blanca;25-junio-2026;05:00;Parcialmente nublado;15 km;3.2;-0.1; 96;Oeste  13;1008.1 / \r\n Benito Juárez;24-junio-2026;21:00;Cubierto;15 km;5.1;No se calcula; 84;Noroeste  3;987.8 / \r\n Bolívar;24-junio-2026;21:00;Parcialmente nublado;10 km;4.9;No se calcula; 85;Calma;1003.8 / \r\n Campo de Mayo;24-junio-2026;21:00;Parcialmente nublado;10 km;7.5;6.7; 88;Noroeste  5;1014.1 / \r\n Coronel Suarez;24-junio-2026;21:00;Parcialme",
-  "actualizado_github": "2026-06-25T11:12:44.304499Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;25-junio-2026;09:00;Cubierto con neblina;4.0 km;2.3;-0.4; 96;Sur  9;1000.1 / \r\n Bahía Blanca;25-junio-2026;09:00;Cubierto con niebla en la hora anterior;1.2 km;4.8;2.2; 100;Oeste  11;1010.2 / \r\n Benito Juárez;25-junio-2026;09:00;Cubierto con neblina;8 km;4.2;0.8; 98;Sudoeste  14;991.4 / \r\n Bolívar;25-junio-2026;09:00;Despejado;15 km;1.6;-1.7; 92;Oeste  11;1009 / \r\n Campo de Mayo;25-junio-2026;09:00;Despejado;10 km;7.8;5.5; 72;Noroeste  13;1016.2 / \r\n Coronel Suarez;25-junio-2026;09:00;Parci",
+  "actualizado_github": "2026-06-25T13:33:48.533785Z"
 }
