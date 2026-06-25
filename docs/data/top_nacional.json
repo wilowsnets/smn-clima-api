@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-25T22:17:34.111578Z",
-  "ultima_actualizacion_smn": "2026-06-25T18:00:00-03:00",
+  "actualizado_github": "2026-06-25T23:50:40.652288Z",
+  "ultima_actualizacion_smn": "2026-06-25T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Catamarca",
-    "fecha_hora": "2026-06-25T18:00:00-03:00",
+    "estacion": "Chepes",
+    "fecha_hora": "2026-06-25T15:00:00-03:00",
     "estado": "Despejado",
-    "visibilidad": "20 km",
-    "temperatura": 20.2,
+    "visibilidad": "15 km",
+    "temperatura": 19.6,
     "termica": null,
-    "humedad": 39,
-    "viento_dir": "Noreste",
-    "viento_vel": 5,
-    "presion": 962.8
+    "humedad": 36,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 944.6
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 998.1
   },
   "mayor_humedad": {
-    "estacion": "Paso De Indios",
-    "fecha_hora": "2026-06-25T18:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "45 km",
-    "temperatura": 4.2,
-    "termica": 2.4,
-    "humedad": 94,
-    "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 952.4
+    "estacion": "Mar del Plata",
+    "fecha_hora": "2026-06-25T20:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura": 3.7,
+    "termica": null,
+    "humedad": 98,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1017.2
   }
 }
