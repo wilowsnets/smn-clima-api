@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '---' | LINEA: Puerto Deseado;24-junio-2026;21:00;Despejado;30 km;---;---;---;Calma;1006 /"
   ],
-  "primeros_500_caracteres": "Azul;25-junio-2026;03:00;Nublado;15 km;4.5;3.3; 82;Noroeste  5;997.8 / \r\n Bahía Blanca;25-junio-2026;03:00;Despejado;15 km;2.5;-1.0; 94;Oeste  13;1007.4 / \r\n Benito Juárez;24-junio-2026;21:00;Cubierto;15 km;5.1;No se calcula; 84;Noroeste  3;987.8 / \r\n Bolívar;24-junio-2026;21:00;Parcialmente nublado;10 km;4.9;No se calcula; 85;Calma;1003.8 / \r\n Campo de Mayo;24-junio-2026;21:00;Parcialmente nublado;10 km;7.5;6.7; 88;Noroeste  5;1014.1 / \r\n Coronel Suarez;24-junio-2026;21:00;Parcialmente nublado;",
-  "actualizado_github": "2026-06-25T08:19:26.282255Z"
+  "primeros_500_caracteres": "Azul;25-junio-2026;05:00;Despejado;15 km;2.8;-0.2; 93;Norte  11;997.8 / \r\n Bahía Blanca;25-junio-2026;05:00;Parcialmente nublado;15 km;3.2;-0.1; 96;Oeste  13;1008.1 / \r\n Benito Juárez;24-junio-2026;21:00;Cubierto;15 km;5.1;No se calcula; 84;Noroeste  3;987.8 / \r\n Bolívar;24-junio-2026;21:00;Parcialmente nublado;10 km;4.9;No se calcula; 85;Calma;1003.8 / \r\n Campo de Mayo;24-junio-2026;21:00;Parcialmente nublado;10 km;7.5;6.7; 88;Noroeste  5;1014.1 / \r\n Coronel Suarez;24-junio-2026;21:00;Parcialme",
+  "actualizado_github": "2026-06-25T11:12:44.304499Z"
 }
