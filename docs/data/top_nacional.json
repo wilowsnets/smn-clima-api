@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-26T22:42:57.258935Z",
-  "ultima_actualizacion_smn": "2026-06-26T18:00:00-03:00",
+  "actualizado_github": "2026-06-26T23:59:59.781168Z",
+  "ultima_actualizacion_smn": "2026-06-26T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Rivadavia",
-    "fecha_hora": "2026-06-26T15:00:00-03:00",
+    "fecha_hora": "2026-06-26T18:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 23.6,
+    "temperatura": 22.4,
     "termica": null,
-    "humedad": 32,
+    "humedad": 34,
     "viento_dir": "Calma",
     "viento_vel": 0,
-    "presion": 990.7
+    "presion": 990.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,15 +32,15 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-26T18:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-06-26T20:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "15 km",
-    "temperatura": -2.5,
-    "termica": -12.7,
-    "humedad": 78,
+    "temperatura": -3.6,
+    "termica": -13.9,
+    "humedad": 71,
     "viento_dir": "Noroeste",
-    "viento_vel": 68,
-    "presion": 943.4
+    "viento_vel": 63,
+    "presion": 944.6
   },
   "mayor_humedad": {
     "estacion": "Base Orcadas",
