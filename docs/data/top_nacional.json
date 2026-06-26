@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-26T10:19:04.636171Z",
-  "ultima_actualizacion_smn": "2026-06-26T06:00:00-03:00",
+  "actualizado_github": "2026-06-26T12:30:17.638787Z",
+  "ultima_actualizacion_smn": "2026-06-26T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-26T06:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "Menor a 100 mts",
-    "temperatura": -0.1,
-    "termica": -10.5,
-    "humedad": 86,
-    "viento_dir": "Norte",
-    "viento_vel": 94,
-    "presion": 939.4
+    "fecha_hora": "2026-06-26T08:00:00-03:00",
+    "estado": "Parcialmente nublado con ventisca baja",
+    "visibilidad": "5 km",
+    "temperatura": -0.8,
+    "termica": -11.0,
+    "humedad": 81,
+    "viento_dir": "Noroeste",
+    "viento_vel": 81,
+    "presion": 937.7
   },
   "mayor_humedad": {
-    "estacion": "El Palomar",
-    "fecha_hora": "2026-06-26T06:00:00-03:00",
-    "estado": "Algo nublado con niebla",
-    "visibilidad": "200 mts",
-    "temperatura": -3.0,
+    "estacion": "Azul",
+    "fecha_hora": "2026-06-26T08:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 0.0,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 1019.4
+    "viento_dir": "Este",
+    "viento_vel": 1,
+    "presion": 1003.4
   }
 }
