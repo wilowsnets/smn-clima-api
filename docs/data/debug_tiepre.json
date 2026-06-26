@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260625.txt",
+  "archivo_zip_usado": "estado_tiempo20260626.txt",
   "archivos_zip": [
-    "estado_tiempo20260625.txt"
+    "estado_tiempo20260626.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;25-junio-2026;20:00;Algo nublado;15 km;4.3;No se calcula; 88;Oeste  3;1002.8 / \r\n Bahía Blanca;25-junio-2026;20:00;Despejado;15 km;3;0.0; 93;Norte  11;1010.2 / \r\n Benito Juárez;25-junio-2026;15:00;Parcialmente nublado;15 km;9;6.7; 66;Sudoeste  14;992.1 / \r\n Bolívar;25-junio-2026;20:00;Algo nublado;15 km;4.2;No se calcula; 86;Calma;1009.8 / \r\n Campo de Mayo;25-junio-2026;20:00;Parcialmente nublado;10 km;8.6;No se calcula; 77;Sur  3;1018.6 / \r\n Coronel Suarez;25-junio-2026;15:00;Parcialmente ",
-  "actualizado_github": "2026-06-25T23:50:40.652288Z"
+  "primeros_500_caracteres": "Azul;25-junio-2026;22:00;Algo nublado;15 km;4;2.1; 86;Oeste  7;1003.2 / \r\n Bahía Blanca;25-junio-2026;22:00;Algo nublado;15 km;2.6;-0.4; 96;Noreste  11;1009.8 / \r\n Benito Juárez;25-junio-2026;21:00;Algo nublado;15 km;5.1;No se calcula; 95;Calma;994.4 / \r\n Bolívar;25-junio-2026;21:00;Algo nublado;15 km;2.2;No se calcula; 89;Calma;1010.2 / \r\n Campo de Mayo;25-junio-2026;21:00;Algo nublado;10 km;8.3;No se calcula; 85;Sur  3;1019 / \r\n Coronel Suarez;25-junio-2026;21:00;Despejado;12 km;1.2;No se calc",
+  "actualizado_github": "2026-06-26T02:47:18.882970Z"
 }
