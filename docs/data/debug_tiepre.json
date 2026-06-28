@@ -9,5 +9,5 @@
     "ERROR: could not convert string to float: '---' | LINEA: Maquinchao;28-junio-2026;17:00;Parcialmente nublado;40 km;6.4;---;---;Calma;915.2 /"
   ],
   "primeros_500_caracteres": "Azul;28-junio-2026;17:00;Algo nublado;15 km;13.1;No se calcula; 41;Sur  5;1000.3 / \r\n Bahía Blanca;28-junio-2026;17:00;Algo nublado;15 km;12.4;No se calcula; 53;Oeste  16;1006.9 / \r\n Benito Juárez;27-junio-2026;21:00;Algo nublado;15 km;5.2;No se calcula; 90;Calma;994 / \r\n Bolívar;28-junio-2026;17:00;Despejado;15 km;14.4;No se calcula; 38;Sudoeste  7;1007.8 / \r\n Campo de Mayo;28-junio-2026;17:00;Despejado;10 km;13.3;No se calcula; 62;Sur  9;1015.2 / \r\n Coronel Suarez;28-junio-2026;15:00;Parcialme",
-  "actualizado_github": "2026-06-28T21:59:50.486845Z"
+  "actualizado_github": "2026-06-28T23:11:31.864752Z"
 }
