@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-28T09:39:53.382395Z",
-  "ultima_actualizacion_smn": "2026-06-28T06:00:00-03:00",
+  "actualizado_github": "2026-06-28T11:44:00.116794Z",
+  "ultima_actualizacion_smn": "2026-06-28T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 973.4
   },
   "mayor_humedad": {
-    "estacion": "Mar del Plata",
-    "fecha_hora": "2026-06-28T06:00:00-03:00",
-    "estado": "Parcialmente nublado con niebla",
-    "visibilidad": "700 mts",
-    "temperatura": 5.7,
-    "termica": 4.1,
+    "estacion": "Azul",
+    "fecha_hora": "2026-06-28T08:00:00-03:00",
+    "estado": "Algo nublado con niebla",
+    "visibilidad": "800 mts",
+    "temperatura": 1.1,
+    "termica": -1.2,
     "humedad": 100,
-    "viento_dir": "Oeste",
+    "viento_dir": "Sur",
     "viento_vel": 7,
-    "presion": 1016.0
+    "presion": 1002.1
   }
 }
