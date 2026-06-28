@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-28T16:41:34.859541Z",
-  "ultima_actualizacion_smn": "2026-06-28T12:00:00-03:00",
+  "actualizado_github": "2026-06-28T18:01:04.667825Z",
+  "ultima_actualizacion_smn": "2026-06-28T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-06-28T12:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "20 km",
-    "temperatura": 21.0,
+    "fecha_hora": "2026-06-28T14:00:00-03:00",
+    "estado": "Nublado con tormenta",
+    "visibilidad": "6 km",
+    "temperatura": 21.8,
     "termica": null,
-    "humedad": 88,
+    "humedad": 87,
     "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 983.8
+    "viento_vel": 13,
+    "presion": 982.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,15 +32,15 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-28T12:00:00-03:00",
+    "fecha_hora": "2026-06-28T14:00:00-03:00",
     "estado": "Cubierto con lluvia y nevada",
     "visibilidad": "200 mts",
-    "temperatura": -1.4,
-    "termica": -11.8,
-    "humedad": 86,
+    "temperatura": -1.0,
+    "termica": -11.2,
+    "humedad": 89,
     "viento_dir": "Norte",
-    "viento_vel": 81,
-    "presion": 931.4
+    "viento_vel": 79,
+    "presion": 929.0
   },
   "mayor_humedad": {
     "estacion": "Río Colorado",
