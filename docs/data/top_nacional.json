@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-28T11:44:00.116794Z",
-  "ultima_actualizacion_smn": "2026-06-28T08:00:00-03:00",
+  "actualizado_github": "2026-06-28T13:24:38.856501Z",
+  "ultima_actualizacion_smn": "2026-06-28T09:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
-    "fecha_hora": "2026-06-27T18:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "estacion": "Formosa",
+    "fecha_hora": "2026-06-28T09:00:00-03:00",
+    "estado": "Cubierto",
     "visibilidad": "20 km",
-    "temperatura": 20.8,
+    "temperatura": 18.5,
     "termica": null,
-    "humedad": 78,
-    "viento_dir": "Sudeste",
-    "viento_vel": 7,
-    "presion": 996.6
+    "humedad": 96,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 11,
+    "presion": 1007.8
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-06-28T06:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "20 km",
-    "temperatura": -16.9,
-    "termica": -23.2,
-    "humedad": 59,
+    "fecha_hora": "2026-06-28T09:00:00-03:00",
+    "estado": "Parcialmente nublado con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -16.1,
+    "termica": -20.2,
+    "humedad": 52,
     "viento_dir": "Oeste",
-    "viento_vel": 9,
-    "presion": 930.6
+    "viento_vel": 5,
+    "presion": 931.7
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
@@ -43,15 +43,15 @@
     "presion": 973.4
   },
   "mayor_humedad": {
-    "estacion": "Azul",
-    "fecha_hora": "2026-06-28T08:00:00-03:00",
-    "estado": "Algo nublado con niebla",
-    "visibilidad": "800 mts",
-    "temperatura": 1.1,
-    "termica": -1.2,
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-06-28T09:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": 0.5,
+    "termica": -1.9,
     "humedad": 100,
-    "viento_dir": "Sur",
+    "viento_dir": "Este",
     "viento_vel": 7,
-    "presion": 1002.1
+    "presion": 1015.6
   }
 }
