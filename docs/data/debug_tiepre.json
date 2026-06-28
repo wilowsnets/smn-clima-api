@@ -1,11 +1,13 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260627.txt",
+  "archivo_zip_usado": "estado_tiempo20260628.txt",
   "archivos_zip": [
-    "estado_tiempo20260627.txt"
+    "estado_tiempo20260628.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;27-junio-2026;18:00;Parcialmente nublado;15 km;10.4;No se calcula; 77;Noroeste  5;1000.2 / \r\n Bahía Blanca;27-junio-2026;18:00;Algo nublado;15 km;9.8;No se calcula; 74;Sudeste  3;1009 / \r\n Benito Juárez;27-junio-2026;15:00;Nublado;15 km;12.1;No se calcula; 57;Sur  3;991.7 / \r\n Bolívar;27-junio-2026;18:00;Despejado;15 km;12.7;No se calcula; 61;Calma;1006.9 / \r\n Campo de Mayo;27-junio-2026;18:00;Parcialmente nublado;10 km;13.7;No se calcula; 78;Este  11;1014.2 / \r\n Coronel Suarez;27-junio-202",
-  "actualizado_github": "2026-06-27T23:06:41.653834Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Rivadavia;27-junio-2026;21:00;Parcialmente nublado;20 km;15.9;---; 89;---  0;988.9 /"
+  ],
+  "primeros_500_caracteres": "Azul;27-junio-2026;22:00;Despejado;15 km;3.5;1.6; 98;Sur  7;1001.2 / \r\n Bahía Blanca;27-junio-2026;22:00;Parcialmente nublado;15 km;2.2;-1.3; 93;Norte  13;1011.8 / \r\n Benito Juárez;27-junio-2026;21:00;Algo nublado;15 km;5.2;No se calcula; 90;Calma;994 / \r\n Bolívar;27-junio-2026;21:00;Despejado;10 km;6;No se calcula; 84;Calma;1007.6 / \r\n Campo de Mayo;27-junio-2026;21:00;Cubierto;10 km;11.5;No se calcula; 85;Calma;1014.8 / \r\n Coronel Suarez;27-junio-2026;21:00;Parcialmente nublado;12 km;6;4.0; 84",
+  "actualizado_github": "2026-06-28T01:32:11.973630Z"
 }
