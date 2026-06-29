@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-29T15:36:19.421888Z",
-  "ultima_actualizacion_smn": "2026-06-29T12:00:00-03:00",
+  "actualizado_github": "2026-06-29T18:05:35.000783Z",
+  "ultima_actualizacion_smn": "2026-06-29T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Iguazú",
-    "fecha_hora": "2026-06-29T12:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "10 km",
-    "temperatura": 17.8,
+    "estacion": "Pcia. Roque Saenz Peña",
+    "fecha_hora": "2026-06-29T14:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura": 18.4,
     "termica": null,
-    "humedad": 93,
-    "viento_dir": "Direcciones Variables",
-    "viento_vel": 5,
-    "presion": 985.8
+    "humedad": 47,
+    "viento_dir": "Sudeste",
+    "viento_vel": 9,
+    "presion": 1008.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 966.6
   },
   "mayor_humedad": {
-    "estacion": "Monte Caseros",
+    "estacion": "Bernardo De Irigoyen",
     "fecha_hora": "2026-06-29T12:00:00-03:00",
-    "estado": "Cubierto con niebla",
-    "visibilidad": "500 mts",
-    "temperatura": 7.0,
-    "termica": 5.6,
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "200 mts",
+    "temperatura": 14.2,
+    "termica": null,
     "humedad": 100,
     "viento_dir": "Sudeste",
-    "viento_vel": 7,
-    "presion": 1016.6
+    "viento_vel": 3,
+    "presion": 924.9
   }
 }
