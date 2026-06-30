@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-30T16:00:44.037571Z",
-  "ultima_actualizacion_smn": "2026-06-30T12:00:00-03:00",
+  "actualizado_github": "2026-06-30T18:17:35.734071Z",
+  "ultima_actualizacion_smn": "2026-06-30T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-06-30T12:00:00-03:00",
-    "estado": "Nublado con neblina",
-    "visibilidad": "6 km",
-    "temperatura": 16.7,
+    "estacion": "Villa Reynolds",
+    "fecha_hora": "2026-06-30T14:00:00-03:00",
+    "estado": "Despejado",
+    "visibilidad": "10 km",
+    "temperatura": 18.5,
     "termica": null,
-    "humedad": 98,
-    "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 923.8
+    "humedad": 22,
+    "viento_dir": "Noroeste",
+    "viento_vel": 22,
+    "presion": 955.8
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-30T12:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-06-30T14:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "15 km",
-    "temperatura": -11.4,
-    "termica": -17.3,
-    "humedad": 51,
+    "temperatura": -11.5,
+    "termica": -18.5,
+    "humedad": 58,
     "viento_dir": "Oeste",
-    "viento_vel": 11,
-    "presion": 971.2
+    "viento_vel": 14,
+    "presion": 972.4
   },
   "mayor_viento": {
     "estacion": "Santa Cruz",
@@ -43,15 +43,15 @@
     "presion": 1003.0
   },
   "mayor_humedad": {
-    "estacion": "Iguazú",
-    "fecha_hora": "2026-06-30T11:00:00-03:00",
-    "estado": "Cubierto con llovizna",
-    "visibilidad": "1.2 km",
-    "temperatura": 16.6,
-    "termica": null,
-    "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 5,
-    "presion": 985.0
+    "estacion": "Mount Pleasant Airport (Islas Malvinas)",
+    "fecha_hora": "2026-06-30T12:00:00-03:00",
+    "estado": "Cubierto",
+    "visibilidad": "Sin información",
+    "temperatura": -1.3,
+    "termica": -7.9,
+    "humedad": 99,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 27,
+    "presion": 991.6
   }
 }

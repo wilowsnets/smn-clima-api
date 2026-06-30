@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260630.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;30-junio-2026;12:00;Despejado;15 km;9.6;7.2; 59;Noroeste  16;1001 / \r\n Bahía Blanca;30-junio-2026;12:00;Cubierto;15 km;10.4;No se calcula; 56;Norte  29;1005.3 / \r\n Benito Juárez;30-junio-2026;09:00;Despejado;15 km;1.2;-1.7; 96;Norte  9;992.8 / \r\n Bolívar;30-junio-2026;11:00;Despejado;15 km;8.2;6.6; 70;Norte  9;1007.8 / \r\n Campo de Mayo;30-junio-2026;12:00;Algo nublado;10 km;12.5;No se calcula; 55;Norte  16;1017.6 / \r\n Coronel Suarez;30-junio-2026;12:00;Algo nublado;15 km;9;5.4; 51;Norte  27",
-  "actualizado_github": "2026-06-30T16:00:44.037571Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '-' | LINEA: San Luis;30-junio-2026;14:00;Algo nublado;20 km;14.5;No se calcula; 43;Norte  25;- /"
+  ],
+  "primeros_500_caracteres": "Azul;30-junio-2026;14:00;Despejado;15 km;11.8;No se calcula; 45;Norte  20;999.4 / \r\n Bahía Blanca;30-junio-2026;14:00;Cubierto;15 km;12.2;No se calcula; 52;Norte  31;1003.6 / \r\n Benito Juárez;30-junio-2026;09:00;Despejado;15 km;1.2;-1.7; 96;Norte  9;992.8 / \r\n Bolívar;30-junio-2026;14:00;Despejado;15 km;13.6;No se calcula; 42;Norte  29;1005.7 / \r\n Campo de Mayo;30-junio-2026;14:00;Algo nublado;10 km;14.2;No se calcula; 44;Norte  13;1015 / \r\n Coronel Suarez;30-junio-2026;12:00;Algo nublado;15 km;",
+  "actualizado_github": "2026-06-30T18:17:35.734071Z"
 }
