@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-30T03:53:32.776399Z",
-  "ultima_actualizacion_smn": "2026-06-30T00:00:00-03:00",
+  "actualizado_github": "2026-06-30T07:47:58.735502Z",
+  "ultima_actualizacion_smn": "2026-06-30T03:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-30T00:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-06-30T03:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "15 km",
-    "temperatura": -12.0,
-    "termica": -16.5,
-    "humedad": 60,
-    "viento_dir": "Sudeste",
-    "viento_vel": 7,
-    "presion": 959.6
+    "temperatura": -12.8,
+    "termica": null,
+    "humedad": 69,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 963.0
   },
   "mayor_viento": {
     "estacion": "Gobernador Gregores",
@@ -43,15 +43,15 @@
     "presion": 960.3
   },
   "mayor_humedad": {
-    "estacion": "Azul",
-    "fecha_hora": "2026-06-30T00:00:00-03:00",
+    "estacion": "Mar del Plata",
+    "fecha_hora": "2026-06-30T03:00:00-03:00",
     "estado": "Despejado",
-    "visibilidad": "15 km",
-    "temperatura": -1.2,
-    "termica": null,
+    "visibilidad": "10 km",
+    "temperatura": 0.8,
+    "termica": -3.4,
     "humedad": 100,
-    "viento_dir": "Sudeste",
-    "viento_vel": 1,
-    "presion": 1003.4
+    "viento_dir": "Noroeste",
+    "viento_vel": 14,
+    "presion": 1017.7
   }
 }
