@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-30T20:26:59.289464Z",
-  "ultima_actualizacion_smn": "2026-06-30T16:00:00-03:00",
+  "actualizado_github": "2026-06-30T21:55:24.201949Z",
+  "ultima_actualizacion_smn": "2026-06-30T18:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Rivadavia",
-    "fecha_hora": "2026-06-30T15:00:00-03:00",
+    "fecha_hora": "2026-06-30T18:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 22.4,
+    "temperatura": 21.0,
     "termica": null,
-    "humedad": 47,
-    "viento_dir": "Norte",
-    "viento_vel": 3,
-    "presion": 987.9
+    "humedad": 41,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 986.5
   },
   "mas_frio": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-30T16:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": -11.3,
-    "termica": -19.9,
-    "humedad": 48,
+    "estacion": "Base Belgrano II",
+    "fecha_hora": "2026-06-30T18:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -12.1,
+    "termica": -19.7,
+    "humedad": 74,
     "viento_dir": "Sudoeste",
-    "viento_vel": 22,
-    "presion": 973.8
+    "viento_vel": 16,
+    "presion": 945.6
   },
   "mayor_viento": {
     "estacion": "Santa Cruz",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-06-30T15:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "2.0 km",
-    "temperatura": 17.4,
+    "fecha_hora": "2026-06-30T18:00:00-03:00",
+    "estado": "Nublado con tormenta",
+    "visibilidad": "4.0 km",
+    "temperatura": 16.4,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 921.8
+    "viento_vel": 3,
+    "presion": 920.8
   }
 }

@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260630.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Iguazú;30-junio-2026;16:00;Nublado con lluvia;4.0 km;18.1;---;---;Este  3;981.8 /"
-  ],
-  "primeros_500_caracteres": "Azul;30-junio-2026;16:00;Despejado;15 km;12;No se calcula; 45;Norte  14;998 / \r\n Bahía Blanca;30-junio-2026;16:00;Parcialmente nublado;15 km;12.4;No se calcula; 53;Norte  25;1002.1 / \r\n Benito Juárez;30-junio-2026;15:00;Algo nublado;15 km;11.4;No se calcula; 46;Norte  24;990.2 / \r\n Bolívar;30-junio-2026;16:00;Despejado;15 km;13.8;No se calcula; 49;Norte  14;1004.2 / \r\n Campo de Mayo;30-junio-2026;16:00;Despejado;10 km;15.7;No se calcula; 41;Norte  13;1013.3 / \r\n Coronel Suarez;30-junio-2026;15:0",
-  "actualizado_github": "2026-06-30T20:26:59.289464Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;30-junio-2026;18:00;Despejado;15 km;9.6;9.1; 57;Norte  5;998.1 / \r\n Bahía Blanca;30-junio-2026;18:00;Cubierto;15 km;10.6;No se calcula; 60;Norte  13;1003 / \r\n Benito Juárez;30-junio-2026;15:00;Algo nublado;15 km;11.4;No se calcula; 46;Norte  24;990.2 / \r\n Bolívar;30-junio-2026;18:00;Despejado;15 km;10.2;No se calcula; 63;Norte  9;1004.1 / \r\n Campo de Mayo;30-junio-2026;18:00;Despejado;10 km;11.4;No se calcula; 77;Norte  5;1013.8 / \r\n Coronel Suarez;30-junio-2026;15:00;Algo nublado;15 km;12.",
+  "actualizado_github": "2026-06-30T21:55:24.201949Z"
 }
