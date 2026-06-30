@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-30T10:52:18.891651Z",
-  "ultima_actualizacion_smn": "2026-06-30T06:00:00-03:00",
+  "actualizado_github": "2026-06-30T13:07:24.786237Z",
+  "ultima_actualizacion_smn": "2026-06-30T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-30T06:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-06-30T08:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "15 km",
-    "temperatura": -13.8,
-    "termica": -19.5,
-    "humedad": 59,
+    "temperatura": -12.0,
+    "termica": -16.5,
+    "humedad": 63,
     "viento_dir": "Oeste",
-    "viento_vel": 9,
-    "presion": 965.8
+    "viento_vel": 7,
+    "presion": 967.4
   },
   "mayor_viento": {
     "estacion": "Ushuaia",
-    "fecha_hora": "2026-06-30T06:00:00-03:00",
-    "estado": "Nublado con nevada",
-    "visibilidad": "8 km",
-    "temperatura": 1.5,
-    "termica": -6.2,
-    "humedad": 67,
+    "fecha_hora": "2026-06-30T08:00:00-03:00",
+    "estado": "Cubierto con nevada",
+    "visibilidad": "7 km",
+    "temperatura": 1.7,
+    "termica": -5.9,
+    "humedad": 60,
     "viento_dir": "Sur",
     "viento_vel": 51,
-    "presion": 1000.6
+    "presion": 1002.4
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-06-30T05:00:00-03:00",
-    "estado": "Despejado con banco delgado de niebla",
-    "visibilidad": "10 km",
-    "temperatura": -0.7,
+    "estacion": "Azul",
+    "fecha_hora": "2026-06-30T08:00:00-03:00",
+    "estado": "Despejado con niebla",
+    "visibilidad": "300 mts",
+    "temperatura": -3.6,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Calma",
     "viento_vel": 0,
-    "presion": 1018.4
+    "presion": 1001.8
   }
 }
