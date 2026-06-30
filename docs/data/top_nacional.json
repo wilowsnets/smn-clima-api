@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-06-30T07:47:58.735502Z",
-  "ultima_actualizacion_smn": "2026-06-30T03:00:00-03:00",
+  "actualizado_github": "2026-06-30T10:52:18.891651Z",
+  "ultima_actualizacion_smn": "2026-06-30T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-06-30T03:00:00-03:00",
+    "fecha_hora": "2026-06-30T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "15 km",
-    "temperatura": -12.8,
-    "termica": null,
-    "humedad": 69,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 963.0
+    "temperatura": -13.8,
+    "termica": -19.5,
+    "humedad": 59,
+    "viento_dir": "Oeste",
+    "viento_vel": 9,
+    "presion": 965.8
   },
   "mayor_viento": {
-    "estacion": "Gobernador Gregores",
-    "fecha_hora": "2026-06-29T21:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "45 km",
-    "temperatura": 5.5,
-    "termica": -0.4,
-    "humedad": 72,
+    "estacion": "Ushuaia",
+    "fecha_hora": "2026-06-30T06:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "8 km",
+    "temperatura": 1.5,
+    "termica": -6.2,
+    "humedad": 67,
     "viento_dir": "Sur",
-    "viento_vel": 46,
-    "presion": 960.3
+    "viento_vel": 51,
+    "presion": 1000.6
   },
   "mayor_humedad": {
-    "estacion": "Mar del Plata",
-    "fecha_hora": "2026-06-30T03:00:00-03:00",
-    "estado": "Despejado",
+    "estacion": "La Plata",
+    "fecha_hora": "2026-06-30T05:00:00-03:00",
+    "estado": "Despejado con banco delgado de niebla",
     "visibilidad": "10 km",
-    "temperatura": 0.8,
-    "termica": -3.4,
+    "temperatura": -0.7,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Noroeste",
-    "viento_vel": 14,
-    "presion": 1017.7
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1018.4
   }
 }
