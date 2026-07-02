@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-02T08:47:29.455519Z",
-  "ultima_actualizacion_smn": "2026-07-02T04:00:00-03:00",
+  "actualizado_github": "2026-07-02T11:29:22.942208Z",
+  "ultima_actualizacion_smn": "2026-07-02T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-02T03:00:00-03:00",
+    "fecha_hora": "2026-07-02T06:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": -15.7,
-    "termica": -25.1,
-    "humedad": 67,
+    "temperatura": -15.2,
+    "termica": -24.9,
+    "humedad": 64,
     "viento_dir": "Sudeste",
-    "viento_vel": 20,
-    "presion": 934.2
+    "viento_vel": 22,
+    "presion": 933.0
   },
   "mayor_viento": {
-    "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-02T03:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "10 km",
-    "temperatura": -0.2,
-    "termica": -7.9,
-    "humedad": 93,
-    "viento_dir": "Oeste",
-    "viento_vel": 42,
-    "presion": 988.8
+    "estacion": "Base San Martín",
+    "fecha_hora": "2026-07-02T06:00:00-03:00",
+    "estado": "Cubierto con nevada",
+    "visibilidad": "500 mts",
+    "temperatura": -0.7,
+    "termica": -10.4,
+    "humedad": 99,
+    "viento_dir": "Norte",
+    "viento_vel": 72,
+    "presion": 972.0
   },
   "mayor_humedad": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-02T04:00:00-03:00",
-    "estado": "Cubierto con niebla en la hora anterior",
+    "fecha_hora": "2026-07-02T05:00:00-03:00",
+    "estado": "Cubierto con neblina",
     "visibilidad": "5 km",
-    "temperatura": 19.3,
+    "temperatura": 19.2,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 7,
-    "presion": 985.0
+    "viento_dir": "Noroeste",
+    "viento_vel": 5,
+    "presion": 985.4
   }
 }
