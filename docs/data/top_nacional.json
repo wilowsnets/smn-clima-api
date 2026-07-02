@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-02T11:29:22.942208Z",
-  "ultima_actualizacion_smn": "2026-07-02T06:00:00-03:00",
+  "actualizado_github": "2026-07-02T13:18:57.522618Z",
+  "ultima_actualizacion_smn": "2026-07-02T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 972.0
   },
   "mayor_humedad": {
-    "estacion": "Iguazú",
-    "fecha_hora": "2026-07-02T05:00:00-03:00",
-    "estado": "Cubierto con neblina",
-    "visibilidad": "5 km",
-    "temperatura": 19.2,
-    "termica": null,
+    "estacion": "Azul",
+    "fecha_hora": "2026-07-02T08:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "900 mts",
+    "temperatura": -3.0,
+    "termica": -6.0,
     "humedad": 100,
-    "viento_dir": "Noroeste",
-    "viento_vel": 5,
-    "presion": 985.4
+    "viento_dir": "Sudoeste",
+    "viento_vel": 7,
+    "presion": 1015.8
   }
 }
