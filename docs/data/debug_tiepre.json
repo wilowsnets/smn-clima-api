@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260703.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '-' | LINEA: Posadas;03-julio-2026;06:00;Algo nublado;20 km;5.9;2.9; 86;Sudeste  14;- /"
-  ],
-  "primeros_500_caracteres": "Azul;03-julio-2026;06:00;Despejado;15 km;-4.5;No se calcula; 97;Calma;1014.5 / \r\n Bahía Blanca;03-julio-2026;06:00;Despejado;15 km;-3.2;-6.9; 90;Norte  9;1022.8 / \r\n Benito Juárez;02-julio-2026;21:00;Despejado;15 km;-1.1;No se calcula; 93;Calma;1006.8 / \r\n Bolívar;02-julio-2026;21:00;Despejado;10 km;0.5;No se calcula; 88;Calma;1023 / \r\n Campo de Mayo;02-julio-2026;21:00;Despejado;10 km;4;1.6; 77;Sur  9;1030.9 / \r\n Coronel Suarez;03-julio-2026;06:00;Despejado;12 km;-4.8;No se calcula; 94;Sur  1;1",
-  "actualizado_github": "2026-07-03T09:41:11.609900Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;03-julio-2026;08:00;Despejado;15 km;-4.6;-7.1; 99;Sudoeste  5;1014.4 / \r\n Bahía Blanca;03-julio-2026;08:00;Despejado;15 km;-3.8;-7.6; 92;Noroeste  9;1022.6 / \r\n Benito Juárez;02-julio-2026;21:00;Despejado;15 km;-1.1;No se calcula; 93;Calma;1006.8 / \r\n Bolívar;02-julio-2026;21:00;Despejado;10 km;0.5;No se calcula; 88;Calma;1023 / \r\n Campo de Mayo;02-julio-2026;21:00;Despejado;10 km;4;1.6; 77;Sur  9;1030.9 / \r\n Coronel Suarez;03-julio-2026;08:00;Algo nublado;13 km;-5.7;-9.2; 97;Sur  7;1004.1 ",
+  "actualizado_github": "2026-07-03T12:05:06.614846Z"
 }
