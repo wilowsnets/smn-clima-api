@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-03T06:07:54.338003Z",
-  "ultima_actualizacion_smn": "2026-07-03T02:00:00-03:00",
+  "actualizado_github": "2026-07-03T09:41:11.609900Z",
+  "ultima_actualizacion_smn": "2026-07-03T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-03T00:00:00-03:00",
+    "fecha_hora": "2026-07-03T06:00:00-03:00",
     "estado": "Parcialmente nublado con ventisca baja",
     "visibilidad": "5 km",
-    "temperatura": -16.6,
-    "termica": -30.3,
-    "humedad": 66,
+    "temperatura": -17.7,
+    "termica": -30.6,
+    "humedad": 63,
     "viento_dir": "Noreste",
-    "viento_vel": 46,
-    "presion": 940.4
+    "viento_vel": 37,
+    "presion": 945.8
   },
   "mayor_viento": {
-    "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-03T00:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "10 km",
-    "temperatura": 0.4,
-    "termica": -9.4,
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-03T06:00:00-03:00",
+    "estado": "Cielo invisible con ventisca alta",
+    "visibilidad": "100 mts",
+    "temperatura": -5.0,
+    "termica": -17.7,
     "humedad": 83,
-    "viento_dir": "Oeste",
-    "viento_vel": 85,
-    "presion": 967.6
+    "viento_dir": "Sudoeste",
+    "viento_vel": 96,
+    "presion": 931.7
   },
   "mayor_humedad": {
     "estacion": "Bernardo De Irigoyen",
