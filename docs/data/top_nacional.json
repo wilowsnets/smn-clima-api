@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-03T16:21:13.334660Z",
-  "ultima_actualizacion_smn": "2026-07-03T12:00:00-03:00",
+  "actualizado_github": "2026-07-03T17:55:27.473934Z",
+  "ultima_actualizacion_smn": "2026-07-03T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "La Quiaca",
-    "fecha_hora": "2026-07-03T12:00:00-03:00",
+    "fecha_hora": "2026-07-03T14:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "30 km",
-    "temperatura": 12.8,
+    "temperatura": 15.6,
     "termica": null,
-    "humedad": 67,
-    "viento_dir": "Norte",
-    "viento_vel": 3,
-    "presion": 676.9
+    "humedad": 60,
+    "viento_dir": "Noroeste",
+    "viento_vel": 9,
+    "presion": 675.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
