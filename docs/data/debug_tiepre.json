@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260703.txt",
+  "archivo_zip_usado": "estado_tiempo20260704.txt",
   "archivos_zip": [
-    "estado_tiempo20260703.txt"
+    "estado_tiempo20260704.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;03-julio-2026;20:00;Despejado;15 km;1.4;No se calcula; 89;Norte  1;1011.8 / \r\n Bahía Blanca;03-julio-2026;20:00;Algo nublado;15 km;2.7;0.1; 74;Noroeste  9;1019.2 / \r\n Benito Juárez;03-julio-2026;15:00;Parcialmente nublado;15 km;8.1;No se calcula; 58;Este  3;1003.6 / \r\n Bolívar;03-julio-2026;20:00;Despejado;15 km;1.2;No se calcula; 81;Calma;1018.5 / \r\n Campo de Mayo;03-julio-2026;20:00;Despejado;10 km;1.1;No se calcula; 96;Noroeste  1;1027.2 / \r\n Coronel Suarez;03-julio-2026;15:00;Algo nubla",
-  "actualizado_github": "2026-07-03T23:32:58.780725Z"
+  "primeros_500_caracteres": "Azul;03-julio-2026;22:00;Despejado;15 km;-1.4;No se calcula; 99;Este  3;1011.8 / \r\n Bahía Blanca;03-julio-2026;22:00;Despejado;15 km;-1.1;-4.4; 87;Norte  9;1019.4 / \r\n Benito Juárez;03-julio-2026;21:00;Despejado;15 km;-0.2;No se calcula; 95;Calma;1003.4 / \r\n Bolívar;03-julio-2026;20:00;Despejado;15 km;1.2;No se calcula; 81;Calma;1018.5 / \r\n Campo de Mayo;03-julio-2026;21:00;Despejado;10 km;0.1;No se calcula; 92;Calma;1027.4 / \r\n Coronel Suarez;03-julio-2026;21:00;Despejado;10 km;-0.5;-3.7; 84;Es",
+  "actualizado_github": "2026-07-04T02:23:35.673681Z"
 }
