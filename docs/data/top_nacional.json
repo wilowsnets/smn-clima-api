@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-04T20:48:42.566288Z",
-  "ultima_actualizacion_smn": "2026-07-04T16:00:00-03:00",
+  "actualizado_github": "2026-07-04T21:53:08.145783Z",
+  "ultima_actualizacion_smn": "2026-07-04T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-04T16:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-04T17:00:00-03:00",
+    "estado": "Nublado",
     "visibilidad": "20 km",
-    "temperatura": 17.3,
+    "temperatura": 16.6,
     "termica": null,
     "humedad": 73,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 7,
-    "presion": 987.8
+    "viento_dir": "Sur",
+    "viento_vel": 5,
+    "presion": 988.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 951.4
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
+    "estacion": "Base Belgrano II",
     "fecha_hora": "2026-07-04T15:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "15 km",
-    "temperatura": 0.0,
-    "termica": -9.9,
-    "humedad": 71,
-    "viento_dir": "Noroeste",
-    "viento_vel": 81,
-    "presion": 957.4
+    "estado": "Nublado con nevada",
+    "visibilidad": "300 mts",
+    "temperatura": -15.8,
+    "termica": -31.2,
+    "humedad": 76,
+    "viento_dir": "Norte",
+    "viento_vel": 66,
+    "presion": 951.4
   },
   "mayor_humedad": {
     "estacion": "Base Carlini",
