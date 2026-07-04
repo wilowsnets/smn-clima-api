@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-04T08:40:23.083755Z",
-  "ultima_actualizacion_smn": "2026-07-04T04:00:00-03:00",
+  "actualizado_github": "2026-07-04T10:50:43.511778Z",
+  "ultima_actualizacion_smn": "2026-07-04T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "La Plata",
-    "fecha_hora": "2026-07-04T04:00:00-03:00",
+    "fecha_hora": "2026-07-04T05:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "10 km",
-    "temperatura": -1.6,
-    "termica": -4.4,
+    "temperatura": -2.1,
+    "termica": -4.2,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 7,
-    "presion": 1027.0
+    "viento_dir": "Sudeste",
+    "viento_vel": 5,
+    "presion": 1026.0
   }
 }
