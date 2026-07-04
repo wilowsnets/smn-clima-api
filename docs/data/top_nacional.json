@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-04T14:07:43.913290Z",
-  "ultima_actualizacion_smn": "2026-07-04T10:00:00-03:00",
+  "actualizado_github": "2026-07-04T15:39:44.827099Z",
+  "ultima_actualizacion_smn": "2026-07-04T11:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-04T10:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-07-04T11:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": 10.6,
+    "temperatura": 12.8,
     "termica": null,
-    "humedad": 86,
-    "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 990.6
+    "humedad": 83,
+    "viento_dir": "Direcciones Variables",
+    "viento_vel": 5,
+    "presion": 991.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 955.4
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-04T10:00:00-03:00",
+    "estacion": "Base Esperanza",
+    "fecha_hora": "2026-07-04T09:00:00-03:00",
     "estado": "Nublado",
-    "visibilidad": "15 km",
-    "temperatura": 0.2,
-    "termica": -8.6,
-    "humedad": 61,
-    "viento_dir": "Noroeste",
-    "viento_vel": 63,
-    "presion": 960.4
+    "visibilidad": "10 km",
+    "temperatura": 2.3,
+    "termica": -5.6,
+    "humedad": 77,
+    "viento_dir": "Oeste",
+    "viento_vel": 61,
+    "presion": 986.4
   },
   "mayor_humedad": {
     "estacion": "Las Flores",
