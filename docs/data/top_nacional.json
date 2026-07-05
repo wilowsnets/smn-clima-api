@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-05T17:02:14.427334Z",
-  "ultima_actualizacion_smn": "2026-07-05T12:00:00-03:00",
+  "actualizado_github": "2026-07-05T18:35:22.023503Z",
+  "ultima_actualizacion_smn": "2026-07-05T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-05T12:00:00-03:00",
+    "fecha_hora": "2026-07-05T14:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": 21.8,
+    "temperatura": 24.4,
     "termica": null,
-    "humedad": 66,
+    "humedad": 63,
     "viento_dir": "Este",
-    "viento_vel": 9,
-    "presion": 987.4
+    "viento_vel": 5,
+    "presion": 985.4
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 997.2
   },
   "mayor_humedad": {
-    "estacion": "Olavarría",
-    "fecha_hora": "2026-07-05T12:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "15 km",
-    "temperatura": 5.1,
-    "termica": null,
+    "estacion": "Santa Cruz",
+    "fecha_hora": "2026-07-04T21:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "30 km",
+    "temperatura": -2.1,
+    "termica": -8.9,
     "humedad": 100,
-    "viento_dir": "Norte",
-    "viento_vel": 3,
-    "presion": 1005.4
+    "viento_dir": "Sur",
+    "viento_vel": 27,
+    "presion": 1004.9
   }
 }
