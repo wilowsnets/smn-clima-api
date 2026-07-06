@@ -1,21 +1,21 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-05T22:57:10.451593Z",
-  "ultima_actualizacion_smn": "2026-07-05T18:00:00-03:00",
+  "actualizado_github": "2026-07-06T00:05:02.119191Z",
+  "ultima_actualizacion_smn": "2026-07-05T19:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-05T18:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-05T19:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": 21.5,
+    "temperatura": 19.4,
     "termica": null,
-    "humedad": 78,
-    "viento_dir": "Oeste",
-    "viento_vel": 3,
+    "humedad": 86,
+    "viento_dir": "Direcciones Variables",
+    "viento_vel": 1,
     "presion": 985.3
   },
   "mas_frio": {
@@ -43,15 +43,15 @@
     "presion": 985.7
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-07-05T18:00:00-03:00",
-    "estado": "Cubierto con llovizna",
-    "visibilidad": "2.0 km",
-    "temperatura": 7.6,
-    "termica": 6.9,
+    "estacion": "El Palomar",
+    "fecha_hora": "2026-07-05T19:00:00-03:00",
+    "estado": "Cubierto con lluvia",
+    "visibilidad": "5 km",
+    "temperatura": 7.0,
+    "termica": 4.5,
     "humedad": 100,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 5,
-    "presion": 1019.0
+    "viento_dir": "Sur",
+    "viento_vel": 13,
+    "presion": 1019.8
   }
 }
