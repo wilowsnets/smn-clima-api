@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-06T08:57:00.676755Z",
-  "ultima_actualizacion_smn": "2026-07-06T04:00:00-03:00",
+  "actualizado_github": "2026-07-06T12:45:55.306827Z",
+  "ultima_actualizacion_smn": "2026-07-06T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-06T03:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-07-06T06:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": -16.0,
-    "termica": -26.6,
-    "humedad": 53,
-    "viento_dir": "Sudeste",
+    "temperatura": -13.4,
+    "termica": -23.3,
+    "humedad": 48,
+    "viento_dir": "Norte",
     "viento_vel": 25,
-    "presion": 944.2
+    "presion": 943.4
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-06T03:00:00-03:00",
-    "estado": "Cubierto con lluvia",
-    "visibilidad": "2.0 km",
-    "temperatura": 2.0,
-    "termica": -6.8,
-    "humedad": 95,
+    "fecha_hora": "2026-07-06T06:00:00-03:00",
+    "estado": "Cubierto con neblina",
+    "visibilidad": "4.0 km",
+    "temperatura": 2.6,
+    "termica": -5.8,
+    "humedad": 91,
     "viento_dir": "Noroeste",
-    "viento_vel": 77,
-    "presion": 975.6
+    "viento_vel": 74,
+    "presion": 971.7
   },
   "mayor_humedad": {
     "estacion": "Las Flores",
