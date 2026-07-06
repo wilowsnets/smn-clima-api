@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-06T20:21:32.703942Z",
-  "ultima_actualizacion_smn": "2026-07-06T16:00:00-03:00",
+  "actualizado_github": "2026-07-06T21:53:40.962240Z",
+  "ultima_actualizacion_smn": "2026-07-06T18:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-06T15:00:00-03:00",
+    "fecha_hora": "2026-07-06T18:00:00-03:00",
     "estado": "Parcialmente nublado con ventisca baja",
     "visibilidad": "5 km",
-    "temperatura": -14.3,
-    "termica": -27.0,
+    "temperatura": -14.0,
+    "termica": -26.4,
     "humedad": 75,
     "viento_dir": "Noreste",
-    "viento_vel": 44,
-    "presion": 937.6
+    "viento_vel": 42,
+    "presion": 936.6
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-06T16:00:00-03:00",
-    "estado": "Algo nublado con ventisca baja",
-    "visibilidad": "8 km",
-    "temperatura": -3.8,
-    "termica": -14.4,
-    "humedad": 45,
-    "viento_dir": "Oeste",
-    "viento_vel": 66,
-    "presion": 948.6
+    "estacion": "Mount Pleasant Airport (Islas Malvinas)",
+    "fecha_hora": "2026-07-06T18:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "Sin información",
+    "temperatura": 5.3,
+    "termica": -1.5,
+    "humedad": 80,
+    "viento_dir": "Norte",
+    "viento_vel": 61,
+    "presion": 994.2
   },
   "mayor_humedad": {
     "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-07-06T15:00:00-03:00",
-    "estado": "Cielo invisible con llovizna",
+    "fecha_hora": "2026-07-06T18:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
     "visibilidad": "Menor a 100 mts",
-    "temperatura": 10.8,
-    "termica": null,
+    "temperatura": 8.4,
+    "termica": 6.9,
     "humedad": 100,
     "viento_dir": "Sur",
-    "viento_vel": 3,
-    "presion": 926.2
+    "viento_vel": 9,
+    "presion": 926.8
   }
 }
