@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;07-julio-2026;00:00;Cielo invisible con niebla;100 mts;-0.4;-3.0; 100;Oeste  7;1000.2 / \r\n Bahía Blanca;06-julio-2026;23:00;Despejado;15 km;1.1;-3.3; 84;Norte  16;1006.6 / \r\n Benito Juárez;06-julio-2026;21:00;Despejado;15 km;2.6;No se calcula; 89;Calma;992 / \r\n Bolívar;06-julio-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;0.8;No se calcula; 100;Calma;1009 / \r\n Campo de Mayo;06-julio-2026;21:00;Despejado;10 km;7;No se calcula; 77;Sudoeste  3;1017.6 / \r\n Coronel Suarez;06-julio-2026;",
-  "actualizado_github": "2026-07-07T05:30:38.992807Z"
+  "primeros_500_caracteres": "Azul;07-julio-2026;04:00;Cielo invisible con niebla;100 mts;-2.2;No se calcula; 95;Calma;998.8 / \r\n Bahía Blanca;07-julio-2026;04:00;Despejado;15 km;2.8;-1.7; 75;Noroeste  20;1003.3 / \r\n Benito Juárez;06-julio-2026;21:00;Despejado;15 km;2.6;No se calcula; 89;Calma;992 / \r\n Bolívar;06-julio-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;0.8;No se calcula; 100;Calma;1009 / \r\n Campo de Mayo;06-julio-2026;21:00;Despejado;10 km;7;No se calcula; 77;Sudoeste  3;1017.6 / \r\n Coronel Suarez;06-juli",
+  "actualizado_github": "2026-07-07T09:31:23.720600Z"
 }
