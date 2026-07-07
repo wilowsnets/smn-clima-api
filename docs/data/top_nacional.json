@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-06T23:01:54.489296Z",
-  "ultima_actualizacion_smn": "2026-07-06T18:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "actualizado_github": "2026-07-07T01:14:40.671325Z",
+  "ultima_actualizacion_smn": "2026-07-06T19:00:00-03:00",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Villa María Del Río Seco",
     "fecha_hora": "2026-07-06T15:00:00-03:00",
@@ -31,27 +31,27 @@
     "presion": 936.6
   },
   "mayor_viento": {
-    "estacion": "Mount Pleasant Airport (Islas Malvinas)",
+    "estacion": "Base Esperanza",
     "fecha_hora": "2026-07-06T18:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "Sin información",
-    "temperatura": 5.3,
-    "termica": -1.5,
-    "humedad": 80,
-    "viento_dir": "Norte",
-    "viento_vel": 61,
-    "presion": 994.2
+    "visibilidad": "10 km",
+    "temperatura": -1.9,
+    "termica": -10.4,
+    "humedad": 75,
+    "viento_dir": "Oeste",
+    "viento_vel": 46,
+    "presion": 976.0
   },
   "mayor_humedad": {
-    "estacion": "Bernardo De Irigoyen",
-    "fecha_hora": "2026-07-06T18:00:00-03:00",
+    "estacion": "Bolívar",
+    "fecha_hora": "2026-07-06T19:00:00-03:00",
     "estado": "Cielo invisible con niebla",
     "visibilidad": "Menor a 100 mts",
-    "temperatura": 8.4,
-    "termica": 6.9,
+    "temperatura": 2.0,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 9,
-    "presion": 926.8
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1008.9
   }
 }
