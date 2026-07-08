@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260708.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;08-julio-2026;08:00;Nublado;15 km;5.8;3.1; 76;Noroeste  13;995.4 / \r\n Bahía Blanca;08-julio-2026;08:00;Cubierto;15 km;9.8;7.7; 62;Norte  14;1001.7 / \r\n Benito Juárez;07-julio-2026;21:00;Algo nublado;15 km;11.4;No se calcula; 53;Noroeste  44;985.3 / \r\n Bolívar;07-julio-2026;21:00;Parcialmente nublado;15 km;8;6.4; 81;Norte  9;1001.8 / \r\n Campo de Mayo;07-julio-2026;21:00;Parcialmente nublado;10 km;12.8;No se calcula; 58;Noroeste  14;1012.4 / \r\n Coronel Suarez;08-julio-2026;08:00;Cubierto;12 k",
-  "actualizado_github": "2026-07-08T12:16:14.078302Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Maquinchao;08-julio-2026;10:00;Nublado;40 km;5.8;---;---;Calma;906.9 /"
+  ],
+  "primeros_500_caracteres": "Azul;08-julio-2026;10:00;Cubierto;15 km;6.6;4.0; 73;Noroeste  13;996 / \r\n Bahía Blanca;08-julio-2026;10:00;Cubierto;15 km;10.6;No se calcula; 60;Norte  3;999.4 / \r\n Benito Juárez;08-julio-2026;09:00;Cubierto;10 km;7.2;5.4; 83;Noroeste  9;987.3 / \r\n Bolívar;08-julio-2026;10:00;Nublado;15 km;5.5;No se calcula; 82;Calma;1003.4 / \r\n Campo de Mayo;08-julio-2026;10:00;Despejado;10 km;11.8;No se calcula; 61;Noroeste  9;1013.7 / \r\n Coronel Suarez;08-julio-2026;10:00;Cubierto;15 km;5.2;3.1; 82;Noroeste  ",
+  "actualizado_github": "2026-07-08T14:54:00.277478Z"
 }
