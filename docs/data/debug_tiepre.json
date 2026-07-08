@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260707.txt",
+  "archivo_zip_usado": "estado_tiempo20260708.txt",
   "archivos_zip": [
-    "estado_tiempo20260707.txt"
+    "estado_tiempo20260708.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;07-julio-2026;20:00;Parcialmente nublado;15 km;10.6;No se calcula; 57;Noroeste  14;994.7 / \r\n Bahía Blanca;07-julio-2026;20:00;Parcialmente nublado;15 km;12.1;No se calcula; 44;Norte  27;998.6 / \r\n Benito Juárez;07-julio-2026;15:00;Parcialmente nublado;15 km;12.5;No se calcula; 50;Noroeste  24;985.7 / \r\n Bolívar;07-julio-2026;20:00;Parcialmente nublado;15 km;9.2;7.5; 76;Norte  11;1001.6 / \r\n Campo de Mayo;07-julio-2026;20:00;Parcialmente nublado;10 km;13.4;No se calcula; 55;Norte  13;1012.4",
-  "actualizado_github": "2026-07-07T23:53:20.928570Z"
+  "primeros_500_caracteres": "Azul;07-julio-2026;22:00;Algo nublado;15 km;6.1;4.1; 80;Oeste  9;995.3 / \r\n Bahía Blanca;07-julio-2026;22:00;Nublado;15 km;13.6;No se calcula; 45;Norte  25;999.4 / \r\n Benito Juárez;07-julio-2026;21:00;Algo nublado;15 km;11.4;No se calcula; 53;Noroeste  44;985.3 / \r\n Bolívar;07-julio-2026;21:00;Parcialmente nublado;15 km;8;6.4; 81;Norte  9;1001.8 / \r\n Campo de Mayo;07-julio-2026;21:00;Parcialmente nublado;10 km;12.8;No se calcula; 58;Noroeste  14;1012.4 / \r\n Coronel Suarez;07-julio-2026;21:00;Des",
+  "actualizado_github": "2026-07-08T02:06:40.884730Z"
 }
