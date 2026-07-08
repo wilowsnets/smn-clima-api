@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-08T16:26:32.240897Z",
-  "ultima_actualizacion_smn": "2026-07-08T12:00:00-03:00",
+  "actualizado_github": "2026-07-08T17:58:46.298399Z",
+  "ultima_actualizacion_smn": "2026-07-08T13:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Esquel",
-    "fecha_hora": "2026-07-08T12:00:00-03:00",
+    "fecha_hora": "2026-07-08T13:00:00-03:00",
     "estado": "Cubierto con lluvia",
-    "visibilidad": "5 km",
-    "temperatura": 2.9,
+    "visibilidad": "4.0 km",
+    "temperatura": 3.2,
     "termica": -0.1,
-    "humedad": 96,
-    "viento_dir": "Este",
-    "viento_vel": 11,
-    "presion": 917.5
+    "humedad": 95,
+    "viento_dir": "Norte",
+    "viento_vel": 13,
+    "presion": 917.4
   }
 }
