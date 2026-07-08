@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-08T05:34:41.636168Z",
-  "ultima_actualizacion_smn": "2026-07-08T02:00:00-03:00",
+  "actualizado_github": "2026-07-08T08:15:22.643425Z",
+  "ultima_actualizacion_smn": "2026-07-08T04:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-08T00:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "20 km",
-    "temperatura": -12.9,
-    "termica": -23.5,
+    "fecha_hora": "2026-07-08T03:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -12.8,
+    "termica": -21.0,
     "humedad": 54,
     "viento_dir": "Este",
-    "viento_vel": 31,
-    "presion": 947.3
+    "viento_vel": 18,
+    "presion": 949.8
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-08T00:00:00-03:00",
-    "estado": "Algo nublado con ventisca baja",
-    "visibilidad": "1.5 km",
-    "temperatura": -1.1,
-    "termica": -11.7,
-    "humedad": 87,
+    "estacion": "Base Carlini",
+    "fecha_hora": "2026-07-08T03:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura": -1.9,
+    "termica": -11.1,
+    "humedad": 85,
     "viento_dir": "Oeste",
-    "viento_vel": 87,
-    "presion": 962.8
+    "viento_vel": 55,
+    "presion": 976.1
   },
   "mayor_humedad": {
     "estacion": "Maquinchao",
-    "fecha_hora": "2026-07-08T00:00:00-03:00",
+    "fecha_hora": "2026-07-08T03:00:00-03:00",
     "estado": "Nublado con lluvia",
-    "visibilidad": "40 km",
-    "temperatura": 7.2,
-    "termica": 4.5,
+    "visibilidad": "25 km",
+    "temperatura": 6.6,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Oeste",
-    "viento_vel": 14,
-    "presion": 907.2
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 907.3
   }
 }
