@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-08T08:15:22.643425Z",
-  "ultima_actualizacion_smn": "2026-07-08T04:00:00-03:00",
+  "actualizado_github": "2026-07-08T10:33:37.288861Z",
+  "ultima_actualizacion_smn": "2026-07-08T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,16 +31,16 @@
     "presion": 949.8
   },
   "mayor_viento": {
-    "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-08T03:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "10 km",
-    "temperatura": -1.9,
-    "termica": -11.1,
-    "humedad": 85,
-    "viento_dir": "Oeste",
-    "viento_vel": 55,
-    "presion": 976.1
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-08T05:00:00-03:00",
+    "estado": "Cubierto",
+    "visibilidad": "15 km",
+    "temperatura": -3.8,
+    "termica": -13.8,
+    "humedad": 71,
+    "viento_dir": "Noroeste",
+    "viento_vel": 57,
+    "presion": 943.0
   },
   "mayor_humedad": {
     "estacion": "Maquinchao",
