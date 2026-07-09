@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-09T22:16:34.332127Z",
-  "ultima_actualizacion_smn": "2026-07-09T18:00:00-03:00",
+  "actualizado_github": "2026-07-09T23:43:58.549297Z",
+  "ultima_actualizacion_smn": "2026-07-09T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 987.0
   },
   "mayor_humedad": {
-    "estacion": "Río Colorado",
-    "fecha_hora": "2026-07-09T15:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "500 mts",
-    "temperatura": 8.8,
-    "termica": 7.3,
+    "estacion": "Maquinchao",
+    "fecha_hora": "2026-07-09T20:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "40 km",
+    "temperatura": 1.2,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sudeste",
-    "viento_vel": 9,
-    "presion": 1010.0
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 917.3
   }
 }
