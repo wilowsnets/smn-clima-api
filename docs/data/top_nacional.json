@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-08T22:30:47.204492Z",
-  "ultima_actualizacion_smn": "2026-07-08T18:00:00-03:00",
+  "actualizado_github": "2026-07-09T00:04:22.878508Z",
+  "ultima_actualizacion_smn": "2026-07-08T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Tinogasta",
-    "fecha_hora": "2026-07-08T15:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "20 km",
-    "temperatura": 24.2,
-    "termica": null,
-    "humedad": 15,
-    "viento_dir": "Sudeste",
-    "viento_vel": 9,
-    "presion": 869.5
+    "estacion": "Rivadavia",
+    "fecha_hora": "2026-07-08T18:00:00-03:00",
+    "estado": "Despejado",
+    "visibilidad": "10 km",
+    "temperatura": 26.4,
+    "termica": 26.9,
+    "humedad": 51,
+    "viento_dir": "Norte",
+    "viento_vel": 3,
+    "presion": 984.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 948.6
   },
   "mayor_humedad": {
-    "estacion": "Maquinchao",
-    "fecha_hora": "2026-07-08T17:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "10 km",
-    "temperatura": 4.8,
-    "termica": 2.6,
-    "humedad": 100,
-    "viento_dir": "Sudeste",
-    "viento_vel": 9,
-    "presion": 906.0
+    "estacion": "Esquel",
+    "fecha_hora": "2026-07-08T19:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "3.7 km",
+    "temperatura": 0.5,
+    "termica": null,
+    "humedad": 97,
+    "viento_dir": "Direcciones Variables",
+    "viento_vel": 1,
+    "presion": 920.5
   }
 }
