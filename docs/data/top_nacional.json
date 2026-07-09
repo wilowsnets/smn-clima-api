@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-09T16:59:27.277435Z",
-  "ultima_actualizacion_smn": "2026-07-09T12:00:00-03:00",
+  "actualizado_github": "2026-07-09T18:52:23.883445Z",
+  "ultima_actualizacion_smn": "2026-07-09T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Formosa",
-    "fecha_hora": "2026-07-09T12:00:00-03:00",
+    "fecha_hora": "2026-07-09T14:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": 24.8,
-    "termica": null,
-    "humedad": 59,
+    "temperatura": 26.7,
+    "termica": 27.5,
+    "humedad": 55,
     "viento_dir": "Noreste",
-    "viento_vel": 13,
-    "presion": 1007.4
+    "viento_vel": 9,
+    "presion": 1006.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
