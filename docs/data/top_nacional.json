@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-10T06:25:00.662722Z",
-  "ultima_actualizacion_smn": "2026-07-10T02:00:00-03:00",
+  "actualizado_github": "2026-07-10T09:58:31.245064Z",
+  "ultima_actualizacion_smn": "2026-07-10T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-10T00:00:00-03:00",
+    "fecha_hora": "2026-07-10T06:00:00-03:00",
     "estado": "Nublado con nevada",
-    "visibilidad": "5 km",
-    "temperatura": -13.7,
-    "termica": -17.5,
-    "humedad": 71,
-    "viento_dir": "Oeste",
+    "visibilidad": "3.0 km",
+    "temperatura": -14.2,
+    "termica": -18.0,
+    "humedad": 75,
+    "viento_dir": "Noroeste",
     "viento_vel": 5,
-    "presion": 944.6
+    "presion": 945.6
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-10T00:00:00-03:00",
-    "estado": "Nublado",
+    "fecha_hora": "2026-07-10T06:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "10 km",
     "temperatura": -1.0,
-    "termica": -8.8,
-    "humedad": 91,
+    "termica": -9.2,
+    "humedad": 83,
     "viento_dir": "Oeste",
-    "viento_vel": 40,
-    "presion": 987.0
+    "viento_vel": 46,
+    "presion": 991.2
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-07-10T02:00:00-03:00",
-    "estado": "Cubierto con niebla",
-    "visibilidad": "300 mts",
-    "temperatura": 8.5,
-    "termica": 6.7,
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-07-10T06:00:00-03:00",
+    "estado": "Cubierto",
+    "visibilidad": "15 km",
+    "temperatura": 8.4,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 11,
-    "presion": 1014.9
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1012.8
   }
 }
