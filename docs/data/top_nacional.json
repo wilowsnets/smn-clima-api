@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-10T22:55:38.364737Z",
-  "ultima_actualizacion_smn": "2026-07-10T18:00:00-03:00",
+  "actualizado_github": "2026-07-10T23:54:47.099177Z",
+  "ultima_actualizacion_smn": "2026-07-10T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Orán",
-    "fecha_hora": "2026-07-10T17:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "10 km",
-    "temperatura": 26.8,
+    "estacion": "Formosa",
+    "fecha_hora": "2026-07-10T20:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura": 26.0,
     "termica": 27.2,
-    "humedad": 50,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 965.2
+    "humedad": 67,
+    "viento_dir": "Oeste",
+    "viento_vel": 3,
+    "presion": 1001.8
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
