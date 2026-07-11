@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-11T10:39:57.050388Z",
-  "ultima_actualizacion_smn": "2026-07-11T06:00:00-03:00",
+  "actualizado_github": "2026-07-11T11:47:50.963112Z",
+  "ultima_actualizacion_smn": "2026-07-11T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 984.4
   },
   "mayor_humedad": {
-    "estacion": "Ezeiza",
+    "estacion": "Las Flores",
     "fecha_hora": "2026-07-11T06:00:00-03:00",
-    "estado": "Cubierto con niebla",
-    "visibilidad": "800 mts",
-    "temperatura": 8.5,
-    "termica": 7.0,
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 8.6,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 9,
-    "presion": 1014.4
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1012.4
   }
 }

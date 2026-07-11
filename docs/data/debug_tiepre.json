@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;11-julio-2026;06:00;Cielo invisible con niebla;500 mts;7.9;No se calcula; 98;Calma;999.8 / \r\n Bahía Blanca;11-julio-2026;06:00;Cubierto con lluvia;8 km;6.6;3.3; 97;Sur  18;1011.4 / \r\n Benito Juárez;09-julio-2026;21:00;Algo nublado;15 km;6.5;No se calcula; 97;Este  3;992.8 / \r\n Bolívar;10-julio-2026;21:00;Nublado con llovizna;3.0 km;8;No se calcula; 97;Calma;1006.5 / \r\n Campo de Mayo;10-julio-2026;21:00;Cubierto con lluvia en la hora anterior;7 km;9.7;9.3; 96;Sur  5;1013.3 / \r\n Coronel Suare",
-  "actualizado_github": "2026-07-11T10:39:57.050388Z"
+  "primeros_500_caracteres": "Azul;11-julio-2026;08:00;Cubierto con neblina;2.0 km;8;6.8; 97;Sur  7;1000.7 / \r\n Bahía Blanca;11-julio-2026;08:00;Nublado con llovizna;12 km;6.4;3.8; 97;Sur  13;1012.4 / \r\n Benito Juárez;09-julio-2026;21:00;Algo nublado;15 km;6.5;No se calcula; 97;Este  3;992.8 / \r\n Bolívar;10-julio-2026;21:00;Nublado con llovizna;3.0 km;8;No se calcula; 97;Calma;1006.5 / \r\n Campo de Mayo;10-julio-2026;21:00;Cubierto con lluvia en la hora anterior;7 km;9.7;9.3; 96;Sur  5;1013.3 / \r\n Coronel Suarez;11-julio-2026",
+  "actualizado_github": "2026-07-11T11:47:50.963112Z"
 }
