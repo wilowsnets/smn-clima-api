@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-12T10:52:00.805864Z",
-  "ultima_actualizacion_smn": "2026-07-12T06:00:00-03:00",
+  "actualizado_github": "2026-07-12T11:54:03.399841Z",
+  "ultima_actualizacion_smn": "2026-07-12T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 999.4
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-07-12T06:00:00-03:00",
-    "estado": "Cubierto con llovizna",
-    "visibilidad": "9 km",
-    "temperatura": 6.6,
-    "termica": 3.8,
+    "estacion": "Punta Indio B.A.",
+    "fecha_hora": "2026-07-11T21:00:00-03:00",
+    "estado": "Cubierto",
+    "visibilidad": "10 km",
+    "temperatura": 9.6,
+    "termica": 6.4,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 14,
-    "presion": 1019.7
+    "viento_dir": "Oeste",
+    "viento_vel": 25,
+    "presion": 1016.4
   }
 }
