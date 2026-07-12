@@ -7,5 +7,5 @@
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
   "primeros_500_caracteres": "Azul;12-julio-2026;12:00;Despejado;15 km;9;8.5; 66;Sudeste  5;1008.1 / \r\n Bahía Blanca;12-julio-2026;12:00;Algo nublado;15 km;8.4;6.9; 83;Norte  9;1016.6 / \r\n Bolívar;12-julio-2026;12:00;Algo nublado;15 km;8;No se calcula; 78;Sudeste  3;1016.1 / \r\n Campo de Mayo;12-julio-2026;12:00;Cubierto;10 km;7.1;4.7; 88;Sur  13;1023.2 / \r\n Coronel Suarez;12-julio-2026;12:00;Parcialmente nublado;14 km;6.1;No se calcula; 83;Calma;998.2 / \r\n Dolores;12-julio-2026;12:00;Parcialmente nublado;10 km;9.2;6.5; 78;Su",
-  "actualizado_github": "2026-07-12T15:53:49.425252Z"
+  "actualizado_github": "2026-07-12T16:53:06.365780Z"
 }
