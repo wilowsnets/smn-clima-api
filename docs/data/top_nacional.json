@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-12T01:01:54.536397Z",
-  "ultima_actualizacion_smn": "2026-07-11T20:00:00-03:00",
+  "actualizado_github": "2026-07-12T04:48:30.352391Z",
+  "ultima_actualizacion_smn": "2026-07-12T00:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-11T18:00:00-03:00",
+    "fecha_hora": "2026-07-12T00:00:00-03:00",
     "estado": "Nublado con nevada",
     "visibilidad": "5 km",
-    "temperatura": -18.1,
-    "termica": -27.2,
-    "humedad": 62,
+    "temperatura": -18.4,
+    "termica": -24.9,
+    "humedad": 61,
     "viento_dir": "Noreste",
-    "viento_vel": 16,
-    "presion": 953.8
+    "viento_vel": 9,
+    "presion": 957.0
   },
   "mayor_viento": {
-    "estacion": "Santa Cruz",
-    "fecha_hora": "2026-07-11T15:00:00-03:00",
+    "estacion": "Base Carlini",
+    "fecha_hora": "2026-07-12T00:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "30 km",
-    "temperatura": -1.2,
-    "termica": -8.7,
-    "humedad": 76,
+    "visibilidad": "10 km",
+    "temperatura": -2.7,
+    "termica": -10.3,
+    "humedad": 75,
     "viento_dir": "Oeste",
-    "viento_vel": 37,
-    "presion": 1001.5
+    "viento_vel": 33,
+    "presion": 998.4
   },
   "mayor_humedad": {
-    "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-11T20:00:00-03:00",
-    "estado": "Cubierto",
+    "estacion": "La Plata",
+    "fecha_hora": "2026-07-12T00:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "10 km",
-    "temperatura": 10.0,
-    "termica": 7.0,
+    "temperatura": 7.0,
+    "termica": 4.8,
     "humedad": 100,
-    "viento_dir": "Oeste",
-    "viento_vel": 24,
-    "presion": 1015.8
+    "viento_dir": "Sur",
+    "viento_vel": 11,
+    "presion": 1018.2
   }
 }

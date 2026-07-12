@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260711.txt",
+  "archivo_zip_usado": "estado_tiempo20260712.txt",
   "archivos_zip": [
-    "estado_tiempo20260711.txt"
+    "estado_tiempo20260712.txt"
   ],
-  "cantidad_estaciones": 121,
+  "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;11-julio-2026;20:00;Algo nublado;15 km;7;No se calcula; 94;Sur  3;1003.4 / \r\n Bahía Blanca;11-julio-2026;20:00;Despejado;15 km;3.2;-0.1; 90;Sudeste  13;1014.4 / \r\n Benito Juárez;09-julio-2026;21:00;Algo nublado;15 km;6.5;No se calcula; 97;Este  3;992.8 / \r\n Bolívar;11-julio-2026;20:00;Algo nublado;10 km;8.3;No se calcula; 96;Sudoeste  3;1010.4 / \r\n Campo de Mayo;11-julio-2026;20:00;Cubierto;10 km;10.1;No se calcula; 85;Sudoeste  13;1017.2 / \r\n Coronel Suarez;11-julio-2026;15:00;Parcialmente",
-  "actualizado_github": "2026-07-12T01:01:54.536397Z"
+  "primeros_500_caracteres": "Azul;12-julio-2026;00:00;Cubierto con llovizna;12 km;6.5;4.6; 90;Sur  9;1005.4 / \r\n Bahía Blanca;12-julio-2026;00:00;Despejado;15 km;-0.8;-5.0; 95;Noreste  13;1015.2 / \r\n Bolívar;11-julio-2026;20:00;Algo nublado;10 km;8.3;No se calcula; 96;Sudoeste  3;1010.4 / \r\n Campo de Mayo;11-julio-2026;21:00;Cubierto con llovizna;8 km;9.4;8.1; 96;Sudoeste  9;1017 / \r\n Coronel Suarez;11-julio-2026;21:00;Despejado;12 km;4;0.9; 88;Sur  13;995.3 / \r\n Dolores;11-julio-2026;20:00;Parcialmente nublado;10 km;8.8;6.",
+  "actualizado_github": "2026-07-12T04:48:30.352391Z"
 }
