@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-12T21:13:39.071419Z",
-  "ultima_actualizacion_smn": "2026-07-12T16:00:00-03:00",
+  "actualizado_github": "2026-07-12T22:12:54.535624Z",
+  "ultima_actualizacion_smn": "2026-07-12T18:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-12T15:00:00-03:00",
+    "fecha_hora": "2026-07-12T18:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -19.8,
-    "termica": -31.1,
-    "humedad": 52,
-    "viento_dir": "Este",
-    "viento_vel": 24,
-    "presion": 959.7
+    "temperatura": -18.7,
+    "termica": -28.4,
+    "humedad": 61,
+    "viento_dir": "Noreste",
+    "viento_vel": 18,
+    "presion": 959.4
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-12T15:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-12T18:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "10 km",
-    "temperatura": -4.6,
-    "termica": -14.5,
-    "humedad": 67,
-    "viento_dir": "Oeste",
-    "viento_vel": 51,
-    "presion": 1001.4
+    "temperatura": -4.0,
+    "termica": -12.6,
+    "humedad": 73,
+    "viento_dir": "Sur",
+    "viento_vel": 38,
+    "presion": 1003.8
   },
   "mayor_humedad": {
     "estacion": "Santa Cruz",
