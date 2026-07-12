@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260712.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;12-julio-2026;08:00;Algo nublado;15 km;-0.4;-3.0; 95;Sur  7;1006.9 / \r\n Bahía Blanca;12-julio-2026;08:00;Algo nublado;15 km;-1.9;-5.4; 97;Norte  9;1015.3 / \r\n Bolívar;11-julio-2026;21:00;Despejado;10 km;7;No se calcula; 98;Calma;1011 / \r\n Campo de Mayo;11-julio-2026;21:00;Cubierto con llovizna;8 km;9.4;8.1; 96;Sudoeste  9;1017 / \r\n Coronel Suarez;12-julio-2026;08:00;Cielo invisible con niebla;100 mts;-1.8;No se calcula; 96;Calma;997 / \r\n Dolores;11-julio-2026;21:00;Algo nublado;10 km;8.6;7.",
-  "actualizado_github": "2026-07-12T13:05:49.382820Z"
+  "cantidad_estaciones": 119,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Tinogasta;12-julio-2026;09:00;Despejado;20 km;1.8;---;---;Sur  14;881.5 /"
+  ],
+  "primeros_500_caracteres": "Azul;12-julio-2026;10:00;Despejado;15 km;3;1.0; 90;Sur  7;1007.6 / \r\n Bahía Blanca;12-julio-2026;10:00;Algo nublado;15 km;1.4;-1.9; 92;Norte  11;1016.4 / \r\n Bolívar;12-julio-2026;10:00;Algo nublado;15 km;3.3;No se calcula; 93;Calma;1015.4 / \r\n Campo de Mayo;12-julio-2026;10:00;Cubierto con llovizna;10 km;6.7;4.2; 91;Sur  13;1022.8 / \r\n Coronel Suarez;12-julio-2026;10:00;Algo nublado con neblina;3.0 km;-0.8;No se calcula; 91;Sur  3;997.8 / \r\n Dolores;12-julio-2026;10:00;Algo nublado;10 km;6.1;3.1",
+  "actualizado_github": "2026-07-12T14:39:33.159314Z"
 }

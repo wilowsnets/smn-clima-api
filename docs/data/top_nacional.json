@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-12T13:05:49.382820Z",
-  "ultima_actualizacion_smn": "2026-07-12T08:00:00-03:00",
+  "actualizado_github": "2026-07-12T14:39:33.159314Z",
+  "ultima_actualizacion_smn": "2026-07-12T10:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-12T06:00:00-03:00",
-    "estado": "Nublado con nevada",
+    "fecha_hora": "2026-07-12T09:00:00-03:00",
+    "estado": "Nublado con ventisca baja",
     "visibilidad": "5 km",
-    "temperatura": -18.7,
-    "termica": null,
-    "humedad": 72,
-    "viento_dir": "Oeste",
-    "viento_vel": 3,
-    "presion": 959.0
+    "temperatura": -17.9,
+    "termica": -29.4,
+    "humedad": 73,
+    "viento_dir": "Noreste",
+    "viento_vel": 27,
+    "presion": 959.7
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-12T06:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "10 km",
-    "temperatura": -4.6,
-    "termica": -13.8,
-    "humedad": 72,
-    "viento_dir": "Oeste",
-    "viento_vel": 42,
-    "presion": 999.4
-  },
-  "mayor_humedad": {
-    "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-11T21:00:00-03:00",
+    "fecha_hora": "2026-07-12T09:00:00-03:00",
     "estado": "Cubierto",
     "visibilidad": "10 km",
-    "temperatura": 9.6,
-    "termica": 6.4,
-    "humedad": 100,
+    "temperatura": -4.5,
+    "termica": -12.7,
+    "humedad": 81,
     "viento_dir": "Oeste",
-    "viento_vel": 25,
-    "presion": 1016.4
+    "viento_vel": 33,
+    "presion": 999.8
+  },
+  "mayor_humedad": {
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-07-12T09:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": 1.6,
+    "termica": null,
+    "humedad": 100,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 3,
+    "presion": 1019.4
   }
 }
