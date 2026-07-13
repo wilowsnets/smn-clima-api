@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-13T16:55:01.871163Z",
-  "ultima_actualizacion_smn": "2026-07-13T12:00:00-03:00",
+  "actualizado_github": "2026-07-13T18:28:33.314346Z",
+  "ultima_actualizacion_smn": "2026-07-13T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "San Luis",
-    "fecha_hora": "2026-07-13T12:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-13T14:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": 20.0,
+    "temperatura": 22.4,
     "termica": null,
-    "humedad": 44,
+    "humedad": 33,
     "viento_dir": "Norte",
-    "viento_vel": 24,
-    "presion": 930.6
+    "viento_vel": 27,
+    "presion": 929.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
