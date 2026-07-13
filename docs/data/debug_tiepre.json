@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260712.txt",
+  "archivo_zip_usado": "estado_tiempo20260713.txt",
   "archivos_zip": [
-    "estado_tiempo20260712.txt"
+    "estado_tiempo20260713.txt"
   ],
-  "cantidad_estaciones": 120,
+  "cantidad_estaciones": 119,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;12-julio-2026;20:00;Despejado;15 km;4.6;No se calcula; 81;Oeste  3;1007.2 / \r\n Bahía Blanca;12-julio-2026;20:00;Despejado;15 km;4.8;1.9; 87;Norte  13;1013.4 / \r\n Bolívar;12-julio-2026;20:00;Despejado;15 km;4.6;No se calcula; 90;Calma;1013.8 / \r\n Campo de Mayo;12-julio-2026;20:00;Despejado;10 km;4.6;No se calcula; 96;Calma;1022.9 / \r\n Coronel Suarez;12-julio-2026;15:00;Parcialmente nublado;15 km;9.2;7.8; 60;Oeste  9;996.5 / \r\n Dolores;12-julio-2026;20:00;Algo nublado;10 km;6.1;4.6; 85;Sur  7",
-  "actualizado_github": "2026-07-13T01:02:31.045661Z"
+  "primeros_500_caracteres": "Azul;13-julio-2026;00:00;Despejado con neblina;7 km;0.5;No se calcula; 100;Norte  3;1006.9 / \r\n Bahía Blanca;13-julio-2026;00:00;Parcialmente nublado;15 km;2.9;0.3; 93;Norte  9;1011.3 / \r\n Bolívar;12-julio-2026;21:00;Despejado;15 km;3.6;No se calcula; 93;Calma;1013.8 / \r\n Campo de Mayo;12-julio-2026;21:00;Algo nublado;10 km;3.3;No se calcula; 99;Calma;1023 / \r\n Coronel Suarez;12-julio-2026;21:00;Despejado;12 km;2.9;1.5; 88;Norte  5;996.2 / \r\n Dolores;12-julio-2026;21:00;Algo nublado;10 km;4.6;No",
+  "actualizado_github": "2026-07-13T04:55:30.228404Z"
 }
