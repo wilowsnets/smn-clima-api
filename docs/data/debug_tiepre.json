@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260713.txt",
+  "archivo_zip_usado": "estado_tiempo20260714.txt",
   "archivos_zip": [
-    "estado_tiempo20260713.txt"
+    "estado_tiempo20260714.txt"
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;13-julio-2026;20:00;Nublado;15 km;7.4;5.0; 87;Noreste  13;1000.5 / \r\n Bahía Blanca;13-julio-2026;19:00;Nublado;15 km;11.6;No se calcula; 69;Norte  31;1002.6 / \r\n Bolívar;13-julio-2026;20:00;Parcialmente nublado;15 km;8.6;7.5; 83;Noreste  7;1005.8 / \r\n Campo de Mayo;13-julio-2026;20:00;Despejado;10 km;7.2;4.2; 87;Noreste  16;1016.9 / \r\n Coronel Suarez;13-julio-2026;15:00;Nublado;12 km;10.9;No se calcula; 67;Norte  31;987.4 / \r\n Dolores;13-julio-2026;20:00;Nublado;10 km;7.2;4.8; 89;Norte  13;",
-  "actualizado_github": "2026-07-14T00:13:23.548958Z"
+  "primeros_500_caracteres": "Azul;14-julio-2026;00:00;Parcialmente nublado con neblina;6 km;5;2.8; 93;Norte  9;1000.6 / \r\n Bahía Blanca;14-julio-2026;00:00;Nublado;15 km;11;No se calcula; 78;Noroeste  25;1004.8 / \r\n Bolívar;13-julio-2026;21:00;Parcialmente nublado con neblina;6 km;7.8;6.6; 86;Noreste  7;1006.1 / \r\n Campo de Mayo;13-julio-2026;21:00;Despejado;10 km;6.8;3.8; 89;Noreste  16;1016.8 / \r\n Coronel Suarez;13-julio-2026;21:00;Parcialmente nublado;12 km;6.8;3.8; 89;Norte  16;988.1 / \r\n Dolores;13-julio-2026;21:00;Cub",
+  "actualizado_github": "2026-07-14T03:42:55.243064Z"
 }
