@@ -1,33 +1,33 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-14T18:36:10.803228Z",
-  "ultima_actualizacion_smn": "2026-07-14T14:00:00-03:00",
+  "actualizado_github": "2026-07-14T20:06:26.917096Z",
+  "ultima_actualizacion_smn": "2026-07-14T16:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Córdoba",
-    "fecha_hora": "2026-07-14T14:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "15 km",
-    "temperatura": 26.5,
-    "termica": 24.5,
-    "humedad": 40,
+    "estacion": "Las Lomitas",
+    "fecha_hora": "2026-07-14T15:00:00-03:00",
+    "estado": "Despejado",
+    "visibilidad": "20 km",
+    "temperatura": 26.8,
+    "termica": 25.9,
+    "humedad": 42,
     "viento_dir": "Norte",
-    "viento_vel": 24,
-    "presion": 951.8
+    "viento_vel": 14,
+    "presion": 996.1
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-14T12:00:00-03:00",
-    "estado": "Parcialmente nublado con ventisca baja",
+    "fecha_hora": "2026-07-14T15:00:00-03:00",
+    "estado": "Nublado con nevada",
     "visibilidad": "5 km",
-    "temperatura": -21.3,
-    "termica": -33.0,
-    "humedad": 46,
+    "temperatura": -21.7,
+    "termica": -30.4,
+    "humedad": 67,
     "viento_dir": "Sudeste",
-    "viento_vel": 24,
+    "viento_vel": 13,
     "presion": 951.6
   },
   "mayor_viento": {
@@ -43,15 +43,15 @@
     "presion": 983.0
   },
   "mayor_humedad": {
-    "estacion": "Victorica",
+    "estacion": "Chilecito",
     "fecha_hora": "2026-07-14T09:00:00-03:00",
-    "estado": "Parcialmente nublado con niebla",
-    "visibilidad": "400 mts",
-    "temperatura": 3.0,
+    "estado": "Algo nublado con neblina",
+    "visibilidad": "15 km",
+    "temperatura": 2.5,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Noreste",
-    "viento_vel": 3,
-    "presion": 974.1
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 906.0
   }
 }
