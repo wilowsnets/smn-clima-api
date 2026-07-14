@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-14T22:31:21.821064Z",
-  "ultima_actualizacion_smn": "2026-07-14T18:00:00-03:00",
+  "actualizado_github": "2026-07-14T23:46:46.138805Z",
+  "ultima_actualizacion_smn": "2026-07-14T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
