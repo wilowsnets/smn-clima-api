@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;14-julio-2026;10:00;Nublado con neblina;8 km;6.6;4.4; 91;Norte  11;999.8 / \r\n Bahía Blanca;14-julio-2026;10:00;Cubierto;15 km;9.2;7.2; 83;Norte  13;1004.2 / \r\n Bolívar;14-julio-2026;10:00;Nublado con neblina;8 km;7;5.2; 94;Noreste  9;1005.2 / \r\n Campo de Mayo;14-julio-2026;10:00;Cubierto;10 km;8.6;6.0; 90;Norte  16;1017.3 / \r\n Coronel Suarez;14-julio-2026;10:00;Cubierto con neblina;1.5 km;5.1;1.9; 98;Norte  14;986.8 / \r\n Dolores;14-julio-2026;10:00;Cubierto;10 km;9;6.3; 93;Norte  18;1018.6 ",
-  "actualizado_github": "2026-07-14T14:21:56.037762Z"
+  "primeros_500_caracteres": "Azul;14-julio-2026;12:00;Nublado con neblina;12 km;8.6;6.2; 86;Norte  14;999 / \r\n Bahía Blanca;14-julio-2026;12:00;Cubierto;15 km;11.1;No se calcula; 80;Norte  16;1003.3 / \r\n Bolívar;14-julio-2026;12:00;Nublado;12 km;11;No se calcula; 85;Norte  14;1004.2 / \r\n Campo de Mayo;14-julio-2026;12:00;Parcialmente nublado;10 km;12.2;No se calcula; 76;Norte  22;1016 / \r\n Coronel Suarez;14-julio-2026;12:00;Cubierto con neblina;6 km;8.1;4.8; 90;Norte  22;986.1 / \r\n Dolores;14-julio-2026;11:00;Cubierto;10 km",
+  "actualizado_github": "2026-07-14T15:54:39.101042Z"
 }
