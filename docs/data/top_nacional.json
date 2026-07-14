@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-14T06:06:09.364630Z",
-  "ultima_actualizacion_smn": "2026-07-14T02:00:00-03:00",
+  "actualizado_github": "2026-07-14T08:33:26.780407Z",
+  "ultima_actualizacion_smn": "2026-07-14T04:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-14T00:00:00-03:00",
+    "fecha_hora": "2026-07-14T03:00:00-03:00",
     "estado": "Nublado con nevada",
     "visibilidad": "5 km",
-    "temperatura": -20.3,
-    "termica": -27.2,
-    "humedad": 62,
-    "viento_dir": "Sur",
-    "viento_vel": 9,
-    "presion": 952.2
+    "temperatura": -21.7,
+    "termica": -29.7,
+    "humedad": 59,
+    "viento_dir": "Sudeste",
+    "viento_vel": 11,
+    "presion": 952.4
   },
   "mayor_viento": {
     "estacion": "Base Esperanza",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Base San Martín",
-    "fecha_hora": "2026-07-14T00:00:00-03:00",
-    "estado": "Cubierto con nevada",
+    "fecha_hora": "2026-07-14T03:00:00-03:00",
+    "estado": "Cubierto con ventisca alta",
     "visibilidad": "300 mts",
-    "temperatura": -12.1,
-    "termica": -25.0,
+    "temperatura": -14.3,
+    "termica": -26.6,
     "humedad": 100,
     "viento_dir": "Noroeste",
-    "viento_vel": 53,
-    "presion": 972.9
+    "viento_vel": 40,
+    "presion": 976.0
   }
 }
