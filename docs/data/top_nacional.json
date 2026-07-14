@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-13T23:24:32.029345Z",
-  "ultima_actualizacion_smn": "2026-07-13T18:00:00-03:00",
+  "actualizado_github": "2026-07-14T00:13:23.548958Z",
+  "ultima_actualizacion_smn": "2026-07-13T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,16 +31,16 @@
     "presion": 952.6
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
+    "estacion": "Base Esperanza",
     "fecha_hora": "2026-07-13T18:00:00-03:00",
-    "estado": "Cubierto con ventisca baja",
-    "visibilidad": "7 km",
+    "estado": "Cielo invisible con nevada",
+    "visibilidad": "200 mts",
     "temperatura": -1.8,
-    "termica": -12.6,
-    "humedad": 68,
-    "viento_dir": "Noroeste",
-    "viento_vel": 85,
-    "presion": 953.4
+    "termica": -12.5,
+    "humedad": 94,
+    "viento_dir": "Oeste",
+    "viento_vel": 83,
+    "presion": 978.0
   },
   "mayor_humedad": {
     "estacion": "San Julián",
