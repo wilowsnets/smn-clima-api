@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-15T07:10:29.285293Z",
-  "ultima_actualizacion_smn": "2026-07-15T02:00:00-03:00",
+  "actualizado_github": "2026-07-15T09:27:08.045716Z",
+  "ultima_actualizacion_smn": "2026-07-15T04:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-15T00:00:00-03:00",
-    "estado": "Parcialmente nublado con nevada",
-    "visibilidad": "10 km",
-    "temperatura": -22.4,
-    "termica": -33.1,
-    "humedad": 50,
+    "fecha_hora": "2026-07-15T03:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura": -24.4,
+    "termica": -35.6,
+    "humedad": 43,
     "viento_dir": "Sudeste",
     "viento_vel": 18,
-    "presion": 948.4
+    "presion": 947.2
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-15T00:00:00-03:00",
+    "fecha_hora": "2026-07-15T03:00:00-03:00",
     "estado": "Cubierto con nevada",
     "visibilidad": "2.0 km",
-    "temperatura": -3.5,
-    "termica": -13.8,
-    "humedad": 85,
+    "temperatura": 0.3,
+    "termica": -9.3,
+    "humedad": 92,
     "viento_dir": "Norte",
-    "viento_vel": 63,
-    "presion": 966.0
+    "viento_vel": 79,
+    "presion": 955.6
   },
   "mayor_humedad": {
-    "estacion": "Santa Rosa",
-    "fecha_hora": "2026-07-15T02:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "100 mts",
-    "temperatura": 5.1,
-    "termica": null,
+    "estacion": "Base San Martín",
+    "fecha_hora": "2026-07-15T03:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura": -18.3,
+    "termica": -31.1,
     "humedad": 100,
-    "viento_dir": "Noroeste",
-    "viento_vel": 1,
-    "presion": 986.5
+    "viento_dir": "Este",
+    "viento_vel": 35,
+    "presion": 972.4
   }
 }
