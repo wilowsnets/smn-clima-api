@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-15T09:27:08.045716Z",
-  "ultima_actualizacion_smn": "2026-07-15T04:00:00-03:00",
+  "actualizado_github": "2026-07-15T11:08:34.955385Z",
+  "ultima_actualizacion_smn": "2026-07-15T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-15T03:00:00-03:00",
+    "fecha_hora": "2026-07-15T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -24.4,
-    "termica": -35.6,
-    "humedad": 43,
+    "temperatura": -23.2,
+    "termica": -32.9,
+    "humedad": 31,
     "viento_dir": "Sudeste",
-    "viento_vel": 18,
-    "presion": 947.2
+    "viento_vel": 14,
+    "presion": 945.4
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-15T03:00:00-03:00",
-    "estado": "Cubierto con nevada",
-    "visibilidad": "2.0 km",
-    "temperatura": 0.3,
-    "termica": -9.3,
-    "humedad": 92,
-    "viento_dir": "Norte",
-    "viento_vel": 79,
-    "presion": 955.6
+    "fecha_hora": "2026-07-15T06:00:00-03:00",
+    "estado": "Cubierto con ventisca baja",
+    "visibilidad": "4.0 km",
+    "temperatura": -3.7,
+    "termica": -14.8,
+    "humedad": 89,
+    "viento_dir": "Noroeste",
+    "viento_vel": 75,
+    "presion": 949.2
   },
   "mayor_humedad": {
     "estacion": "Base San Martín",
-    "fecha_hora": "2026-07-15T03:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-07-15T06:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": -18.3,
-    "termica": -31.1,
+    "temperatura": -18.4,
+    "termica": -29.7,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 35,
-    "presion": 972.4
+    "viento_vel": 25,
+    "presion": 972.9
   }
 }
