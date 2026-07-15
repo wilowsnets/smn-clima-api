@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-15T11:08:34.955385Z",
-  "ultima_actualizacion_smn": "2026-07-15T06:00:00-03:00",
+  "actualizado_github": "2026-07-15T12:49:43.718219Z",
+  "ultima_actualizacion_smn": "2026-07-15T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 949.2
   },
   "mayor_humedad": {
-    "estacion": "Base San Martín",
-    "fecha_hora": "2026-07-15T06:00:00-03:00",
-    "estado": "Despejado",
-    "visibilidad": "20 km",
-    "temperatura": -18.4,
-    "termica": -29.7,
+    "estacion": "Santa Rosa",
+    "fecha_hora": "2026-07-15T08:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 3.4,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 25,
-    "presion": 972.9
+    "viento_dir": "Sudeste",
+    "viento_vel": 1,
+    "presion": 985.0
   }
 }
