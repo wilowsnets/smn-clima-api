@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-15T04:46:32.199284Z",
-  "ultima_actualizacion_smn": "2026-07-15T00:00:00-03:00",
+  "actualizado_github": "2026-07-15T07:10:29.285293Z",
+  "ultima_actualizacion_smn": "2026-07-15T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Santa Rosa",
-    "fecha_hora": "2026-07-15T00:00:00-03:00",
+    "fecha_hora": "2026-07-15T02:00:00-03:00",
     "estado": "Cielo invisible con niebla",
     "visibilidad": "100 mts",
-    "temperatura": 6.0,
+    "temperatura": 5.1,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Noreste",
-    "viento_vel": 3,
-    "presion": 986.8
+    "viento_dir": "Noroeste",
+    "viento_vel": 1,
+    "presion": 986.5
   }
 }
