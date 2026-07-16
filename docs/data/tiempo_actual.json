@@ -7,27 +7,27 @@
   "estaciones": {
     "AZUL": {
       "estacion": "Azul",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado",
       "visibilidad": "15 km",
-      "temperatura": 12.0,
+      "temperatura": 10.9,
       "termica": null,
-      "humedad": 88,
-      "viento_dir": "Noreste",
-      "viento_vel": 11,
+      "humedad": 93,
+      "viento_dir": "Este",
+      "viento_vel": 3,
       "presion": 989.7
     },
     "BAHÍA BLANCA": {
       "estacion": "Bahía Blanca",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Nublado",
       "visibilidad": "15 km",
-      "temperatura": 8.3,
-      "termica": 7.2,
-      "humedad": 92,
+      "temperatura": 8.6,
+      "termica": 7.5,
+      "humedad": 94,
       "viento_dir": "Noroeste",
       "viento_vel": 7,
-      "presion": 996.9
+      "presion": 996.6
     },
     "BOLÍVAR": {
       "estacion": "Bolívar",
@@ -79,51 +79,51 @@
     },
     "EL PALOMAR": {
       "estacion": "El Palomar",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Cubierto con lluvia en la hora anterior",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Cubierto",
       "visibilidad": "10 km",
-      "temperatura": 16.2,
+      "temperatura": 17.6,
       "termica": null,
-      "humedad": 81,
+      "humedad": 66,
       "viento_dir": "Norte",
-      "viento_vel": 5,
-      "presion": 1006.4
+      "viento_vel": 11,
+      "presion": 1005.8
     },
     "EZEIZA": {
       "estacion": "Ezeiza",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Cubierto con lluvia",
-      "visibilidad": "8 km",
-      "temperatura": 16.6,
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Cubierto",
+      "visibilidad": "10 km",
+      "temperatura": 18.2,
       "termica": null,
-      "humedad": 73,
-      "viento_dir": "Noreste",
-      "viento_vel": 11,
-      "presion": 1005.4
+      "humedad": 63,
+      "viento_dir": "Norte",
+      "viento_vel": 14,
+      "presion": 1004.9
     },
     "JUNÍN": {
       "estacion": "Junín",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado",
       "visibilidad": "12 km",
-      "temperatura": 12.2,
+      "temperatura": 10.6,
       "termica": null,
-      "humedad": 90,
+      "humedad": 94,
       "viento_dir": "Este",
-      "viento_vel": 7,
+      "viento_vel": 3,
       "presion": 996.4
     },
     "LA PLATA": {
       "estacion": "La Plata",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Nublado con lluvia",
-      "visibilidad": "9 km",
-      "temperatura": 14.6,
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Cubierto con lluvia en la hora anterior",
+      "visibilidad": "10 km",
+      "temperatura": 14.9,
       "termica": null,
-      "humedad": 84,
-      "viento_dir": "Este",
+      "humedad": 85,
+      "viento_dir": "Noreste",
       "viento_vel": 7,
-      "presion": 1006.1
+      "presion": 1005.6
     },
     "LAS FLORES": {
       "estacion": "Las Flores",
@@ -139,15 +139,15 @@
     },
     "MAR DEL PLATA": {
       "estacion": "Mar del Plata",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Nublado",
       "visibilidad": "10 km",
-      "temperatura": 13.3,
+      "temperatura": 14.4,
       "termica": null,
-      "humedad": 81,
+      "humedad": 79,
       "viento_dir": "Norte",
-      "viento_vel": 9,
-      "presion": 1005.8
+      "viento_vel": 18,
+      "presion": 1005.0
     },
     "MARIANO MORENO": {
       "estacion": "Mariano Moreno",
@@ -175,15 +175,15 @@
     },
     "MORÓN": {
       "estacion": "Morón",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T01:00:00-03:00",
       "estado": "Cubierto",
       "visibilidad": "10 km",
-      "temperatura": 16.8,
+      "temperatura": 16.4,
       "termica": null,
-      "humedad": 77,
+      "humedad": 79,
       "viento_dir": "Norte",
       "viento_vel": 9,
-      "presion": 1004.5
+      "presion": 1004.2
     },
     "NUEVE DE JULIO": {
       "estacion": "Nueve de Julio",
@@ -247,15 +247,15 @@
     },
     "SAN FERNANDO": {
       "estacion": "San Fernando",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Cubierto",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Nublado",
       "visibilidad": "10 km",
-      "temperatura": 15.4,
+      "temperatura": 18.4,
       "termica": null,
-      "humedad": 83,
-      "viento_dir": "Calma",
-      "viento_vel": 0,
-      "presion": 1007.0
+      "humedad": 68,
+      "viento_dir": "Norte",
+      "viento_vel": 14,
+      "presion": 1006.2
     },
     "TANDIL": {
       "estacion": "Tandil",
@@ -307,39 +307,39 @@
     },
     "AEROPARQUE BUENOS AIRES": {
       "estacion": "Aeroparque Buenos Aires",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Cubierto",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Nublado",
       "visibilidad": "10 km",
-      "temperatura": 16.0,
+      "temperatura": 15.3,
       "termica": null,
-      "humedad": 80,
-      "viento_dir": "Noreste",
-      "viento_vel": 5,
-      "presion": 1007.4
+      "humedad": 82,
+      "viento_dir": "Este",
+      "viento_vel": 9,
+      "presion": 1006.6
     },
     "BUENOS AIRES": {
       "estacion": "Buenos Aires",
-      "fecha_hora": "2026-07-15T23:00:00-03:00",
-      "estado": "Nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Cubierto",
       "visibilidad": "10 km",
-      "temperatura": 17.4,
+      "temperatura": 17.9,
       "termica": null,
-      "humedad": 71,
+      "humedad": 68,
       "viento_dir": "Norte",
-      "viento_vel": 5,
-      "presion": 1005.0
+      "viento_vel": 11,
+      "presion": 1004.5
     },
     "CATAMARCA": {
       "estacion": "Catamarca",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado",
       "visibilidad": "20 km",
-      "temperatura": 10.2,
-      "termica": null,
-      "humedad": 85,
-      "viento_dir": "Noroeste",
-      "viento_vel": 5,
-      "presion": 949.4
+      "temperatura": 8.2,
+      "termica": 5.5,
+      "humedad": 92,
+      "viento_dir": "Noreste",
+      "viento_vel": 16,
+      "presion": 948.1
     },
     "TINOGASTA": {
       "estacion": "Tinogasta",
@@ -355,39 +355,39 @@
     },
     "PCIA. ROQUE SAENZ PEÑA": {
       "estacion": "Pcia. Roque Saenz Peña",
-      "fecha_hora": "2026-07-15T21:00:00-03:00",
-      "estado": "Algo nublado",
+      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "estado": "Despejado",
       "visibilidad": "20 km",
-      "temperatura": 23.2,
+      "temperatura": 20.9,
       "termica": null,
-      "humedad": 65,
-      "viento_dir": "Este",
-      "viento_vel": 13,
-      "presion": 994.2
+      "humedad": 76,
+      "viento_dir": "Noreste",
+      "viento_vel": 11,
+      "presion": 994.4
     },
     "RESISTENCIA": {
       "estacion": "Resistencia",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Despejado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Algo nublado",
       "visibilidad": "15 km",
-      "temperatura": 18.2,
+      "temperatura": 17.7,
       "termica": null,
-      "humedad": 80,
-      "viento_dir": "Este",
-      "viento_vel": 9,
-      "presion": 1001.0
+      "humedad": 82,
+      "viento_dir": "Noreste",
+      "viento_vel": 7,
+      "presion": 1000.6
     },
     "COMODORO RIVADAVIA": {
       "estacion": "Comodoro Rivadavia",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Algo nublado",
       "visibilidad": "30 km",
-      "temperatura": 11.4,
-      "termica": null,
-      "humedad": 48,
+      "temperatura": 9.7,
+      "termica": 7.2,
+      "humedad": 53,
       "viento_dir": "Oeste",
-      "viento_vel": 29,
-      "presion": 991.4
+      "viento_vel": 18,
+      "presion": 991.7
     },
     "ESQUEL": {
       "estacion": "Esquel",
@@ -427,39 +427,39 @@
     },
     "TRELEW": {
       "estacion": "Trelew",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Parcialmente nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Algo nublado",
       "visibilidad": "30 km",
-      "temperatura": 8.2,
+      "temperatura": 9.0,
       "termica": null,
-      "humedad": 81,
-      "viento_dir": "Oeste",
-      "viento_vel": 3,
-      "presion": 997.8
+      "humedad": 72,
+      "viento_dir": "Direcciones Variables",
+      "viento_vel": 1,
+      "presion": 997.4
     },
     "CÓRDOBA": {
       "estacion": "Córdoba",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Algo nublado",
       "visibilidad": "15 km",
-      "temperatura": 13.6,
+      "temperatura": 11.7,
       "termica": null,
-      "humedad": 83,
+      "humedad": 88,
       "viento_dir": "Norte",
-      "viento_vel": 9,
-      "presion": 947.8
+      "viento_vel": 7,
+      "presion": 946.5
     },
     "CÓRDOBA OBSERVATORIO": {
       "estacion": "Córdoba Observatorio",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Algo nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Despejado",
       "visibilidad": "10 km",
-      "temperatura": 14.2,
+      "temperatura": 15.2,
       "termica": null,
-      "humedad": 87,
-      "viento_dir": "Norte",
-      "viento_vel": 3,
-      "presion": 955.6
+      "humedad": 84,
+      "viento_dir": "Noroeste",
+      "viento_vel": 1,
+      "presion": 954.5
     },
     "ESC. AVIACIÓN MILITAR": {
       "estacion": "Esc. Aviación Militar",
@@ -547,15 +547,15 @@
     },
     "CORRIENTES": {
       "estacion": "Corrientes",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Despejado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Algo nublado",
       "visibilidad": "10 km",
-      "temperatura": 18.5,
+      "temperatura": 18.3,
       "termica": null,
-      "humedad": 77,
+      "humedad": 74,
       "viento_dir": "Este",
-      "viento_vel": 11,
-      "presion": 1000.1
+      "viento_vel": 14,
+      "presion": 999.8
     },
     "ITUZAINGÓ": {
       "estacion": "Ituzaingó",
@@ -583,15 +583,15 @@
     },
     "MONTE CASEROS": {
       "estacion": "Monte Caseros",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Algo nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Parcialmente nublado",
       "visibilidad": "20 km",
       "temperatura": 16.2,
       "termica": null,
       "humedad": 75,
       "viento_dir": "Este",
-      "viento_vel": 13,
-      "presion": 1004.0
+      "viento_vel": 18,
+      "presion": 1003.6
     },
     "PASO DE LOS LIBRES": {
       "estacion": "Paso De Los Libres",
@@ -631,27 +631,27 @@
     },
     "PARANÁ": {
       "estacion": "Paraná",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Cubierto",
       "visibilidad": "15 km",
-      "temperatura": 18.4,
+      "temperatura": 18.3,
       "termica": null,
-      "humedad": 73,
+      "humedad": 74,
       "viento_dir": "Norte",
-      "viento_vel": 13,
-      "presion": 997.7
+      "viento_vel": 16,
+      "presion": 997.0
     },
     "FORMOSA": {
       "estacion": "Formosa",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "20 km",
-      "temperatura": 21.9,
+      "temperatura": 20.5,
       "termica": null,
-      "humedad": 56,
+      "humedad": 65,
       "viento_dir": "Noreste",
-      "viento_vel": 22,
-      "presion": 1000.8
+      "viento_vel": 16,
+      "presion": 1001.0
     },
     "LAS LOMITAS": {
       "estacion": "Las Lomitas",
@@ -667,15 +667,15 @@
     },
     "MOUNT PLEASANT AIRPORT (ISLAS MALVINAS)": {
       "estacion": "Mount Pleasant Airport (Islas Malvinas)",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Cubierto",
       "visibilidad": "Sin información",
-      "temperatura": 6.2,
-      "termica": 1.5,
-      "humedad": 93,
-      "viento_dir": "Noroeste",
-      "viento_vel": 31,
-      "presion": 976.8
+      "temperatura": 6.1,
+      "termica": 1.2,
+      "humedad": 94,
+      "viento_dir": "Oeste",
+      "viento_vel": 33,
+      "presion": 977.1
     },
     "LA QUIACA": {
       "estacion": "La Quiaca",
@@ -691,15 +691,15 @@
     },
     "JUJUY": {
       "estacion": "Jujuy",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "10 km",
-      "temperatura": 14.2,
+      "temperatura": 11.8,
       "termica": null,
       "humedad": 89,
-      "viento_dir": "Oeste",
+      "viento_dir": "Noroeste",
       "viento_vel": 13,
-      "presion": 904.9
+      "presion": 904.2
     },
     "JUJUY UNIVERSIDAD NACIONAL": {
       "estacion": "Jujuy Universidad Nacional",
@@ -739,15 +739,15 @@
     },
     "SANTA ROSA": {
       "estacion": "Santa Rosa",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Nublado con neblina",
-      "visibilidad": "7 km",
-      "temperatura": 10.5,
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Parcialmente nublado con niebla",
+      "visibilidad": "400 mts",
+      "temperatura": 7.6,
       "termica": null,
-      "humedad": 93,
-      "viento_dir": "Noreste",
-      "viento_vel": 1,
-      "presion": 983.0
+      "humedad": 98,
+      "viento_dir": "Sur",
+      "viento_vel": 3,
+      "presion": 982.2
     },
     "CHAMICAL": {
       "estacion": "Chamical",
@@ -787,15 +787,15 @@
     },
     "LA RIOJA": {
       "estacion": "La Rioja",
-      "fecha_hora": "2026-07-15T23:00:00-03:00",
+      "fecha_hora": "2026-07-16T00:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "20 km",
-      "temperatura": 11.4,
+      "temperatura": 10.3,
       "termica": null,
-      "humedad": 66,
-      "viento_dir": "Calma",
-      "viento_vel": 0,
-      "presion": 953.2
+      "humedad": 73,
+      "viento_dir": "Sudoeste",
+      "viento_vel": 7,
+      "presion": 952.6
     },
     "MALARGUE": {
       "estacion": "Malargue",
@@ -811,15 +811,15 @@
     },
     "MENDOZA": {
       "estacion": "Mendoza",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "15 km",
-      "temperatura": 10.5,
-      "termica": null,
-      "humedad": 75,
+      "temperatura": 9.3,
+      "termica": 8.8,
+      "humedad": 77,
       "viento_dir": "Sudoeste",
       "viento_vel": 5,
-      "presion": 923.0
+      "presion": 922.5
     },
     "MENDOZA OBSERVATORIO": {
       "estacion": "Mendoza Observatorio",
@@ -883,15 +883,15 @@
     },
     "IGUAZÚ": {
       "estacion": "Iguazú",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "20 km",
-      "temperatura": 15.6,
+      "temperatura": 14.8,
       "termica": null,
-      "humedad": 79,
+      "humedad": 85,
       "viento_dir": "Este",
-      "viento_vel": 11,
-      "presion": 983.3
+      "viento_vel": 13,
+      "presion": 983.0
     },
     "OBERÁ": {
       "estacion": "Oberá",
@@ -907,15 +907,15 @@
     },
     "POSADAS": {
       "estacion": "Posadas",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "20 km",
-      "temperatura": 20.1,
+      "temperatura": 19.9,
       "termica": null,
-      "humedad": 56,
+      "humedad": 57,
       "viento_dir": "Norte",
-      "viento_vel": 11,
-      "presion": 996.1
+      "viento_vel": 13,
+      "presion": 996.4
     },
     "CHAPELCO": {
       "estacion": "Chapelco",
@@ -931,27 +931,27 @@
     },
     "NEUQUÉN": {
       "estacion": "Neuquén",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado con neblina",
-      "visibilidad": "3.0 km",
+      "visibilidad": "7 km",
       "temperatura": 8.8,
       "termica": null,
-      "humedad": 96,
+      "humedad": 94,
       "viento_dir": "Calma",
       "viento_vel": 0,
-      "presion": 972.9
+      "presion": 972.0
     },
     "BARILOCHE": {
       "estacion": "Bariloche",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Cubierto con lluvia",
-      "visibilidad": "9 km",
-      "temperatura": 4.1,
-      "termica": null,
-      "humedad": 92,
-      "viento_dir": "Direcciones Variables",
-      "viento_vel": 3,
-      "presion": 906.6
+      "visibilidad": "10 km",
+      "temperatura": 3.7,
+      "termica": 2.4,
+      "humedad": 93,
+      "viento_dir": "Sur",
+      "viento_vel": 5,
+      "presion": 905.6
     },
     "CIPOLLETTI": {
       "estacion": "Cipolletti",
@@ -979,15 +979,15 @@
     },
     "MAQUINCHAO": {
       "estacion": "Maquinchao",
-      "fecha_hora": "2026-07-15T21:00:00-03:00",
+      "fecha_hora": "2026-07-16T00:00:00-03:00",
       "estado": "Parcialmente nublado",
       "visibilidad": "40 km",
-      "temperatura": 5.8,
+      "temperatura": 4.6,
       "termica": null,
-      "humedad": 81,
-      "viento_dir": "Noroeste",
-      "viento_vel": 3,
-      "presion": 905.0
+      "humedad": 88,
+      "viento_dir": "Calma",
+      "viento_vel": 0,
+      "presion": 903.3
     },
     "RÍO COLORADO": {
       "estacion": "Río Colorado",
@@ -1015,15 +1015,15 @@
     },
     "VIEDMA": {
       "estacion": "Viedma",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Algo nublado",
       "visibilidad": "30 km",
-      "temperatura": 10.1,
-      "termica": null,
-      "humedad": 89,
+      "temperatura": 9.0,
+      "termica": 7.6,
+      "humedad": 92,
       "viento_dir": "Norte",
-      "viento_vel": 7,
-      "presion": 1004.3
+      "viento_vel": 9,
+      "presion": 1004.1
     },
     "METÁN": {
       "estacion": "Metán",
@@ -1063,15 +1063,15 @@
     },
     "SALTA": {
       "estacion": "Salta",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "15 km",
-      "temperatura": 13.0,
+      "temperatura": 9.8,
       "termica": null,
-      "humedad": 88,
-      "viento_dir": "Oeste",
-      "viento_vel": 7,
-      "presion": 873.0
+      "humedad": 89,
+      "viento_dir": "Calma",
+      "viento_vel": 0,
+      "presion": 872.4
     },
     "TARTAGAL": {
       "estacion": "Tartagal",
@@ -1099,27 +1099,27 @@
     },
     "SAN JUAN": {
       "estacion": "San Juan",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado",
       "visibilidad": "15 km",
-      "temperatura": 5.8,
+      "temperatura": 4.0,
       "termica": null,
-      "humedad": 76,
+      "humedad": 87,
       "viento_dir": "Calma",
       "viento_vel": 0,
-      "presion": 934.0
+      "presion": 934.2
     },
     "SAN LUIS": {
       "estacion": "San Luis",
-      "fecha_hora": "2026-07-15T23:00:00-03:00",
-      "estado": "Nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Algo nublado",
       "visibilidad": "20 km",
-      "temperatura": 13.7,
+      "temperatura": 11.9,
       "termica": null,
-      "humedad": 71,
-      "viento_dir": "Sudeste",
+      "humedad": 78,
+      "viento_dir": "Este",
       "viento_vel": 7,
-      "presion": 922.6
+      "presion": 921.2
     },
     "SANTA ROSA DEL CONLARA": {
       "estacion": "Santa Rosa del Conlara",
@@ -1135,27 +1135,27 @@
     },
     "VILLA REYNOLDS": {
       "estacion": "Villa Reynolds",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Algo nublado",
       "visibilidad": "10 km",
-      "temperatura": 9.0,
-      "termica": 8.0,
-      "humedad": 89,
-      "viento_dir": "Oeste",
-      "viento_vel": 7,
-      "presion": 948.6
+      "temperatura": 6.6,
+      "termica": null,
+      "humedad": 90,
+      "viento_dir": "Calma",
+      "viento_vel": 0,
+      "presion": 947.2
     },
     "EL CALAFATE": {
       "estacion": "El Calafate",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado con niebla a la distancia",
-      "visibilidad": "5 km",
-      "temperatura": -3.6,
-      "termica": -8.4,
+      "visibilidad": "15 km",
+      "temperatura": -3.4,
+      "termica": -5.7,
       "humedad": 94,
-      "viento_dir": "Sudeste",
-      "viento_vel": 13,
-      "presion": 967.0
+      "viento_dir": "Direcciones Variables",
+      "viento_vel": 5,
+      "presion": 968.0
     },
     "GOBERNADOR GREGORES": {
       "estacion": "Gobernador Gregores",
@@ -1195,15 +1195,15 @@
     },
     "RÍO GALLEGOS": {
       "estacion": "Río Gallegos",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Parcialmente nublado",
-      "visibilidad": "30 km",
-      "temperatura": 3.0,
-      "termica": -1.7,
-      "humedad": 79,
-      "viento_dir": "Oeste",
-      "viento_vel": 22,
-      "presion": 987.6
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Nublado con lluvia",
+      "visibilidad": "25 km",
+      "temperatura": 1.6,
+      "termica": -1.2,
+      "humedad": 89,
+      "viento_dir": "Sur",
+      "viento_vel": 9,
+      "presion": 988.6
     },
     "SAN JULIÁN": {
       "estacion": "San Julián",
@@ -1255,7 +1255,7 @@
     },
     "RECONQUISTA": {
       "estacion": "Reconquista",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Nublado con humo",
       "visibilidad": "10 km",
       "temperatura": 19.5,
@@ -1263,43 +1263,43 @@
       "humedad": 72,
       "viento_dir": "Este",
       "viento_vel": 14,
-      "presion": 1001.0
+      "presion": 1000.6
     },
     "ROSARIO": {
       "estacion": "Rosario",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Parcialmente nublado",
       "visibilidad": "15 km",
-      "temperatura": 16.8,
+      "temperatura": 17.6,
       "termica": null,
-      "humedad": 73,
+      "humedad": 72,
       "viento_dir": "Norte",
-      "viento_vel": 11,
-      "presion": 1002.6
+      "viento_vel": 14,
+      "presion": 1002.1
     },
     "SANTA FE": {
       "estacion": "Santa Fe",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Cubierto",
       "visibilidad": "12 km",
-      "temperatura": 18.1,
+      "temperatura": 18.4,
       "termica": null,
-      "humedad": 75,
+      "humedad": 73,
       "viento_dir": "Noreste",
-      "viento_vel": 11,
-      "presion": 1004.2
+      "viento_vel": 14,
+      "presion": 1003.4
     },
     "SUNCHALES": {
       "estacion": "Sunchales",
-      "fecha_hora": "2026-07-15T23:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Parcialmente nublado",
       "visibilidad": "15 km",
-      "temperatura": 17.0,
+      "temperatura": 17.4,
       "termica": null,
-      "humedad": 85,
+      "humedad": 82,
       "viento_dir": "Noreste",
       "viento_vel": 9,
-      "presion": 995.1
+      "presion": 994.2
     },
     "VENADO TUERTO": {
       "estacion": "Venado Tuerto",
@@ -1327,51 +1327,51 @@
     },
     "SANTIAGO DEL ESTERO": {
       "estacion": "Santiago del Estero",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Algo nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Despejado",
       "visibilidad": "10 km",
-      "temperatura": 15.6,
+      "temperatura": 11.6,
       "termica": null,
-      "humedad": 93,
-      "viento_dir": "Norte",
+      "humedad": 97,
+      "viento_dir": "Sudoeste",
       "viento_vel": 3,
-      "presion": 980.2
+      "presion": 979.0
     },
     "RÍO GRANDE B.A.": {
       "estacion": "Río Grande B.A.",
-      "fecha_hora": "2026-07-15T23:00:00-03:00",
-      "estado": "Algo nublado",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Despejado",
       "visibilidad": "30 km",
-      "temperatura": 1.9,
-      "termica": -4.3,
-      "humedad": 67,
-      "viento_dir": "Oeste",
-      "viento_vel": 33,
-      "presion": 982.5
+      "temperatura": -1.7,
+      "termica": -8.0,
+      "humedad": 88,
+      "viento_dir": "Noroeste",
+      "viento_vel": 24,
+      "presion": 984.5
     },
     "USHUAIA": {
       "estacion": "Ushuaia",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Cubierto con precipitación a la vista",
-      "visibilidad": "15 km",
-      "temperatura": 0.6,
-      "termica": -7.4,
-      "humedad": 92,
+      "visibilidad": "10 km",
+      "temperatura": 0.0,
+      "termica": -6.0,
+      "humedad": 88,
       "viento_dir": "Sudoeste",
-      "viento_vel": 51,
-      "presion": 977.4
+      "viento_vel": 25,
+      "presion": 979.4
     },
     "TUCUMÁN": {
       "estacion": "Tucumán",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
       "estado": "Despejado con humo",
       "visibilidad": "10 km",
-      "temperatura": 14.7,
+      "temperatura": 14.0,
       "termica": null,
-      "humedad": 85,
-      "viento_dir": "Norte",
-      "viento_vel": 11,
-      "presion": 952.2
+      "humedad": 92,
+      "viento_dir": "Noroeste",
+      "viento_vel": 16,
+      "presion": 950.4
     },
     "BASE BELGRANO II": {
       "estacion": "Base Belgrano II",
@@ -1411,15 +1411,15 @@
     },
     "BASE MARAMBIO": {
       "estacion": "Base Marambio",
-      "fecha_hora": "2026-07-16T00:00:00-03:00",
-      "estado": "Nublado con ventisca baja",
-      "visibilidad": "800 mts",
-      "temperatura": -23.4,
-      "termica": -40.7,
-      "humedad": 38,
-      "viento_dir": "Sur",
-      "viento_vel": 55,
-      "presion": 957.4
+      "fecha_hora": "2026-07-16T02:00:00-03:00",
+      "estado": "Cubierto con ventisca baja",
+      "visibilidad": "8 km",
+      "temperatura": -23.2,
+      "termica": -39.5,
+      "humedad": 31,
+      "viento_dir": "Sudoeste",
+      "viento_vel": 48,
+      "presion": 958.6
     },
     "BASE ORCADAS": {
       "estacion": "Base Orcadas",
@@ -1446,9 +1446,9 @@
       "presion": 982.8
     }
   },
-  "actualizado_github": "2026-07-16T05:23:22.737831Z",
-  "ultima_actualizacion_smn": "2026-07-16T00:00:00-03:00",
-  "edad_minutos": 143,
+  "actualizado_github": "2026-07-16T07:34:23.211458Z",
+  "ultima_actualizacion_smn": "2026-07-16T02:00:00-03:00",
+  "edad_minutos": 154,
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados."
