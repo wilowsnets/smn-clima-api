@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-16T10:02:11.431643Z",
-  "ultima_actualizacion_smn": "2026-07-16T06:00:00-03:00",
+  "actualizado_github": "2026-07-16T11:58:12.420634Z",
+  "ultima_actualizacion_smn": "2026-07-16T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 964.0
   },
   "mayor_humedad": {
-    "estacion": "General Pico",
-    "fecha_hora": "2026-07-16T06:00:00-03:00",
-    "estado": "Parcialmente nublado con niebla",
-    "visibilidad": "200 mts",
-    "temperatura": 8.2,
-    "termica": 7.5,
+    "estacion": "Coronel Suarez",
+    "fecha_hora": "2026-07-16T08:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 8.0,
+    "termica": null,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 5,
-    "presion": 984.5
+    "viento_vel": 3,
+    "presion": 976.2
   }
 }

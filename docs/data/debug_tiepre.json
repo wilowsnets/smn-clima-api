@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;16-julio-2026;06:00;Parcialmente nublado;15 km;10.1;No se calcula; 94;Este  3;987 / \r\n Bahía Blanca;16-julio-2026;06:00;Despejado con niebla en la hora anterior;15 km;6.2;3.9; 97;Noreste  11;994 / \r\n Bolívar;15-julio-2026;21:00;Parcialmente nublado;15 km;13;No se calcula; 83;Este  9;995.4 / \r\n Campo de Mayo;15-julio-2026;21:00;Cubierto;10 km;13.4;No se calcula; 83;Norte  13;1005 / \r\n Coronel Suarez;16-julio-2026;06:00;Cielo invisible con niebla;Menor a 100 mts;7.1;5.0; 98;Sudeste  11;976.2 ",
-  "actualizado_github": "2026-07-16T10:02:11.431643Z"
+  "primeros_500_caracteres": "Azul;16-julio-2026;08:00;Parcialmente nublado con neblina;5 km;9.7;8.8; 86;Sudeste  7;987.5 / \r\n Bahía Blanca;16-julio-2026;08:00;Algo nublado;15 km;5;2.4; 96;Noreste  11;993.7 / \r\n Bolívar;15-julio-2026;21:00;Parcialmente nublado;15 km;13;No se calcula; 83;Este  9;995.4 / \r\n Campo de Mayo;15-julio-2026;21:00;Cubierto;10 km;13.4;No se calcula; 83;Norte  13;1005 / \r\n Coronel Suarez;16-julio-2026;08:00;Cielo invisible con niebla;Menor a 100 mts;8;No se calcula; 100;Este  3;976.2 / \r\n Dolores;15-ju",
+  "actualizado_github": "2026-07-16T11:58:12.420634Z"
 }
