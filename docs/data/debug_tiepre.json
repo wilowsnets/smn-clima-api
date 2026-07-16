@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260715.txt",
+  "archivo_zip_usado": "estado_tiempo20260716.txt",
   "archivos_zip": [
-    "estado_tiempo20260715.txt"
+    "estado_tiempo20260716.txt"
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;15-julio-2026;20:00;Nublado;15 km;13.5;No se calcula; 84;Noreste  13;989.7 / \r\n Bahía Blanca;15-julio-2026;20:00;Despejado;15 km;8.6;7.1; 93;Sudeste  9;996.4 / \r\n Bolívar;15-julio-2026;20:00;Parcialmente nublado;15 km;13.2;No se calcula; 86;Este  9;995 / \r\n Campo de Mayo;15-julio-2026;19:00;Cubierto;10 km;15.4;No se calcula; 65;Norte  11;1005.2 / \r\n Coronel Suarez;15-julio-2026;15:00;Nublado;11 km;15;No se calcula; 66;Noreste  14;979 / \r\n Dolores;15-julio-2026;20:00;Parcialmente nublado;10 ",
-  "actualizado_github": "2026-07-15T23:53:53.777343Z"
+  "primeros_500_caracteres": "Azul;15-julio-2026;22:00;Parcialmente nublado;15 km;12.1;No se calcula; 90;Noreste  11;990.2 / \r\n Bahía Blanca;15-julio-2026;22:00;Nublado;15 km;8.2;6.6; 94;Norte  9;996.6 / \r\n Bolívar;15-julio-2026;21:00;Parcialmente nublado;15 km;13;No se calcula; 83;Este  9;995.4 / \r\n Campo de Mayo;15-julio-2026;21:00;Cubierto;10 km;13.4;No se calcula; 83;Norte  13;1005 / \r\n Coronel Suarez;15-julio-2026;21:00;Nublado;10 km;11.2;No se calcula; 89;Calma;979.4 / \r\n Dolores;15-julio-2026;21:00;Parcialmente nublad",
+  "actualizado_github": "2026-07-16T02:02:40.857094Z"
 }
