@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-17T09:05:08.217919Z",
-  "ultima_actualizacion_smn": "2026-07-17T04:00:00-03:00",
+  "actualizado_github": "2026-07-17T11:03:27.766859Z",
+  "ultima_actualizacion_smn": "2026-07-17T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-17T03:00:00-03:00",
-    "estado": "Algo nublado con ventisca baja",
-    "visibilidad": "5 km",
-    "temperatura": -27.0,
-    "termica": -41.2,
-    "humedad": 32,
-    "viento_dir": "Sudeste",
-    "viento_vel": 27,
-    "presion": 944.0
-  },
-  "mayor_viento": {
-    "estacion": "Tinogasta",
-    "fecha_hora": "2026-07-16T21:00:00-03:00",
+    "fecha_hora": "2026-07-17T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": 27.0,
-    "termica": null,
-    "humedad": 9,
+    "temperatura": -31.4,
+    "termica": -40.4,
+    "humedad": 23,
+    "viento_dir": "Este",
+    "viento_vel": 9,
+    "presion": 945.0
+  },
+  "mayor_viento": {
+    "estacion": "Base Esperanza",
+    "fecha_hora": "2026-07-17T06:00:00-03:00",
+    "estado": "Algo nublado con ventisca baja",
+    "visibilidad": "500 mts",
+    "temperatura": -8.5,
+    "termica": -20.0,
+    "humedad": 77,
     "viento_dir": "Oeste",
-    "viento_vel": 44,
-    "presion": 864.6
+    "viento_vel": 53,
+    "presion": 982.4
   },
   "mayor_humedad": {
-    "estacion": "Mar del Plata",
-    "fecha_hora": "2026-07-17T04:00:00-03:00",
-    "estado": "Parcialmente nublado con lluvia en la hora anterior",
-    "visibilidad": "10 km",
-    "temperatura": 14.5,
+    "estacion": "General Pico",
+    "fecha_hora": "2026-07-17T06:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "200 mts",
+    "temperatura": 10.7,
     "termica": null,
-    "humedad": 98,
-    "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 993.3
+    "humedad": 99,
+    "viento_dir": "Sur",
+    "viento_vel": 3,
+    "presion": 977.8
   }
 }
