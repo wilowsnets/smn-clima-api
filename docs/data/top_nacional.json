@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-17T17:06:36.327027Z",
-  "ultima_actualizacion_smn": "2026-07-17T12:00:00-03:00",
+  "actualizado_github": "2026-07-17T18:32:45.178888Z",
+  "ultima_actualizacion_smn": "2026-07-17T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Tucumán",
-    "fecha_hora": "2026-07-17T12:00:00-03:00",
-    "estado": "Algo nublado con polvo levantado por viento",
-    "visibilidad": "6 km",
-    "temperatura": 36.1,
+    "fecha_hora": "2026-07-17T14:00:00-03:00",
+    "estado": "Parcialmente nublado con polvo levantado por viento",
+    "visibilidad": "7 km",
+    "temperatura": 38.6,
     "termica": null,
-    "humedad": 4,
+    "humedad": 5,
     "viento_dir": "Norte",
-    "viento_vel": 5,
-    "presion": 943.0
+    "viento_vel": 33,
+    "presion": 941.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Tinogasta",
-    "fecha_hora": "2026-07-17T09:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "20 km",
-    "temperatura": 23.8,
+    "fecha_hora": "2026-07-17T12:00:00-03:00",
+    "estado": "Parcialmente nublado con tempestad de polvo",
+    "visibilidad": "16 km",
+    "temperatura": 27.4,
     "termica": null,
     "humedad": 19,
     "viento_dir": "Oeste",
     "viento_vel": 55,
-    "presion": 865.3
+    "presion": 861.9
   },
   "mayor_humedad": {
-    "estacion": "Mar del Plata",
-    "fecha_hora": "2026-07-17T12:00:00-03:00",
-    "estado": "Nublado con tormenta",
-    "visibilidad": "6 km",
-    "temperatura": 16.5,
+    "estacion": "Río Colorado",
+    "fecha_hora": "2026-07-17T09:00:00-03:00",
+    "estado": "Nublado con neblina",
+    "visibilidad": "2.5 km",
+    "temperatura": 9.6,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 18,
-    "presion": 993.4
+    "viento_dir": "Oeste",
+    "viento_vel": 3,
+    "presion": 988.2
   }
 }
