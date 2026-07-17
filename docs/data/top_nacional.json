@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-17T04:07:16.075500Z",
-  "ultima_actualizacion_smn": "2026-07-17T00:00:00-03:00",
+  "actualizado_github": "2026-07-17T06:35:30.392552Z",
+  "ultima_actualizacion_smn": "2026-07-17T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 864.6
   },
   "mayor_humedad": {
-    "estacion": "Esquel",
-    "fecha_hora": "2026-07-16T21:00:00-03:00",
-    "estado": "Nublado con llovizna en la hora anterior",
-    "visibilidad": "30 km",
-    "temperatura": 4.8,
+    "estacion": "Neuquén",
+    "fecha_hora": "2026-07-17T02:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 6.0,
     "termica": null,
-    "humedad": 98,
-    "viento_dir": "Noreste",
-    "viento_vel": 1,
-    "presion": 898.0
+    "humedad": 100,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 964.2
   }
 }
