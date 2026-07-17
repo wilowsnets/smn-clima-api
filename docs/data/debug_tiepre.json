@@ -1,13 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260716.txt",
+  "archivo_zip_usado": "estado_tiempo20260717.txt",
   "archivos_zip": [
-    "estado_tiempo20260716.txt"
+    "estado_tiempo20260717.txt"
   ],
-  "cantidad_estaciones": 119,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Cipolletti;16-julio-2026;15:00;Nublado;25 km;12.2;---;---;Este  7;964 /"
-  ],
-  "primeros_500_caracteres": "Azul;16-julio-2026;20:00;Parcialmente nublado con neblina;8 km;17.1;No se calcula; 87;Noreste  14;979.8 / \r\n Bahía Blanca;16-julio-2026;20:00;Cubierto;15 km;15.9;No se calcula; 88;Este  13;985.4 / \r\n Bolívar;16-julio-2026;20:00;Nublado con neblina;4.0 km;18.8;No se calcula; 77;Este  18;984.9 / \r\n Campo de Mayo;16-julio-2026;20:00;Parcialmente nublado;10 km;20.4;No se calcula; 75;Noreste  14;995 / \r\n Coronel Suarez;16-julio-2026;15:00;Nublado;11 km;19.4;No se calcula; 72;Norte  18;969.7 / \r\n Dolo",
-  "actualizado_github": "2026-07-17T00:57:53.109338Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;17-julio-2026;00:00;Parcialmente nublado con neblina;8 km;15.9;No se calcula; 88;Noreste  9;979.4 / \r\n Bahía Blanca;17-julio-2026;00:00;Cubierto;15 km;15.6;No se calcula; 89;Noreste  7;985.3 / \r\n Bolívar;16-julio-2026;21:00;Nublado con neblina;4.0 km;18;No se calcula; 82;Este  18;985.4 / \r\n Campo de Mayo;16-julio-2026;21:00;Parcialmente nublado;10 km;19.7;No se calcula; 79;Noreste  14;995.7 / \r\n Coronel Suarez;16-julio-2026;21:00;Cubierto;12 km;17.5;No se calcula; 89;Noreste  18;968.6 / \r\n ",
+  "actualizado_github": "2026-07-17T04:07:16.075500Z"
 }
