@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-17T14:27:41.149202Z",
-  "ultima_actualizacion_smn": "2026-07-17T10:00:00-03:00",
+  "actualizado_github": "2026-07-17T15:55:21.255281Z",
+  "ultima_actualizacion_smn": "2026-07-17T12:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Jujuy Universidad Nacional",
-    "fecha_hora": "2026-07-17T10:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": 30.0,
+    "estacion": "Tucumán",
+    "fecha_hora": "2026-07-17T12:00:00-03:00",
+    "estado": "Algo nublado con polvo levantado por viento",
+    "visibilidad": "6 km",
+    "temperatura": 36.1,
     "termica": null,
-    "humedad": 6,
+    "humedad": 4,
     "viento_dir": "Norte",
-    "viento_vel": 33,
-    "presion": 858.0
+    "viento_vel": 5,
+    "presion": 943.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-17T09:00:00-03:00",
+    "fecha_hora": "2026-07-17T12:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -34.7,
-    "termica": null,
-    "humedad": 26,
-    "viento_dir": "Oeste",
-    "viento_vel": 1,
-    "presion": 946.4
+    "temperatura": -35.8,
+    "termica": -45.6,
+    "humedad": 20,
+    "viento_dir": "Este",
+    "viento_vel": 9,
+    "presion": 947.4
   },
   "mayor_viento": {
     "estacion": "Tinogasta",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Mar del Plata",
-    "fecha_hora": "2026-07-17T10:00:00-03:00",
-    "estado": "Nublado con neblina",
-    "visibilidad": "7 km",
-    "temperatura": 14.1,
+    "fecha_hora": "2026-07-17T12:00:00-03:00",
+    "estado": "Nublado con tormenta",
+    "visibilidad": "6 km",
+    "temperatura": 16.5,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 994.8
+    "viento_dir": "Este",
+    "viento_vel": 18,
+    "presion": 993.4
   }
 }
