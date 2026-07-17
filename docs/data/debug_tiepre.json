@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '---' | LINEA: Cipolletti;16-julio-2026;15:00;Nublado;25 km;12.2;---;---;Este  7;964 /"
   ],
-  "primeros_500_caracteres": "Azul;16-julio-2026;18:00;Parcialmente nublado con neblina;10 km;18.7;No se calcula; 80;Noreste  11;979.8 / \r\n Bahía Blanca;16-julio-2026;17:00;Nublado;15 km;16.7;No se calcula; 78;Sur  7;986.9 / \r\n Bolívar;16-julio-2026;18:00;Nublado con neblina;5 km;21;No se calcula; 70;Este  14;984.6 / \r\n Campo de Mayo;16-julio-2026;18:00;Parcialmente nublado;10 km;22.4;No se calcula; 65;Noreste  13;995.2 / \r\n Coronel Suarez;16-julio-2026;15:00;Nublado;11 km;19.4;No se calcula; 72;Norte  18;969.7 / \r\n Dolores;",
-  "actualizado_github": "2026-07-16T23:24:59.338819Z"
+  "primeros_500_caracteres": "Azul;16-julio-2026;20:00;Parcialmente nublado con neblina;8 km;17.1;No se calcula; 87;Noreste  14;979.8 / \r\n Bahía Blanca;16-julio-2026;20:00;Cubierto;15 km;15.9;No se calcula; 88;Este  13;985.4 / \r\n Bolívar;16-julio-2026;20:00;Nublado con neblina;4.0 km;18.8;No se calcula; 77;Este  18;984.9 / \r\n Campo de Mayo;16-julio-2026;20:00;Parcialmente nublado;10 km;20.4;No se calcula; 75;Noreste  14;995 / \r\n Coronel Suarez;16-julio-2026;15:00;Nublado;11 km;19.4;No se calcula; 72;Norte  18;969.7 / \r\n Dolo",
+  "actualizado_github": "2026-07-17T00:57:53.109338Z"
 }
