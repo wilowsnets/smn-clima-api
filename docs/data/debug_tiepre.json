@@ -9,5 +9,5 @@
     "ERROR: could not convert string to float: '-' | LINEA: San Rafael;18-julio-2026;16:00;Parcialmente nublado;20 km;14;No se calcula; 52;Este  3;- /"
   ],
   "primeros_500_caracteres": "Azul;18-julio-2026;16:00;Nublado;15 km;14.4;No se calcula; 52;Sudeste  18;985.4 / \r\n Bahía Blanca;18-julio-2026;16:00;Parcialmente nublado;15 km;12;No se calcula; 80;Sur  11;996.6 / \r\n Bolívar;18-julio-2026;16:00;Cubierto con lluvia;7 km;14.8;No se calcula; 78;Sudeste  9;993.6 / \r\n Campo de Mayo;18-julio-2026;16:00;Cubierto con neblina;7 km;15.5;No se calcula; 95;Sur  11;999.8 / \r\n Coronel Suarez;18-julio-2026;15:00;Nublado;15 km;13.3;No se calcula; 47;Sudeste  27;977.4 / \r\n Dolores;18-julio-202",
-  "actualizado_github": "2026-07-18T20:01:20.112055Z"
+  "actualizado_github": "2026-07-18T21:11:55.911789Z"
 }
