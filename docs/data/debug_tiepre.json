@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260718.txt"
   ],
-  "cantidad_estaciones": 119,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Base Belgrano II;18-julio-2026;09:00;Algo nublado;20 km;-32.3;---;---;Este  7;949 /"
-  ],
-  "primeros_500_caracteres": "Azul;18-julio-2026;10:00;Nublado;15 km;11.3;No se calcula; 70;Sudeste  20;985.8 / \r\n Bahía Blanca;18-julio-2026;10:00;Cubierto;15 km;5.8;4.2; 90;Noreste  7;997.2 / \r\n Bolívar;18-julio-2026;10:00;Parcialmente nublado;15 km;11;No se calcula; 80;Sur  9;992.1 / \r\n Campo de Mayo;18-julio-2026;10:00;Cubierto con llovizna;2.0 km;16.7;No se calcula; 91;Sur  14;997.4 / \r\n Coronel Suarez;18-julio-2026;10:00;Parcialmente nublado;15 km;9.1;6.6; 75;Sur  16;977.8 / \r\n Dolores;18-julio-2026;10:00;Cubierto con ",
-  "actualizado_github": "2026-07-18T14:33:10.561244Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;18-julio-2026;12:00;Nublado;15 km;14.2;No se calcula; 49;Sudeste  25;986.1 / \r\n Bahía Blanca;18-julio-2026;12:00;Cubierto con precipitación a la vista;15 km;9;8.0; 83;Este  7;997.6 / \r\n Bolívar;18-julio-2026;12:00;Nublado;15 km;14.3;No se calcula; 61;Sudeste  9;992.6 / \r\n Campo de Mayo;18-julio-2026;12:00;Cubierto con neblina;8 km;15.8;No se calcula; 93;Sudeste  9;998.4 / \r\n Coronel Suarez;18-julio-2026;12:00;Parcialmente nublado;15 km;13.3;No se calcula; 45;Sudeste  29;978 / \r\n Dolores;18-",
+  "actualizado_github": "2026-07-18T15:50:10.336919Z"
 }
