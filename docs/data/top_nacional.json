@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-18T21:11:55.911789Z",
-  "ultima_actualizacion_smn": "2026-07-18T16:00:00-03:00",
+  "actualizado_github": "2026-07-18T22:12:32.260738Z",
+  "ultima_actualizacion_smn": "2026-07-18T18:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Tartagal",
-    "fecha_hora": "2026-07-18T15:00:00-03:00",
+    "fecha_hora": "2026-07-18T18:00:00-03:00",
     "estado": "Despejado con humo",
     "visibilidad": "8 km",
-    "temperatura": 37.2,
+    "temperatura": 35.7,
     "termica": null,
-    "humedad": 33,
+    "humedad": 30,
     "viento_dir": "Norte",
     "viento_vel": 33,
-    "presion": 943.5
+    "presion": 941.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-18T15:00:00-03:00",
+    "fecha_hora": "2026-07-18T18:00:00-03:00",
     "estado": "Nublado con nevada",
     "visibilidad": "4.0 km",
-    "temperatura": 0.1,
+    "temperatura": -0.5,
     "termica": -8.7,
-    "humedad": 96,
+    "humedad": 99,
     "viento_dir": "Noroeste",
-    "viento_vel": 61,
-    "presion": 988.2
+    "viento_vel": 48,
+    "presion": 987.3
   },
   "mayor_humedad": {
     "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-18T16:00:00-03:00",
+    "fecha_hora": "2026-07-18T18:00:00-03:00",
     "estado": "Cubierto con llovizna",
-    "visibilidad": "3.0 km",
-    "temperatura": 12.8,
+    "visibilidad": "1.0 km",
+    "temperatura": 12.4,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Sur",
     "viento_vel": 20,
-    "presion": 999.4
+    "presion": 1001.2
   }
 }
