@@ -1,11 +1,13 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260717.txt",
+  "archivo_zip_usado": "estado_tiempo20260718.txt",
   "archivos_zip": [
-    "estado_tiempo20260717.txt"
+    "estado_tiempo20260718.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;17-julio-2026;20:00;Algo nublado;15 km;13.6;No se calcula; 91;Sur  11;982.9 / \r\n Bahía Blanca;17-julio-2026;20:00;Parcialmente nublado;15 km;11.3;No se calcula; 61;Oeste  9;992.9 / \r\n Bolívar;17-julio-2026;20:00;Parcialmente nublado;10 km;14.4;No se calcula; 84;Calma;989.8 / \r\n Campo de Mayo;17-julio-2026;20:00;Cubierto;10 km;20.9;No se calcula; 90;Oeste  1;996.4 / \r\n Coronel Suarez;17-julio-2026;15:00;Parcialmente nublado;13 km;19.9;No se calcula; 36;Sudeste  22;970.6 / \r\n Dolores;17-julio",
-  "actualizado_github": "2026-07-18T00:52:35.095340Z"
+  "cantidad_estaciones": 119,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Rivadavia;17-julio-2026;21:00;Despejado;20 km;29.6;---;---;Calma;971.9 /"
+  ],
+  "primeros_500_caracteres": "Azul;18-julio-2026;00:00;Algo nublado;15 km;9.4;8.4; 89;Sur  7;985 / \r\n Bahía Blanca;18-julio-2026;00:00;Algo nublado;15 km;4.7;1.4; 85;Norte  14;994.4 / \r\n Bolívar;17-julio-2026;21:00;Parcialmente nublado;10 km;13.4;No se calcula; 86;Calma;990.6 / \r\n Campo de Mayo;17-julio-2026;21:00;Cubierto;10 km;20.5;No se calcula; 90;Oeste  1;997.4 / \r\n Coronel Suarez;17-julio-2026;21:00;Parcialmente nublado;10 km;7.6;6.3; 72;Sudoeste  7;973.7 / \r\n Dolores;17-julio-2026;21:00;Parcialmente nublado;10 km;16.2",
+  "actualizado_github": "2026-07-18T03:50:18.082460Z"
 }
