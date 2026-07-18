@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-18T08:02:05.436298Z",
-  "ultima_actualizacion_smn": "2026-07-18T04:00:00-03:00",
+  "actualizado_github": "2026-07-18T09:53:05.900382Z",
+  "ultima_actualizacion_smn": "2026-07-18T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 990.1
   },
   "mayor_humedad": {
-    "estacion": "San Julián",
-    "fecha_hora": "2026-07-17T21:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "7 km",
-    "temperatura": 1.2,
-    "termica": -1.7,
-    "humedad": 97,
-    "viento_dir": "Sur",
-    "viento_vel": 9,
-    "presion": 1000.6
+    "estacion": "Santa Fe",
+    "fecha_hora": "2026-07-18T05:00:00-03:00",
+    "estado": "Cubierto con neblina",
+    "visibilidad": "12 km",
+    "temperatura": 18.5,
+    "termica": null,
+    "humedad": 98,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 11,
+    "presion": 994.0
   }
 }
