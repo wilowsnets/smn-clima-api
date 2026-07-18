@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260718.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;18-julio-2026;12:00;Nublado;15 km;14.2;No se calcula; 49;Sudeste  25;986.1 / \r\n Bahía Blanca;18-julio-2026;12:00;Cubierto con precipitación a la vista;15 km;9;8.0; 83;Este  7;997.6 / \r\n Bolívar;18-julio-2026;12:00;Nublado;15 km;14.3;No se calcula; 61;Sudeste  9;992.6 / \r\n Campo de Mayo;18-julio-2026;12:00;Cubierto con neblina;8 km;15.8;No se calcula; 93;Sudeste  9;998.4 / \r\n Coronel Suarez;18-julio-2026;12:00;Parcialmente nublado;15 km;13.3;No se calcula; 45;Sudeste  29;978 / \r\n Dolores;18-",
-  "actualizado_github": "2026-07-18T16:50:41.896316Z"
+  "cantidad_estaciones": 119,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Pehuajó;18-julio-2026;14:00;Nublado;15 km;8.7;---;---;Sudeste  20;992.2 /"
+  ],
+  "primeros_500_caracteres": "Azul;18-julio-2026;14:00;Cubierto;15 km;14.2;No se calcula; 43;Este  7;987.3 / \r\n Bahía Blanca;18-julio-2026;14:00;Nublado;15 km;11.4;No se calcula; 78;Este  24;995.4 / \r\n Bolívar;18-julio-2026;14:00;Nublado;15 km;15.3;No se calcula; 53;Sudeste  9;992.2 / \r\n Campo de Mayo;18-julio-2026;14:00;Cubierto con neblina;6 km;16.5;No se calcula; 90;Sur  13;997.6 / \r\n Coronel Suarez;18-julio-2026;12:00;Parcialmente nublado;15 km;13.3;No se calcula; 45;Sudeste  29;978 / \r\n Dolores;18-julio-2026;14:00;Nubla",
+  "actualizado_github": "2026-07-18T17:51:44.461241Z"
 }
