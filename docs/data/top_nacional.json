@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-19T09:24:36.820034Z",
-  "ultima_actualizacion_smn": "2026-07-19T04:00:00-03:00",
+  "actualizado_github": "2026-07-19T10:50:49.976464Z",
+  "ultima_actualizacion_smn": "2026-07-19T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-19T03:00:00-03:00",
+    "fecha_hora": "2026-07-19T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -32.4,
-    "termica": -38.8,
-    "humedad": 36,
-    "viento_dir": "Este",
+    "temperatura": -33.2,
+    "termica": -39.8,
+    "humedad": 33,
+    "viento_dir": "Sudeste",
     "viento_vel": 5,
-    "presion": 942.6
+    "presion": 942.2
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-19T04:00:00-03:00",
-    "estado": "Nublado con ventisca baja",
-    "visibilidad": "3.0 km",
-    "temperatura": -27.3,
-    "termica": -46.4,
+    "fecha_hora": "2026-07-19T06:00:00-03:00",
+    "estado": "Nublado con ventisca alta",
+    "visibilidad": "800 mts",
+    "temperatura": -27.2,
+    "termica": -47.5,
     "humedad": 31,
-    "viento_dir": "Sur",
-    "viento_vel": 59,
-    "presion": 972.4
+    "viento_dir": "Sudoeste",
+    "viento_vel": 70,
+    "presion": 972.2
   },
   "mayor_humedad": {
-    "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-07-19T04:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "15 km",
-    "temperatura": 6.2,
-    "termica": 4.7,
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-07-19T06:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "6 km",
+    "temperatura": 9.6,
+    "termica": 8.0,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 999.6
+    "viento_dir": "Sudeste",
+    "viento_vel": 11,
+    "presion": 1001.8
   }
 }
