@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-19T16:51:26.283169Z",
-  "ultima_actualizacion_smn": "2026-07-19T12:00:00-03:00",
+  "actualizado_github": "2026-07-19T17:53:30.771963Z",
+  "ultima_actualizacion_smn": "2026-07-19T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Formosa",
-    "fecha_hora": "2026-07-19T12:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-19T14:00:00-03:00",
+    "estado": "Parcialmente nublado con precipitación a la vista",
     "visibilidad": "20 km",
-    "temperatura": 29.4,
-    "termica": 30.8,
-    "humedad": 61,
-    "viento_dir": "Norte",
-    "viento_vel": 25,
-    "presion": 994.5
+    "temperatura": 29.9,
+    "termica": 32.9,
+    "humedad": 62,
+    "viento_dir": "Noroeste",
+    "viento_vel": 14,
+    "presion": 993.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-19T12:00:00-03:00",
-    "estado": "Parcialmente nublado con neblina",
-    "visibilidad": "6 km",
-    "temperatura": -28.3,
-    "termica": -47.4,
-    "humedad": 38,
-    "viento_dir": "Sur",
-    "viento_vel": 55,
-    "presion": 974.0
+    "fecha_hora": "2026-07-19T14:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": -28.2,
+    "termica": -47.0,
+    "humedad": 13,
+    "viento_dir": "Oeste",
+    "viento_vel": 53,
+    "presion": 974.4
   },
   "mayor_humedad": {
     "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-19T11:00:00-03:00",
-    "estado": "Cubierto con lluvia en la hora anterior",
-    "visibilidad": "5 km",
-    "temperatura": 7.5,
-    "termica": 2.6,
+    "fecha_hora": "2026-07-19T14:00:00-03:00",
+    "estado": "Cubierto con lluvia",
+    "visibilidad": "1.0 km",
+    "temperatura": 8.0,
+    "termica": 3.7,
     "humedad": 100,
     "viento_dir": "Sur",
-    "viento_vel": 40,
-    "presion": 1002.8
+    "viento_vel": 33,
+    "presion": 1003.2
   }
 }
