@@ -11,5 +11,5 @@
     "ERROR: could not convert string to float: '---' | LINEA: El Calafate;19-julio-2026;18:00;Parcialmente nublado;30 km;-2.5;---;---;Direcciones Variables  1;985.2 /"
   ],
   "primeros_500_caracteres": "Azul;19-julio-2026;18:00;Algo nublado;15 km;13.4;No se calcula; 69;Sur  11;991.8 / \r\n Bahía Blanca;19-julio-2026;18:00;Nublado;10 km;7.4;5.3; 97;Sur  11;1001.8 / \r\n Bolívar;19-julio-2026;18:00;Algo nublado;15 km;14.2;No se calcula; 67;Sur  5;998.6 / \r\n Campo de Mayo;19-julio-2026;17:00;Cubierto;10 km;12.1;No se calcula; 82;Sur  22;1001.6 / \r\n Coronel Suarez;19-julio-2026;15:00;Parcialmente nublado;15 km;15.2;No se calcula; 39;Sur  13;981.6 / \r\n Dolores;19-julio-2026;18:00;Cubierto;10 km;9.8;7.7;",
-  "actualizado_github": "2026-07-19T22:23:17.752611Z"
+  "actualizado_github": "2026-07-19T23:26:32.286307Z"
 }
