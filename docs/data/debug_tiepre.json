@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;19-julio-2026;08:00;Nublado;15 km;8;6.1; 89;Sur  11;990.8 / \r\n Bahía Blanca;19-julio-2026;08:00;Parcialmente nublado;15 km;5.5;3.4; 98;Oeste  9;1000.5 / \r\n Bolívar;18-julio-2026;21:00;Cubierto con lluvia;3.0 km;10;7.9; 93;Sur  14;996.9 / \r\n Campo de Mayo;18-julio-2026;21:00;Cubierto;10 km;13.7;No se calcula; 93;Sur  20;999.8 / \r\n Coronel Suarez;19-julio-2026;08:00;Cielo invisible con niebla;100 mts;5.2;2.3; 98;Sur  13;981.8 / \r\n Dolores;18-julio-2026;21:00;Cubierto;10 km;10.6;No se calcula;",
-  "actualizado_github": "2026-07-19T13:02:59.753369Z"
+  "primeros_500_caracteres": "Azul;19-julio-2026;10:00;Nublado;15 km;8.8;8.2; 88;Sur  5;991.8 / \r\n Bahía Blanca;19-julio-2026;10:00;Cubierto con niebla;300 mts;6.3;No se calcula; 100;Calma;1001.4 / \r\n Bolívar;19-julio-2026;10:00;Parcialmente nublado;15 km;8.2;6.3; 91;Sur  11;998.6 / \r\n Campo de Mayo;19-julio-2026;10:00;Cubierto con lluvia en la hora anterior;10 km;8.8;5.3; 83;Sur  25;1002.4 / \r\n Coronel Suarez;19-julio-2026;10:00;Nublado;15 km;6.1;4.1; 95;Sudeste  9;983.3 / \r\n Dolores;19-julio-2026;10:00;Nublado con lluvia;5",
+  "actualizado_github": "2026-07-19T14:36:53.989767Z"
 }
