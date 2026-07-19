@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-19T04:22:00.205670Z",
-  "ultima_actualizacion_smn": "2026-07-19T00:00:00-03:00",
+  "actualizado_github": "2026-07-19T07:03:30.911141Z",
+  "ultima_actualizacion_smn": "2026-07-19T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,27 +31,27 @@
     "presion": 944.0
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-19T00:00:00-03:00",
-    "estado": "Cubierto con nevada",
-    "visibilidad": "100 mts",
-    "temperatura": -19.1,
-    "termica": -34.9,
-    "humedad": 65,
-    "viento_dir": "Oeste",
-    "viento_vel": 57,
-    "presion": 991.4
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-19T02:00:00-03:00",
+    "estado": "Cubierto con ventisca baja",
+    "visibilidad": "3.0 km",
+    "temperatura": -26.2,
+    "termica": -44.9,
+    "humedad": 36,
+    "viento_dir": "Sur",
+    "viento_vel": 59,
+    "presion": 971.3
   },
   "mayor_humedad": {
     "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-07-19T00:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "600 mts",
+    "fecha_hora": "2026-07-19T02:00:00-03:00",
+    "estado": "Cubierto con neblina",
+    "visibilidad": "1.0 km",
     "temperatura": 7.1,
-    "termica": 5.8,
+    "termica": 5.3,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 999.6
+    "viento_vel": 9,
+    "presion": 1000.1
   }
 }
