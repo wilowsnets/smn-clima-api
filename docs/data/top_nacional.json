@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-19T10:50:49.976464Z",
-  "ultima_actualizacion_smn": "2026-07-19T06:00:00-03:00",
+  "actualizado_github": "2026-07-19T11:51:42.717296Z",
+  "ultima_actualizacion_smn": "2026-07-19T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Rivadavia",
-    "fecha_hora": "2026-07-18T18:00:00-03:00",
-    "estado": "Despejado",
-    "visibilidad": "20 km",
-    "temperatura": 34.0,
-    "termica": 35.7,
-    "humedad": 41,
+    "estacion": "Tartagal",
+    "fecha_hora": "2026-07-18T21:00:00-03:00",
+    "estado": "Despejado con humo",
+    "visibilidad": "8 km",
+    "temperatura": 30.9,
+    "termica": null,
+    "humedad": 39,
     "viento_dir": "Norte",
-    "viento_vel": 3,
-    "presion": 975.0
+    "viento_vel": 14,
+    "presion": 944.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 942.2
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
+    "estacion": "Base Carlini",
     "fecha_hora": "2026-07-19T06:00:00-03:00",
-    "estado": "Nublado con ventisca alta",
-    "visibilidad": "800 mts",
-    "temperatura": -27.2,
-    "termica": -47.5,
-    "humedad": 31,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 70,
-    "presion": 972.2
+    "estado": "Nublado con nevada",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": -12.3,
+    "termica": -26.0,
+    "humedad": 88,
+    "viento_dir": "Este",
+    "viento_vel": 63,
+    "presion": 989.5
   },
   "mayor_humedad": {
     "estacion": "Las Flores",
