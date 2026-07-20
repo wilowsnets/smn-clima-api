@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-19T23:26:32.286307Z",
-  "ultima_actualizacion_smn": "2026-07-19T18:00:00-03:00",
+  "actualizado_github": "2026-07-20T01:03:36.034432Z",
+  "ultima_actualizacion_smn": "2026-07-19T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Formosa",
+    "estacion": "Ituzaingó",
     "fecha_hora": "2026-07-19T18:00:00-03:00",
-    "estado": "Parcialmente nublado con lluvia en la hora anterior",
-    "visibilidad": "20 km",
-    "temperatura": 28.4,
-    "termica": 32.5,
-    "humedad": 76,
-    "viento_dir": "Oeste",
+    "estado": "Nublado con humo",
+    "visibilidad": "2.0 km",
+    "temperatura": 26.6,
+    "termica": 28.2,
+    "humedad": 69,
+    "viento_dir": "Noroeste",
     "viento_vel": 11,
-    "presion": 993.8
+    "presion": 991.0
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Ushuaia",
-    "fecha_hora": "2026-07-19T18:00:00-03:00",
-    "estado": "Parcialmente nublado con nevada",
-    "visibilidad": "10 km",
-    "temperatura": -1.1,
+    "fecha_hora": "2026-07-19T20:00:00-03:00",
+    "estado": "Parcialmente nublado con precipitación a la vista",
+    "visibilidad": "9 km",
+    "temperatura": -1.5,
     "termica": -9.6,
-    "humedad": 80,
+    "humedad": 76,
     "viento_dir": "Sudoeste",
-    "viento_vel": 50,
-    "presion": 993.4
+    "viento_vel": 42,
+    "presion": 994.1
   },
   "mayor_humedad": {
-    "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-19T17:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "10 km",
-    "temperatura": 10.0,
-    "termica": 6.1,
+    "estacion": "Río Colorado",
+    "fecha_hora": "2026-07-19T15:00:00-03:00",
+    "estado": "Parcialmente nublado con llovizna",
+    "visibilidad": "1.9 km",
+    "temperatura": 8.8,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 37,
-    "presion": 1004.2
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1000.9
   }
 }
