@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-20T22:53:22.916188Z",
-  "ultima_actualizacion_smn": "2026-07-20T18:00:00-03:00",
+  "actualizado_github": "2026-07-20T23:52:14.501206Z",
+  "ultima_actualizacion_smn": "2026-07-20T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-20T18:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-20T20:00:00-03:00",
+    "estado": "Nublado con tormenta sin precipitación",
     "visibilidad": "20 km",
-    "temperatura": 26.5,
-    "termica": 27.9,
-    "humedad": 67,
-    "viento_dir": "Este",
-    "viento_vel": 5,
-    "presion": 975.0
+    "temperatura": 25.4,
+    "termica": null,
+    "humedad": 73,
+    "viento_dir": "Norte",
+    "viento_vel": 3,
+    "presion": 976.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 871.3
   },
   "mayor_humedad": {
-    "estacion": "Río Colorado",
-    "fecha_hora": "2026-07-20T15:00:00-03:00",
-    "estado": "Cubierto con lluvia",
-    "visibilidad": "1.1 km",
-    "temperatura": 7.6,
+    "estacion": "Punta Indio B.A.",
+    "fecha_hora": "2026-07-20T19:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "5 km",
+    "temperatura": 10.8,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Sudeste",
-    "viento_vel": 3,
-    "presion": 1004.2
+    "viento_dir": "Sur",
+    "viento_vel": 22,
+    "presion": 1008.6
   }
 }
