@@ -1422,9 +1422,9 @@
       "presion": 1001.7
     }
   },
-  "actualizado_github": "2026-07-20T13:23:42.674709Z",
+  "actualizado_github": "2026-07-20T15:26:31.201883Z",
   "ultima_actualizacion_smn": "2026-07-20T07:00:00-03:00",
-  "edad_minutos": 203,
+  "edad_minutos": 326,
   "estado": "desactualizado",
   "desactualizado": true,
   "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles."
