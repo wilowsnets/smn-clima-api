@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-20T11:20:08.666508Z",
-  "ultima_actualizacion_smn": "2026-07-20T06:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "actualizado_github": "2026-07-20T13:23:42.674709Z",
+  "ultima_actualizacion_smn": "2026-07-20T07:00:00-03:00",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Oberá",
     "fecha_hora": "2026-07-18T21:00:00-03:00",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Azul",
-    "fecha_hora": "2026-07-20T06:00:00-03:00",
+    "fecha_hora": "2026-07-20T07:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "15 km",
-    "temperatura": 1.1,
-    "termica": -0.6,
+    "temperatura": 1.0,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Sudeste",
-    "viento_vel": 5,
-    "presion": 995.4
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 995.8
   }
 }
