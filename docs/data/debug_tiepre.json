@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;20-julio-2026;22:00;Nublado;15 km;7.7;5.4; 84;Este  13;996.5 / \r\n Bahía Blanca;20-julio-2026;22:00;Cubierto con lluvia;10 km;7.7;5.7; 97;Este  11;1005.4 / \r\n Benito Juárez;20-julio-2026;21:00;Nublado con lluvia;10 km;7.2;No se calcula; 92;Sudeste  3;989.2 / \r\n Bolívar;20-julio-2026;21:00;Cubierto con llovizna en la hora anterior;10 km;8;No se calcula; 90;Sudeste  3;1002.2 / \r\n Campo de Mayo;20-julio-2026;21:00;Cubierto con llovizna;3.0 km;11.5;No se calcula; 98;Sudeste  13;1008.2 / \r\n Coron",
-  "actualizado_github": "2026-07-21T02:05:08.860053Z"
+  "primeros_500_caracteres": "Azul;21-julio-2026;00:00;Nublado;15 km;6.9;5.1; 81;Este  9;996.5 / \r\n Bahía Blanca;21-julio-2026;00:00;Cubierto con lluvia;8 km;7.1;5.3; 97;Este  9;1005.8 / \r\n Benito Juárez;20-julio-2026;21:00;Nublado con lluvia;10 km;7.2;No se calcula; 92;Sudeste  3;989.2 / \r\n Bolívar;20-julio-2026;21:00;Cubierto con llovizna en la hora anterior;10 km;8;No se calcula; 90;Sudeste  3;1002.2 / \r\n Campo de Mayo;20-julio-2026;21:00;Cubierto con llovizna;3.0 km;11.5;No se calcula; 98;Sudeste  13;1008.2 / \r\n Coronel ",
+  "actualizado_github": "2026-07-21T05:33:50.541660Z"
 }
