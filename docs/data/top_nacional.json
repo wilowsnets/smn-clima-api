@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-21T10:36:35.023734Z",
-  "ultima_actualizacion_smn": "2026-07-21T06:00:00-03:00",
+  "actualizado_github": "2026-07-21T12:20:42.711045Z",
+  "ultima_actualizacion_smn": "2026-07-21T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 981.2
   },
   "mayor_humedad": {
-    "estacion": "Ezeiza",
-    "fecha_hora": "2026-07-21T06:00:00-03:00",
+    "estacion": "La Plata",
+    "fecha_hora": "2026-07-21T08:00:00-03:00",
     "estado": "Cubierto con llovizna",
-    "visibilidad": "3.0 km",
-    "temperatura": 9.6,
-    "termica": 8.7,
+    "visibilidad": "2.0 km",
+    "temperatura": 9.8,
+    "termica": 8.5,
     "humedad": 100,
     "viento_dir": "Sur",
-    "viento_vel": 7,
-    "presion": 1009.4
+    "viento_vel": 9,
+    "presion": 1010.1
   }
 }
