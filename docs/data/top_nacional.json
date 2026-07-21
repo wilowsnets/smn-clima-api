@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-21T16:18:33.518326Z",
-  "ultima_actualizacion_smn": "2026-07-21T12:00:00-03:00",
+  "actualizado_github": "2026-07-21T17:51:41.668956Z",
+  "ultima_actualizacion_smn": "2026-07-21T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-21T12:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-21T14:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": 25.0,
-    "termica": null,
-    "humedad": 72,
-    "viento_dir": "Este",
-    "viento_vel": 22,
-    "presion": 977.0
+    "temperatura": 28.2,
+    "termica": 29.6,
+    "humedad": 62,
+    "viento_dir": "Noreste",
+    "viento_vel": 18,
+    "presion": 974.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 942.2
   },
   "mayor_viento": {
-    "estacion": "La Quiaca",
-    "fecha_hora": "2026-07-21T12:00:00-03:00",
-    "estado": "Despejado con polvo levantado por viento",
-    "visibilidad": "7 km",
-    "temperatura": 11.2,
-    "termica": null,
-    "humedad": 51,
-    "viento_dir": "Noroeste",
-    "viento_vel": 44,
-    "presion": 670.9
+    "estacion": "Ushuaia",
+    "fecha_hora": "2026-07-21T14:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura": 2.9,
+    "termica": -4.1,
+    "humedad": 64,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 48,
+    "presion": 1004.9
   },
   "mayor_humedad": {
     "estacion": "Benito Juárez",
