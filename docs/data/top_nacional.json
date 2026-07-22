@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-21T23:02:52.077757Z",
-  "ultima_actualizacion_smn": "2026-07-21T18:00:00-03:00",
+  "actualizado_github": "2026-07-22T00:14:11.364426Z",
+  "ultima_actualizacion_smn": "2026-07-21T20:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-21T18:00:00-03:00",
+    "fecha_hora": "2026-07-21T20:00:00-03:00",
     "estado": "Cubierto",
     "visibilidad": "20 km",
-    "temperatura": 25.6,
+    "temperatura": 24.4,
     "termica": null,
-    "humedad": 79,
+    "humedad": 88,
     "viento_dir": "Calma",
     "viento_vel": 0,
-    "presion": 973.2
+    "presion": 973.4
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,27 +31,27 @@
     "presion": 940.6
   },
   "mayor_viento": {
-    "estacion": "Ushuaia",
-    "fecha_hora": "2026-07-21T18:00:00-03:00",
-    "estado": "Parcialmente nublado con precipitación a la vista",
-    "visibilidad": "9 km",
-    "temperatura": 1.7,
-    "termica": -5.2,
-    "humedad": 78,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 40,
-    "presion": 1005.4
+    "estacion": "Pigué",
+    "fecha_hora": "2026-07-21T15:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "20 km",
+    "temperatura": 8.7,
+    "termica": 4.7,
+    "humedad": 81,
+    "viento_dir": "Sur",
+    "viento_vel": 33,
+    "presion": 978.0
   },
   "mayor_humedad": {
     "estacion": "Punta Indio B.A.",
-    "fecha_hora": "2026-07-21T18:00:00-03:00",
-    "estado": "Cubierto con lluvia",
-    "visibilidad": "800 mts",
-    "temperatura": 10.5,
-    "termica": null,
+    "fecha_hora": "2026-07-21T20:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "1.0 km",
+    "temperatura": 10.0,
+    "termica": 7.3,
     "humedad": 100,
     "viento_dir": "Sur",
-    "viento_vel": 14,
-    "presion": 1011.6
+    "viento_vel": 20,
+    "presion": 1012.4
   }
 }
