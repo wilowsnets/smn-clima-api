@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-22T11:23:58.146469Z",
-  "ultima_actualizacion_smn": "2026-07-22T06:00:00-03:00",
+  "actualizado_github": "2026-07-22T12:54:54.256861Z",
+  "ultima_actualizacion_smn": "2026-07-22T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -19,16 +19,16 @@
     "presion": 915.4
   },
   "mas_frio": {
-    "estacion": "Base Orcadas",
-    "fecha_hora": "2026-07-22T06:00:00-03:00",
-    "estado": "Cubierto",
-    "visibilidad": "20 km",
-    "temperatura": -21.0,
-    "termica": -27.0,
-    "humedad": 76,
-    "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 984.4
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-22T08:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura": -21.2,
+    "termica": -34.7,
+    "humedad": 40,
+    "viento_dir": "Sur",
+    "viento_vel": 33,
+    "presion": 963.8
   },
   "mayor_viento": {
     "estacion": "Punta Indio B.A.",
@@ -44,14 +44,14 @@
   },
   "mayor_humedad": {
     "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-07-22T06:00:00-03:00",
-    "estado": "Cubierto con niebla",
-    "visibilidad": "400 mts",
-    "temperatura": -1.2,
-    "termica": -3.9,
+    "fecha_hora": "2026-07-22T08:00:00-03:00",
+    "estado": "Parcialmente nublado con neblina",
+    "visibilidad": "8 km",
+    "temperatura": -2.0,
+    "termica": -4.9,
     "humedad": 100,
     "viento_dir": "Norte",
     "viento_vel": 7,
-    "presion": 1012.9
+    "presion": 1013.8
   }
 }
