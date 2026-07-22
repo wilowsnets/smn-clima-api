@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260721.txt",
+  "archivo_zip_usado": "estado_tiempo20260722.txt",
   "archivos_zip": [
-    "estado_tiempo20260721.txt"
+    "estado_tiempo20260722.txt"
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;21-julio-2026;20:00;Nublado con lluvia;12 km;9.7;No se calcula; 86;Sudeste  1;1000.2 / \r\n Bahía Blanca;21-julio-2026;20:00;Nublado;15 km;6.6;No se calcula; 88;Calma;1010.4 / \r\n Benito Juárez;21-julio-2026;15:00;Cubierto;10 km;9.3;No se calcula; 86;Sudeste  3;989.7 / \r\n Bolívar;21-julio-2026;20:00;Cubierto;15 km;9.8;No se calcula; 89;Calma;1007.3 / \r\n Campo de Mayo;21-julio-2026;20:00;Cubierto con llovizna;2.0 km;11.5;No se calcula; 96;Sur  16;1011.7 / \r\n Coronel Suarez;21-julio-2026;15:00;N",
-  "actualizado_github": "2026-07-22T00:14:11.364426Z"
+  "primeros_500_caracteres": "Azul;22-julio-2026;00:00;Cubierto;15 km;7.3;6.0; 92;Sudeste  7;1001 / \r\n Bahía Blanca;22-julio-2026;00:00;Algo nublado;15 km;3.7;1.3; 96;Oeste  9;1012.5 / \r\n Benito Juárez;21-julio-2026;21:00;Cubierto;10 km;7.4;No se calcula; 91;Calma;993 / \r\n Bolívar;21-julio-2026;21:00;Cubierto con llovizna;9 km;9.8;No se calcula; 92;Calma;1007.4 / \r\n Campo de Mayo;21-julio-2026;21:00;Cubierto con llovizna;2.0 km;11.3;No se calcula; 97;Sudeste  11;1011.8 / \r\n Coronel Suarez;21-julio-2026;21:00;Nublado;10 km;5.",
+  "actualizado_github": "2026-07-22T03:55:52.762102Z"
 }
