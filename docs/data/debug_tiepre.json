@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260722.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;22-julio-2026;14:00;Parcialmente nublado;15 km;9.6;8.3; 71;Noreste  9;1004.6 / \r\n Bahía Blanca;22-julio-2026;14:00;Nublado;15 km;8.8;6.5; 77;Noreste  14;1013.3 / \r\n Benito Juárez;22-julio-2026;09:00;Cielo invisible con niebla;Menor a 100 mts;2;No se calcula; 100;Calma;996.6 / \r\n Bolívar;22-julio-2026;14:00;Parcialmente nublado;15 km;10.6;No se calcula; 72;Este  7;1011.7 / \r\n Campo de Mayo;22-julio-2026;14:00;Parcialmente nublado;10 km;12.3;No se calcula; 67;Sur  16;1017.8 / \r\n Coronel Suare",
-  "actualizado_github": "2026-07-22T19:04:07.777945Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Maquinchao;22-julio-2026;16:00;Parcialmente nublado;40 km;2;---;---;Calma;912.8 /"
+  ],
+  "primeros_500_caracteres": "Azul;22-julio-2026;16:00;Parcialmente nublado;15 km;10.8;No se calcula; 59;Este  5;1004.5 / \r\n Bahía Blanca;22-julio-2026;16:00;Nublado;15 km;10.5;No se calcula; 66;Noreste  11;1011.8 / \r\n Benito Juárez;22-julio-2026;15:00;Parcialmente nublado;15 km;9.2;No se calcula; 67;Calma;996.6 / \r\n Bolívar;22-julio-2026;16:00;Parcialmente nublado;15 km;11.2;No se calcula; 71;Este  5;1011.2 / \r\n Campo de Mayo;22-julio-2026;16:00;Nublado;10 km;13.5;No se calcula; 66;Sudeste  13;1017.4 / \r\n Coronel Suarez;22-",
+  "actualizado_github": "2026-07-22T20:36:29.895530Z"
 }
