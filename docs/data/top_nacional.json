@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-22T16:25:35.931517Z",
+  "actualizado_github": "2026-07-22T17:48:05.393284Z",
   "ultima_actualizacion_smn": "2026-07-22T11:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Iguazú",
     "fecha_hora": "2026-07-22T11:00:00-03:00",
