@@ -1,7 +1,7 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-23T22:50:52.590380Z",
+  "actualizado_github": "2026-07-23T23:54:53.344846Z",
   "ultima_actualizacion_smn": "2026-07-23T19:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
@@ -19,28 +19,28 @@
     "presion": 877.6
   },
   "mas_frio": {
-    "estacion": "Base San Martín",
-    "fecha_hora": "2026-07-23T15:00:00-03:00",
-    "estado": "Nublado con llovizna",
-    "visibilidad": "15 km",
-    "temperatura": -10.3,
-    "termica": -16.5,
-    "humedad": 88,
-    "viento_dir": "Noroeste",
-    "viento_vel": 13,
-    "presion": 998.8
+    "estacion": "Base Belgrano II",
+    "fecha_hora": "2026-07-23T18:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura": -9.8,
+    "termica": -16.9,
+    "humedad": 50,
+    "viento_dir": "Sudeste",
+    "viento_vel": 16,
+    "presion": 928.6
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-23T18:00:00-03:00",
-    "estado": "Despejado",
-    "visibilidad": "10 km",
-    "temperatura": -0.5,
-    "termica": -9.1,
-    "humedad": 66,
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-23T19:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": -6.3,
+    "termica": -17.7,
+    "humedad": 56,
     "viento_dir": "Sudoeste",
-    "viento_vel": 53,
-    "presion": 984.2
+    "viento_vel": 63,
+    "presion": 961.0
   },
   "mayor_humedad": {
     "estacion": "Nueve de Julio",
