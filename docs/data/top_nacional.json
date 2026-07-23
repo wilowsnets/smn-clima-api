@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-23T04:47:04.557346Z",
-  "ultima_actualizacion_smn": "2026-07-23T00:00:00-03:00",
+  "actualizado_github": "2026-07-23T07:27:59.045043Z",
+  "ultima_actualizacion_smn": "2026-07-23T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-23T00:00:00-03:00",
+    "fecha_hora": "2026-07-23T02:00:00-03:00",
     "estado": "Cubierto",
     "visibilidad": "20 km",
-    "temperatura": 15.8,
+    "temperatura": 15.5,
     "termica": null,
-    "humedad": 95,
+    "humedad": 94,
     "viento_dir": "Oeste",
-    "viento_vel": 11,
-    "presion": 985.6
+    "viento_vel": 13,
+    "presion": 985.3
   },
   "mas_frio": {
     "estacion": "Base Orcadas",
