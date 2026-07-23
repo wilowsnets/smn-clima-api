@@ -1,13 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260722.txt",
+  "archivo_zip_usado": "estado_tiempo20260723.txt",
   "archivos_zip": [
-    "estado_tiempo20260722.txt"
+    "estado_tiempo20260723.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Maquinchao;22-julio-2026;16:00;Parcialmente nublado;40 km;2;---;---;Calma;912.8 /"
-  ],
-  "primeros_500_caracteres": "Azul;22-julio-2026;17:00;Parcialmente nublado;15 km;10.8;No se calcula; 59;Este  5;1004.5 / \r\n Bahía Blanca;22-julio-2026;17:00;Nublado;15 km;10.5;No se calcula; 63;Norte  11;1012.5 / \r\n Benito Juárez;22-julio-2026;15:00;Parcialmente nublado;15 km;9.2;No se calcula; 67;Calma;996.6 / \r\n Bolívar;22-julio-2026;17:00;Cubierto;15 km;11.2;No se calcula; 66;Este  3;1011.4 / \r\n Campo de Mayo;22-julio-2026;17:00;Nublado;10 km;13.2;No se calcula; 70;Sudeste  9;1017.6 / \r\n Coronel Suarez;22-julio-2026;15:0",
-  "actualizado_github": "2026-07-23T01:01:28.391599Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;23-julio-2026;00:00;Despejado;15 km;3.6;1.2; 95;Noreste  9;1006 / \r\n Bahía Blanca;23-julio-2026;00:00;Cubierto;15 km;7.5;5.8; 87;Norte  9;1012.8 / \r\n Benito Juárez;22-julio-2026;21:00;Despejado;15 km;3.4;No se calcula; 88;Calma;997.7 / \r\n Bolívar;22-julio-2026;21:00;Nublado;15 km;9.4;8.9; 84;Este  5;1012.6 / \r\n Campo de Mayo;22-julio-2026;21:00;Parcialmente nublado;10 km;10.2;No se calcula; 79;Sudeste  11;1020.6 / \r\n Coronel Suarez;22-julio-2026;21:00;Nublado;12 km;7.7;5.7; 79;Norte  11;994",
+  "actualizado_github": "2026-07-23T04:47:04.557346Z"
 }
