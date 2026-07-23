@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '---' | LINEA: Chilecito;23-julio-2026;09:00;Parcialmente nublado con niebla en bancos;10 km;1.3;---;---;Calma;949.6 /"
   ],
-  "primeros_500_caracteres": "Azul;23-julio-2026;10:00;Cielo invisible con niebla;500 mts;5.4;4.3; 96;Noreste  5;1005.7 / \r\n Bahía Blanca;23-julio-2026;10:00;Nublado;15 km;8.4;6.5; 83;Noreste  11;1009.8 / \r\n Benito Juárez;23-julio-2026;09:00;Cubierto con neblina;2.5 km;2.5;-0.1; 97;Norte  9;997.6 / \r\n Bolívar;23-julio-2026;10:00;Cubierto con niebla;800 mts;6.8;5.0; 100;Noreste  9;1011 / \r\n Campo de Mayo;23-julio-2026;10:00;Algo nublado;10 km;11.7;No se calcula; 82;Este  16;1020.2 / \r\n Coronel Suarez;23-julio-2026;10:00;Cubie",
-  "actualizado_github": "2026-07-23T15:50:56.085330Z"
+  "primeros_500_caracteres": "Azul;23-julio-2026;12:00;Cubierto con niebla en la hora anterior;1.5 km;7.7;5.1; 97;Este  14;1004.6 / \r\n Bahía Blanca;23-julio-2026;12:00;Nublado;15 km;11.5;No se calcula; 68;Norte  20;1009.4 / \r\n Benito Juárez;23-julio-2026;09:00;Cubierto con neblina;2.5 km;2.5;-0.1; 97;Norte  9;997.6 / \r\n Bolívar;23-julio-2026;12:00;Cubierto con neblina;9 km;10.2;No se calcula; 92;Noreste  14;1010.1 / \r\n Campo de Mayo;23-julio-2026;12:00;Algo nublado;10 km;13.4;No se calcula; 75;Noreste  18;1019.7 / \r\n Coronel",
+  "actualizado_github": "2026-07-23T17:13:31.040856Z"
 }
