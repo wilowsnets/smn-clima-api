@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-24T10:32:06.774327Z",
-  "ultima_actualizacion_smn": "2026-07-24T05:00:00-03:00",
+  "actualizado_github": "2026-07-24T12:15:17.351234Z",
+  "ultima_actualizacion_smn": "2026-07-24T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-24T03:00:00-03:00",
+    "fecha_hora": "2026-07-24T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -15.2,
-    "termica": -21.1,
-    "humedad": 59,
-    "viento_dir": "Este",
-    "viento_vel": 9,
-    "presion": 923.7
+    "temperatura": -18.7,
+    "termica": -30.8,
+    "humedad": 43,
+    "viento_dir": "Oeste",
+    "viento_vel": 29,
+    "presion": 925.3
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-24T03:00:00-03:00",
+    "fecha_hora": "2026-07-24T06:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "10 km",
     "temperatura": -2.0,
-    "termica": -10.3,
-    "humedad": 79,
+    "termica": -11.6,
+    "humedad": 81,
     "viento_dir": "Oeste",
-    "viento_vel": 42,
-    "presion": 990.3
+    "viento_vel": 61,
+    "presion": 990.2
   },
   "mayor_humedad": {
-    "estacion": "Santa Rosa",
-    "fecha_hora": "2026-07-24T05:00:00-03:00",
-    "estado": "Nublado con niebla",
-    "visibilidad": "500 mts",
-    "temperatura": 8.0,
-    "termica": 5.7,
-    "humedad": 98,
-    "viento_dir": "Norte",
-    "viento_vel": 13,
-    "presion": 993.0
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-07-24T06:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "8 km",
+    "temperatura": 10.2,
+    "termica": null,
+    "humedad": 100,
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1013.8
   }
 }
