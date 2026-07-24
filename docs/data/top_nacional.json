@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-24T08:14:41.511384Z",
-  "ultima_actualizacion_smn": "2026-07-24T04:00:00-03:00",
+  "actualizado_github": "2026-07-24T10:32:06.774327Z",
+  "ultima_actualizacion_smn": "2026-07-24T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,27 +31,27 @@
     "presion": 923.7
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-24T04:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": -1.5,
-    "termica": -9.9,
-    "humedad": 52,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 46,
-    "presion": 959.8
+    "estacion": "Base Carlini",
+    "fecha_hora": "2026-07-24T03:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura": -2.0,
+    "termica": -10.3,
+    "humedad": 79,
+    "viento_dir": "Oeste",
+    "viento_vel": 42,
+    "presion": 990.3
   },
   "mayor_humedad": {
     "estacion": "Santa Rosa",
-    "fecha_hora": "2026-07-24T04:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "8 km",
-    "temperatura": 8.3,
-    "termica": 6.1,
+    "fecha_hora": "2026-07-24T05:00:00-03:00",
+    "estado": "Nublado con niebla",
+    "visibilidad": "500 mts",
+    "temperatura": 8.0,
+    "termica": 5.7,
     "humedad": 98,
     "viento_dir": "Norte",
     "viento_vel": 13,
-    "presion": 992.9
+    "presion": 993.0
   }
 }
