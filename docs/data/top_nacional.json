@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-24T17:23:58.727355Z",
-  "ultima_actualizacion_smn": "2026-07-24T12:00:00-03:00",
+  "actualizado_github": "2026-07-24T18:55:11.745335Z",
+  "ultima_actualizacion_smn": "2026-07-24T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
-    "fecha_hora": "2026-07-24T12:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "20 km",
-    "temperatura": 18.8,
+    "estacion": "Santiago del Estero",
+    "fecha_hora": "2026-07-24T14:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura": 21.4,
     "termica": null,
-    "humedad": 75,
-    "viento_dir": "Este",
-    "viento_vel": 3,
-    "presion": 1002.0
+    "humedad": 51,
+    "viento_dir": "Sur",
+    "viento_vel": 5,
+    "presion": 992.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -43,15 +43,15 @@
     "presion": 993.7
   },
   "mayor_humedad": {
-    "estacion": "General Pico",
-    "fecha_hora": "2026-07-24T12:00:00-03:00",
+    "estacion": "Victorica",
+    "fecha_hora": "2026-07-24T09:00:00-03:00",
     "estado": "Cielo invisible con niebla",
-    "visibilidad": "Menor a 100 mts",
-    "temperatura": 8.1,
-    "termica": 7.4,
+    "visibilidad": "100 mts",
+    "temperatura": 4.0,
+    "termica": 1.6,
     "humedad": 100,
-    "viento_dir": "Sur",
-    "viento_vel": 5,
-    "presion": 1001.8
+    "viento_dir": "Norte",
+    "viento_vel": 9,
+    "presion": 981.0
   }
 }
