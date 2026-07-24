@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-24T02:06:33.280964Z",
-  "ultima_actualizacion_smn": "2026-07-23T22:00:00-03:00",
+  "actualizado_github": "2026-07-24T05:34:08.656685Z",
+  "ultima_actualizacion_smn": "2026-07-24T00:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-23T21:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-07-24T00:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -12.6,
-    "termica": -22.5,
-    "humedad": 55,
-    "viento_dir": "Sudeste",
-    "viento_vel": 27,
-    "presion": 926.1
+    "temperatura": -12.5,
+    "termica": -16.1,
+    "humedad": 44,
+    "viento_dir": "Este",
+    "viento_vel": 5,
+    "presion": 923.8
   },
   "mayor_viento": {
     "estacion": "Base San Martín",
