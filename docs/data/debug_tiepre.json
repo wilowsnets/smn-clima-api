@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 121,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;25-julio-2026;05:00;Cubierto con neblina;5 km;7.8;No se calcula; 97;Oeste  3;1000 / \r\n Bahía Blanca;25-julio-2026;05:00;Nublado;15 km;9.8;No se calcula; 94;Direcciones Variables  1;1005.8 / \r\n Benito Juárez;24-julio-2026;15:00;Parcialmente nublado;15 km;13.6;No se calcula; 74;Noroeste  14;991.7 / \r\n Bolívar;24-julio-2026;20:00;Algo nublado;10 km;8.5;No se calcula; 93;Calma;1008.4 / \r\n Campo de Mayo;24-julio-2026;21:00;Algo nublado;10 km;10.4;No se calcula; 98;Este  5;1016.8 / \r\n Coronel Sua",
-  "actualizado_github": "2026-07-25T11:41:17.252785Z"
+  "primeros_500_caracteres": "Azul;25-julio-2026;08:00;Cubierto con niebla;800 mts;6;No se calcula; 98;Sudeste  3;1000 / \r\n Bahía Blanca;25-julio-2026;08:00;Cubierto con lluvia;12 km;9.4;7.5; 94;Norte  13;1005.2 / \r\n Benito Juárez;24-julio-2026;21:00;Algo nublado;15 km;8.4;No se calcula; 91;Calma;993.2 / \r\n Bolívar;24-julio-2026;21:00;Algo nublado;10 km;8.2;No se calcula; 97;Calma;1008 / \r\n Campo de Mayo;24-julio-2026;21:00;Algo nublado;10 km;10.4;No se calcula; 98;Este  5;1016.8 / \r\n Coronel Suarez;25-julio-2026;08:00;Cubie",
+  "actualizado_github": "2026-07-25T13:10:56.936470Z"
 }
