@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-25T06:11:21.635057Z",
-  "ultima_actualizacion_smn": "2026-07-25T01:00:00-03:00",
+  "actualizado_github": "2026-07-25T08:28:07.202488Z",
+  "ultima_actualizacion_smn": "2026-07-25T04:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-25T00:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-07-25T03:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": -20.6,
-    "termica": -29.7,
-    "humedad": 62,
-    "viento_dir": "Sudeste",
-    "viento_vel": 14,
-    "presion": 936.9
+    "temperatura": -20.0,
+    "termica": -25.9,
+    "humedad": 44,
+    "viento_dir": "Sur",
+    "viento_vel": 7,
+    "presion": 940.6
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-25T00:00:00-03:00",
+    "fecha_hora": "2026-07-25T03:00:00-03:00",
     "estado": "Cubierto",
     "visibilidad": "10 km",
     "temperatura": -2.5,
-    "termica": -12.8,
-    "humedad": 86,
+    "termica": -11.5,
+    "humedad": 78,
     "viento_dir": "Oeste",
-    "viento_vel": 70,
-    "presion": 993.0
+    "viento_vel": 50,
+    "presion": 993.3
   },
   "mayor_humedad": {
-    "estacion": "Ezeiza",
-    "fecha_hora": "2026-07-25T01:00:00-03:00",
-    "estado": "Algo nublado con niebla en bancos",
-    "visibilidad": "800 mts",
-    "temperatura": 11.0,
+    "estacion": "La Plata",
+    "fecha_hora": "2026-07-25T04:00:00-03:00",
+    "estado": "Algo nublado con niebla",
+    "visibilidad": "100 mts",
+    "temperatura": 6.8,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 3,
-    "presion": 1016.5
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1015.8
   }
 }
