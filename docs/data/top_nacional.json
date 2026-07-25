@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-25T08:28:07.202488Z",
-  "ultima_actualizacion_smn": "2026-07-25T04:00:00-03:00",
+  "actualizado_github": "2026-07-25T10:08:19.051720Z",
+  "ultima_actualizacion_smn": "2026-07-25T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 993.3
   },
   "mayor_humedad": {
-    "estacion": "La Plata",
-    "fecha_hora": "2026-07-25T04:00:00-03:00",
-    "estado": "Algo nublado con niebla",
-    "visibilidad": "100 mts",
-    "temperatura": 6.8,
+    "estacion": "Junín",
+    "fecha_hora": "2026-07-25T05:00:00-03:00",
+    "estado": "Parcialmente nublado con niebla",
+    "visibilidad": "800 mts",
+    "temperatura": 5.2,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Calma",
     "viento_vel": 0,
-    "presion": 1015.8
+    "presion": 1007.2
   }
 }
