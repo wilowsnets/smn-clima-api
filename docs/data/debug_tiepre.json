@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '-' | LINEA: Olavarría;25-julio-2026;15:00;Cubierto con neblina;10 km;13.5;No se calcula; 86;Norte  29;- /"
   ],
-  "primeros_500_caracteres": "Azul;25-julio-2026;16:00;Cubierto con neblina;12 km;13.5;No se calcula; 82;Norte  20;996.4 / \r\n Bahía Blanca;25-julio-2026;16:00;Nublado;15 km;15.7;No se calcula; 70;Norte  38;1000 / \r\n Benito Juárez;25-julio-2026;15:00;Nublado con neblina;9 km;13.1;No se calcula; 79;Norte  24;986.5 / \r\n Bolívar;25-julio-2026;16:00;Cubierto;15 km;15.8;No se calcula; 73;Norte  29;1003 / \r\n Campo de Mayo;25-julio-2026;16:00;Parcialmente nublado;10 km;16.6;No se calcula; 76;Norte  11;1016.4 / \r\n Coronel Suarez;25-j",
-  "actualizado_github": "2026-07-25T21:48:24.908640Z"
+  "primeros_500_caracteres": "Azul;25-julio-2026;18:00;Parcialmente nublado con neblina;12 km;13.7;No se calcula; 83;Noroeste  13;996.8 / \r\n Bahía Blanca;25-julio-2026;17:00;Nublado;15 km;14.8;No se calcula; 75;Noroeste  33;1000.2 / \r\n Benito Juárez;25-julio-2026;15:00;Nublado con neblina;9 km;13.1;No se calcula; 79;Norte  24;986.5 / \r\n Bolívar;25-julio-2026;18:00;Cubierto;15 km;14.8;No se calcula; 78;Norte  18;1003.3 / \r\n Campo de Mayo;25-julio-2026;17:00;Algo nublado;10 km;16.4;No se calcula; 76;Norte  11;1016 / \r\n Coronel",
+  "actualizado_github": "2026-07-25T22:47:17.056238Z"
 }
