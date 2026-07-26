@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-26T11:42:48.602834Z",
-  "ultima_actualizacion_smn": "2026-07-26T06:00:00-03:00",
+  "actualizado_github": "2026-07-26T13:06:25.412211Z",
+  "ultima_actualizacion_smn": "2026-07-26T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Mount Pleasant Airport (Islas Malvinas)",
-    "fecha_hora": "2026-07-26T06:00:00-03:00",
+    "fecha_hora": "2026-07-26T08:00:00-03:00",
     "estado": "Cubierto",
     "visibilidad": "Sin información",
-    "temperatura": 2.7,
-    "termica": -3.4,
-    "humedad": 97,
-    "viento_dir": "Sudeste",
-    "viento_vel": 35,
-    "presion": 991.3
+    "temperatura": 1.5,
+    "termica": -4.6,
+    "humedad": 87,
+    "viento_dir": "Sur",
+    "viento_vel": 31,
+    "presion": 993.5
   },
   "mayor_humedad": {
     "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-07-26T06:00:00-03:00",
-    "estado": "Nublado con niebla",
-    "visibilidad": "900 mts",
-    "temperatura": 5.2,
-    "termica": 3.1,
+    "fecha_hora": "2026-07-26T08:00:00-03:00",
+    "estado": "Parcialmente nublado con niebla en bancos",
+    "visibilidad": "1.8 km",
+    "temperatura": 4.4,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Norte",
-    "viento_vel": 9,
-    "presion": 1007.8
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 1008.2
   }
 }
