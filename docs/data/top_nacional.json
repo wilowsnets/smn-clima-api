@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-27T02:23:50.245388Z",
-  "ultima_actualizacion_smn": "2026-07-26T22:00:00-03:00",
+  "actualizado_github": "2026-07-27T06:03:27.735337Z",
+  "ultima_actualizacion_smn": "2026-07-27T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-26T21:00:00-03:00",
+    "fecha_hora": "2026-07-27T00:00:00-03:00",
     "estado": "Parcialmente nublado",
     "visibilidad": "20 km",
-    "temperatura": -21.2,
-    "termica": -32.1,
-    "humedad": 33,
-    "viento_dir": "Oeste",
-    "viento_vel": 20,
-    "presion": 951.8
+    "temperatura": -20.6,
+    "termica": -26.6,
+    "humedad": 36,
+    "viento_dir": "Noreste",
+    "viento_vel": 7,
+    "presion": 952.1
   },
   "mayor_viento": {
     "estacion": "Base Carlini",
-    "fecha_hora": "2026-07-26T21:00:00-03:00",
-    "estado": "Cubierto con nevada en la hora anterior",
+    "fecha_hora": "2026-07-27T00:00:00-03:00",
+    "estado": "Cubierto",
     "visibilidad": "10 km",
-    "temperatura": -3.2,
-    "termica": -12.5,
-    "humedad": 75,
+    "temperatura": -3.9,
+    "termica": -12.7,
+    "humedad": 83,
     "viento_dir": "Oeste",
-    "viento_vel": 50,
-    "presion": 987.0
+    "viento_vel": 40,
+    "presion": 985.8
   },
   "mayor_humedad": {
     "estacion": "Chapelco",
