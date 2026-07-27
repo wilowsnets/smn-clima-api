@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-27T17:41:56.188464Z",
-  "ultima_actualizacion_smn": "2026-07-27T12:00:00-03:00",
+  "actualizado_github": "2026-07-27T19:18:03.459991Z",
+  "ultima_actualizacion_smn": "2026-07-27T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
-    "fecha_hora": "2026-07-27T12:00:00-03:00",
+    "estacion": "Formosa",
+    "fecha_hora": "2026-07-27T14:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": 30.0,
-    "termica": 32.0,
-    "humedad": 56,
+    "temperatura": 32.1,
+    "termica": 34.8,
+    "humedad": 50,
     "viento_dir": "Norte",
-    "viento_vel": 14,
-    "presion": 992.8
+    "viento_vel": 18,
+    "presion": 999.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,16 +31,16 @@
     "presion": 954.2
   },
   "mayor_viento": {
-    "estacion": "San Juan",
-    "fecha_hora": "2026-07-27T12:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "10 km",
-    "temperatura": 27.7,
-    "termica": null,
-    "humedad": 10,
-    "viento_dir": "Norte",
-    "viento_vel": 46,
-    "presion": 937.0
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-27T14:00:00-03:00",
+    "estado": "Cubierto con ventisca baja",
+    "visibilidad": "1.5 km",
+    "temperatura": -22.3,
+    "termica": -37.0,
+    "humedad": 35,
+    "viento_dir": "Sur",
+    "viento_vel": 38,
+    "presion": 966.9
   },
   "mayor_humedad": {
     "estacion": "Victorica",
