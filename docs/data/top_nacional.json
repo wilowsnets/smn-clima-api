@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-27T10:14:25.114941Z",
-  "ultima_actualizacion_smn": "2026-07-27T06:00:00-03:00",
+  "actualizado_github": "2026-07-27T13:23:54.473053Z",
+  "ultima_actualizacion_smn": "2026-07-27T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -31,27 +31,27 @@
     "presion": 952.2
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-27T03:00:00-03:00",
-    "estado": "Parcialmente nublado",
-    "visibilidad": "10 km",
-    "temperatura": -8.1,
-    "termica": -17.2,
-    "humedad": 78,
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-27T07:00:00-03:00",
+    "estado": "Cubierto con niebla",
+    "visibilidad": "200 mts",
+    "temperatura": -21.4,
+    "termica": -37.9,
+    "humedad": 60,
     "viento_dir": "Sur",
-    "viento_vel": 31,
-    "presion": 981.4
+    "viento_vel": 55,
+    "presion": 960.8
   },
   "mayor_humedad": {
     "estacion": "La Plata",
-    "fecha_hora": "2026-07-27T06:00:00-03:00",
+    "fecha_hora": "2026-07-27T08:00:00-03:00",
     "estado": "Cubierto con niebla",
     "visibilidad": "500 mts",
-    "temperatura": 10.0,
-    "termica": 8.8,
+    "temperatura": 11.3,
+    "termica": null,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 9,
-    "presion": 1009.6
+    "viento_vel": 3,
+    "presion": 1010.1
   }
 }
