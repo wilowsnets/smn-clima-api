@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-28T05:18:09.464319Z",
-  "ultima_actualizacion_smn": "2026-07-28T00:00:00-03:00",
+  "actualizado_github": "2026-07-28T07:58:19.405671Z",
+  "ultima_actualizacion_smn": "2026-07-28T02:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Formosa",
-    "fecha_hora": "2026-07-28T00:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "estacion": "Las Lomitas",
+    "fecha_hora": "2026-07-27T21:00:00-03:00",
+    "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 27.1,
-    "termica": 28.3,
-    "humedad": 70,
-    "viento_dir": "Noreste",
-    "viento_vel": 18,
-    "presion": 999.0
+    "temperatura": 26.4,
+    "termica": 27.7,
+    "humedad": 66,
+    "viento_dir": "Oeste",
+    "viento_vel": 5,
+    "presion": 989.7
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
