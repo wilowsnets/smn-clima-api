@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260728.txt"
   ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;28-julio-2026;02:00;Cielo invisible con niebla;200 mts;9.4;No se calcula; 97;Sur  1;992 / \r\n Bahía Blanca;28-julio-2026;02:00;Cubierto;15 km;5.3;3.2; 96;Norte  9;1001 / \r\n Benito Juárez;27-julio-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;10.4;No se calcula; 100;Calma;982.6 / \r\n Bolívar;27-julio-2026;21:00;Parcialmente nublado con niebla;500 mts;11.2;No se calcula; 97;Calma;997.4 / \r\n Campo de Mayo;27-julio-2026;21:00;Parcialmente nublado;10 km;15.2;No se calcula; 94;Calma;1005.4 ",
-  "actualizado_github": "2026-07-28T07:58:19.405671Z"
+  "cantidad_estaciones": 120,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Gobernador Gregores;27-julio-2026;21:00;Nublado;10 km;-6;---;---;Calma;968.9 /"
+  ],
+  "primeros_500_caracteres": "Azul;28-julio-2026;06:00;Algo nublado;15 km;6.5;No se calcula; 97;Sur  3;992.4 / \r\n Bahía Blanca;28-julio-2026;06:00;Parcialmente nublado;15 km;3.5;2.2; 96;Noroeste  5;1002.1 / \r\n Benito Juárez;27-julio-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;10.4;No se calcula; 100;Calma;982.6 / \r\n Bolívar;27-julio-2026;21:00;Parcialmente nublado con niebla;500 mts;11.2;No se calcula; 97;Calma;997.4 / \r\n Campo de Mayo;27-julio-2026;21:00;Parcialmente nublado;10 km;15.2;No se calcula; 94;Calma;1005",
+  "actualizado_github": "2026-07-28T10:37:44.951641Z"
 }
