@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-28T10:37:44.951641Z",
-  "ultima_actualizacion_smn": "2026-07-28T06:00:00-03:00",
+  "actualizado_github": "2026-07-28T12:50:22.731457Z",
+  "ultima_actualizacion_smn": "2026-07-28T08:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 873.4
   },
   "mayor_humedad": {
-    "estacion": "Benito Juárez",
-    "fecha_hora": "2026-07-27T21:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "Menor a 100 mts",
-    "temperatura": 10.4,
-    "termica": null,
+    "estacion": "Azul",
+    "fecha_hora": "2026-07-28T08:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": 4.6,
+    "termica": 3.4,
     "humedad": 100,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 982.6
+    "viento_dir": "Sur",
+    "viento_vel": 5,
+    "presion": 993.3
   }
 }
