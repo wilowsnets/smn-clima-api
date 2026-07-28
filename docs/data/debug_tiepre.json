@@ -9,5 +9,5 @@
     "ERROR: could not convert string to float: '---' | LINEA: Puerto Deseado;28-julio-2026;09:00;Nublado con precipitación a la vista;30 km;0.2;---;---;Oeste  9;1004.1 /"
   ],
   "primeros_500_caracteres": "Azul;28-julio-2026;14:00;Nublado con precipitación a la vista;15 km;14.3;No se calcula; 64;Este  13;993.4 / \r\n Bahía Blanca;28-julio-2026;14:00;Nublado con lluvia;12 km;9.4;7.7; 94;Sur  11;1003.4 / \r\n Benito Juárez;28-julio-2026;09:00;Nublado;10 km;6;No se calcula; 97;Calma;986.6 / \r\n Bolívar;28-julio-2026;14:00;Nublado;15 km;15.4;No se calcula; 63;Este  7;999.6 / \r\n Campo de Mayo;28-julio-2026;14:00;Nublado;10 km;16.6;No se calcula; 78;Este  16;1007 / \r\n Coronel Suarez;28-julio-2026;12:00;Nubla",
-  "actualizado_github": "2026-07-28T18:13:07.369241Z"
+  "actualizado_github": "2026-07-28T19:58:51.882949Z"
 }
