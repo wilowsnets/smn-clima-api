@@ -6,8 +6,8 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Gobernador Gregores;27-julio-2026;21:00;Nublado;10 km;-6;---;---;Calma;968.9 /"
+    "ERROR: could not convert string to float: '---' | LINEA: Puerto Deseado;28-julio-2026;09:00;Nublado con precipitación a la vista;30 km;0.2;---;---;Oeste  9;1004.1 /"
   ],
-  "primeros_500_caracteres": "Azul;28-julio-2026;08:00;Algo nublado;15 km;4.6;3.4; 100;Sur  5;993.3 / \r\n Bahía Blanca;28-julio-2026;08:00;Cubierto;15 km;3;No se calcula; 96;Sudeste  3;1002.6 / \r\n Benito Juárez;27-julio-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;10.4;No se calcula; 100;Calma;982.6 / \r\n Bolívar;27-julio-2026;21:00;Parcialmente nublado con niebla;500 mts;11.2;No se calcula; 97;Calma;997.4 / \r\n Campo de Mayo;27-julio-2026;21:00;Parcialmente nublado;10 km;15.2;No se calcula; 94;Calma;1005.4 / \r\n Corone",
-  "actualizado_github": "2026-07-28T12:50:22.731457Z"
+  "primeros_500_caracteres": "Azul;28-julio-2026;10:00;Nublado;15 km;9.1;8.6; 90;Sudeste  5;995 / \r\n Bahía Blanca;28-julio-2026;10:00;Parcialmente nublado;15 km;7.2;5.4; 97;Este  9;1003.4 / \r\n Benito Juárez;28-julio-2026;09:00;Nublado;10 km;6;No se calcula; 97;Calma;986.6 / \r\n Bolívar;28-julio-2026;10:00;Nublado;15 km;7.6;No se calcula; 94;Calma;1001.3 / \r\n Campo de Mayo;28-julio-2026;10:00;Parcialmente nublado con niebla en la hora anterior;5 km;15;No se calcula; 96;Sur  13;1008.6 / \r\n Coronel Suarez;28-julio-2026;10:00;Nub",
+  "actualizado_github": "2026-07-28T15:14:45.410691Z"
 }
