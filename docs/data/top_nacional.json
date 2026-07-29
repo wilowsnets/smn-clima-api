@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-29T18:02:42.336070Z",
-  "ultima_actualizacion_smn": "2026-07-29T12:00:00-03:00",
-  "estado": "desactualizado",
-  "desactualizado": true,
-  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
+  "actualizado_github": "2026-07-29T19:51:03.923907Z",
+  "ultima_actualizacion_smn": "2026-07-29T14:00:00-03:00",
+  "estado": "ok",
+  "desactualizado": false,
+  "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Iguazú",
-    "fecha_hora": "2026-07-29T12:00:00-03:00",
+    "fecha_hora": "2026-07-29T14:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 27.4,
-    "termica": 28.6,
-    "humedad": 59,
-    "viento_dir": "Noroeste",
-    "viento_vel": 7,
-    "presion": 981.3
+    "temperatura": 28.7,
+    "termica": 30.2,
+    "humedad": 57,
+    "viento_dir": "Este",
+    "viento_vel": 9,
+    "presion": 980.1
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-07-29T12:00:00-03:00",
+    "fecha_hora": "2026-07-29T14:00:00-03:00",
     "estado": "Cubierto con neblina",
-    "visibilidad": "4.0 km",
-    "temperatura": -18.0,
-    "termica": -29.9,
-    "humedad": 46,
+    "visibilidad": "7 km",
+    "temperatura": -16.8,
+    "termica": -29.4,
+    "humedad": 50,
     "viento_dir": "Norte",
-    "viento_vel": 29,
-    "presion": 968.6
+    "viento_vel": 37,
+    "presion": 965.8
   },
   "mayor_humedad": {
-    "estacion": "Bahía Blanca",
-    "fecha_hora": "2026-07-29T12:00:00-03:00",
+    "estacion": "Victorica",
+    "fecha_hora": "2026-07-29T09:00:00-03:00",
     "estado": "Cubierto con neblina",
-    "visibilidad": "10 km",
-    "temperatura": 7.2,
-    "termica": 5.4,
+    "visibilidad": "5 km",
+    "temperatura": 4.2,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Oeste",
-    "viento_vel": 9,
-    "presion": 1011.8
+    "viento_dir": "Sur",
+    "viento_vel": 3,
+    "presion": 981.4
   }
 }
