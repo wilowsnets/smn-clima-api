@@ -8,6 +8,6 @@
   "lineas_invalidas_muestra": [
     "ERROR: could not convert string to float: '---' | LINEA: Base Belgrano II;29-julio-2026;06:00;Parcialmente nublado con ventisca alta;800 mts;-31.3;---; 24;Noreste  48;959.4 /"
   ],
-  "primeros_500_caracteres": "Azul;29-julio-2026;06:00;Despejado con niebla;800 mts;4;No se calcula; 100;Calma;999.4 / \r\n Bahía Blanca;29-julio-2026;06:00;Parcialmente nublado con neblina;4.0 km;6.2;5.3; 100;Oeste  5;1008.9 / \r\n Benito Juárez;28-julio-2026;21:00;Cubierto con lluvia;10 km;9.2;No se calcula; 97;Calma;990 / \r\n Bolívar;28-julio-2026;21:00;Cubierto;15 km;10.8;No se calcula; 89;Calma;1005 / \r\n Campo de Mayo;28-julio-2026;21:00;Cubierto;10 km;13;No se calcula; 91;Sudeste  11;1009.4 / \r\n Coronel Suarez;29-julio-2026",
-  "actualizado_github": "2026-07-29T11:03:29.485423Z"
+  "primeros_500_caracteres": "Azul;29-julio-2026;08:00;Algo nublado con niebla;900 mts;3.4;2.1; 96;Sudoeste  5;1000.9 / \r\n Bahía Blanca;29-julio-2026;08:00;Cubierto con niebla;500 mts;8.2;6.3; 100;Oeste  11;1009.7 / \r\n Benito Juárez;28-julio-2026;21:00;Cubierto con lluvia;10 km;9.2;No se calcula; 97;Calma;990 / \r\n Bolívar;28-julio-2026;21:00;Cubierto;15 km;10.8;No se calcula; 89;Calma;1005 / \r\n Campo de Mayo;28-julio-2026;21:00;Cubierto;10 km;13;No se calcula; 91;Sudeste  11;1009.4 / \r\n Coronel Suarez;29-julio-2026;08:00;Alg",
+  "actualizado_github": "2026-07-29T13:12:38.736000Z"
 }
