@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-28T23:54:37.478054Z",
+  "actualizado_github": "2026-07-29T02:02:01.124842Z",
   "ultima_actualizacion_smn": "2026-07-28T18:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN. Se muestran los últimos datos disponibles. Error: No se pudo parsear ninguna estación. Archivo interno: estado_tiempo20260729.txt. Primeros 500 caracteres: ",
   "mas_calor": {
     "estacion": "Tartagal",
     "fecha_hora": "2026-07-28T18:00:00-03:00",
