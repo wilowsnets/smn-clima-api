@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-29T08:29:19.334365Z",
-  "ultima_actualizacion_smn": "2026-07-29T04:00:00-03:00",
+  "actualizado_github": "2026-07-29T11:03:29.485423Z",
+  "ultima_actualizacion_smn": "2026-07-29T06:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -19,39 +19,39 @@
     "presion": 980.6
   },
   "mas_frio": {
-    "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-29T03:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "20 km",
-    "temperatura": -31.2,
-    "termica": -47.8,
-    "humedad": 25,
-    "viento_dir": "Noreste",
-    "viento_vel": 33,
-    "presion": 960.1
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-29T06:00:00-03:00",
+    "estado": "Algo nublado con niebla",
+    "visibilidad": "500 mts",
+    "temperatura": -23.4,
+    "termica": -35.3,
+    "humedad": 55,
+    "viento_dir": "Norte",
+    "viento_vel": 22,
+    "presion": 972.8
   },
   "mayor_viento": {
-    "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-29T03:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "20 km",
-    "temperatura": -31.2,
-    "termica": -47.8,
-    "humedad": 25,
-    "viento_dir": "Noreste",
-    "viento_vel": 33,
-    "presion": 960.1
-  },
-  "mayor_humedad": {
-    "estacion": "Las Flores",
+    "estacion": "Santa Cruz",
     "fecha_hora": "2026-07-28T21:00:00-03:00",
     "estado": "Algo nublado",
-    "visibilidad": "15 km",
-    "temperatura": 7.5,
+    "visibilidad": "30 km",
+    "temperatura": -4.8,
+    "termica": -12.4,
+    "humedad": 100,
+    "viento_dir": "Oeste",
+    "viento_vel": 27,
+    "presion": 999.3
+  },
+  "mayor_humedad": {
+    "estacion": "Azul",
+    "fecha_hora": "2026-07-29T06:00:00-03:00",
+    "estado": "Despejado con niebla",
+    "visibilidad": "800 mts",
+    "temperatura": 4.0,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 3,
-    "presion": 1009.8
+    "viento_dir": "Calma",
+    "viento_vel": 0,
+    "presion": 999.4
   }
 }
