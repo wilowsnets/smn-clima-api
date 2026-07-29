@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260729.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Base Belgrano II;29-julio-2026;06:00;Parcialmente nublado con ventisca alta;800 mts;-31.3;---; 24;Noreste  48;959.4 /"
-  ],
-  "primeros_500_caracteres": "Azul;29-julio-2026;08:00;Algo nublado con niebla;900 mts;3.4;2.1; 96;Sudoeste  5;1000.9 / \r\n Bahía Blanca;29-julio-2026;08:00;Cubierto con niebla;500 mts;8.2;6.3; 100;Oeste  11;1009.7 / \r\n Benito Juárez;28-julio-2026;21:00;Cubierto con lluvia;10 km;9.2;No se calcula; 97;Calma;990 / \r\n Bolívar;28-julio-2026;21:00;Cubierto;15 km;10.8;No se calcula; 89;Calma;1005 / \r\n Campo de Mayo;28-julio-2026;21:00;Cubierto;10 km;13;No se calcula; 91;Sudeste  11;1009.4 / \r\n Coronel Suarez;29-julio-2026;08:00;Alg",
-  "actualizado_github": "2026-07-29T13:12:38.736000Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;29-julio-2026;10:00;Algo nublado con niebla en la hora anterior;6 km;7.4;No se calcula; 97;Oeste  1;1002.5 / \r\n Bahía Blanca;29-julio-2026;10:00;Cubierto con neblina;10 km;6.9;4.4; 100;Oeste  13;1011 / \r\n Benito Juárez;29-julio-2026;09:00;Cubierto con neblina;7 km;7.6;No se calcula; 98;Calma;993.6 / \r\n Bolívar;29-julio-2026;10:00;Cielo invisible con niebla;200 mts;6.4;5.5; 100;Sur  5;1009 / \r\n Campo de Mayo;29-julio-2026;10:00;Algo nublado;10 km;12;No se calcula; 77;Este  3;1016.2 / \r\n Coro",
+  "actualizado_github": "2026-07-29T15:27:29.494627Z"
 }
