@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-30T17:55:02.676752Z",
-  "ultima_actualizacion_smn": "2026-07-30T12:00:00-03:00",
+  "actualizado_github": "2026-07-30T19:15:51.952475Z",
+  "ultima_actualizacion_smn": "2026-07-30T14:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
-    "fecha_hora": "2026-07-30T12:00:00-03:00",
+    "estacion": "Formosa",
+    "fecha_hora": "2026-07-30T14:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 27.8,
-    "termica": 30.0,
-    "humedad": 67,
+    "temperatura": 29.1,
+    "termica": 32.0,
+    "humedad": 64,
     "viento_dir": "Este",
-    "viento_vel": 7,
-    "presion": 997.6
+    "viento_vel": 11,
+    "presion": 1004.9
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,27 +31,27 @@
     "presion": 958.1
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-30T12:00:00-03:00",
-    "estado": "Cielo invisible con ventisca alta",
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-30T14:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
     "visibilidad": "Menor a 100 mts",
-    "temperatura": -15.1,
-    "termica": -30.8,
-    "humedad": 73,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 74,
-    "presion": 979.8
+    "temperatura": -24.5,
+    "termica": -46.1,
+    "humedad": 51,
+    "viento_dir": "Sur",
+    "viento_vel": 100,
+    "presion": 961.6
   },
   "mayor_humedad": {
     "estacion": "Maquinchao",
-    "fecha_hora": "2026-07-30T12:00:00-03:00",
-    "estado": "Nublado con lluvia en la hora anterior",
-    "visibilidad": "5 km",
-    "temperatura": 0.2,
-    "termica": null,
+    "fecha_hora": "2026-07-30T14:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura": 0.5,
+    "termica": -3.7,
     "humedad": 100,
-    "viento_dir": "Noreste",
-    "viento_vel": 3,
-    "presion": 908.4
+    "viento_dir": "Este",
+    "viento_vel": 14,
+    "presion": 906.6
   }
 }
