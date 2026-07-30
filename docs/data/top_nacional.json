@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-30T20:40:23.471437Z",
+  "actualizado_github": "2026-07-30T22:02:33.541452Z",
   "ultima_actualizacion_smn": "2026-07-30T16:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN o los datos son antiguos. Se muestran los últimos datos disponibles.",
   "mas_calor": {
     "estacion": "Las Lomitas",
     "fecha_hora": "2026-07-30T15:00:00-03:00",
