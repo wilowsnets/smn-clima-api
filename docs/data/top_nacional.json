@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-30T02:21:29.610973Z",
-  "ultima_actualizacion_smn": "2026-07-29T22:00:00-03:00",
+  "actualizado_github": "2026-07-30T05:21:57.232364Z",
+  "ultima_actualizacion_smn": "2026-07-30T00:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,27 +20,27 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-07-29T21:00:00-03:00",
+    "fecha_hora": "2026-07-30T00:00:00-03:00",
     "estado": "Nublado con nevada",
     "visibilidad": "5 km",
-    "temperatura": -29.2,
-    "termica": -41.6,
-    "humedad": 21,
+    "temperatura": -29.5,
+    "termica": -42.0,
+    "humedad": 33,
     "viento_dir": "Noreste",
     "viento_vel": 18,
-    "presion": 958.1
+    "presion": 958.6
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-29T21:00:00-03:00",
-    "estado": "Parcialmente nublado con ventisca baja",
-    "visibilidad": "5 km",
-    "temperatura": -8.2,
-    "termica": -18.8,
+    "estacion": "Base Carlini",
+    "fecha_hora": "2026-07-30T00:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura": -3.8,
+    "termica": -12.7,
     "humedad": 87,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 44,
-    "presion": 984.4
+    "viento_dir": "Oeste",
+    "viento_vel": 42,
+    "presion": 987.6
   },
   "mayor_humedad": {
     "estacion": "Chapelco",
