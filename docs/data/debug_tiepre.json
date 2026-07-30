@@ -4,10 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260730.txt"
   ],
-  "cantidad_estaciones": 120,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Maquinchao;30-julio-2026;06:00;Nublado con nevada;1.0 km;-0.4;---;---;Sudoeste  14;910.2 /"
-  ],
-  "primeros_500_caracteres": "Azul;30-julio-2026;06:00;Parcialmente nublado;15 km;7.6;5.9; 97;Este  9;1003 / \r\n Bahía Blanca;30-julio-2026;06:00;Cubierto con lluvia;10 km;7.2;4.0; 100;Este  18;1009.8 / \r\n Benito Juárez;29-julio-2026;21:00;Cubierto;15 km;8.4;No se calcula; 94;Calma;994.5 / \r\n Bolívar;29-julio-2026;21:00;Parcialmente nublado;10 km;9.8;No se calcula; 92;Sudeste  3;1008 / \r\n Campo de Mayo;29-julio-2026;21:00;Parcialmente nublado;10 km;11.8;No se calcula; 79;Este  9;1017.6 / \r\n Coronel Suarez;30-julio-2026;06:00;",
-  "actualizado_github": "2026-07-30T12:10:30.422777Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;30-julio-2026;10:00;Parcialmente nublado;15 km;9.2;7.0; 81;Noreste  14;1003.4 / \r\n Bahía Blanca;30-julio-2026;10:00;Cubierto con lluvia en la hora anterior;15 km;10;7.0; 91;Este  24;1008.1 / \r\n Benito Juárez;30-julio-2026;09:00;Cubierto;10 km;8.1;No se calcula; 94;Norte  3;995.4 / \r\n Bolívar;30-julio-2026;10:00;Cubierto;10 km;9.8;8.5; 89;Noreste  9;1009.3 / \r\n Campo de Mayo;30-julio-2026;10:00;Cubierto;10 km;11.8;No se calcula; 89;Noreste  14;1018.9 / \r\n Coronel Suarez;30-julio-2026;10:00;N",
+  "actualizado_github": "2026-07-30T14:40:03.598379Z"
 }
