@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-31T20:16:44.968966Z",
-  "ultima_actualizacion_smn": "2026-07-31T15:00:00-03:00",
+  "actualizado_github": "2026-07-31T21:35:45.606858Z",
+  "ultima_actualizacion_smn": "2026-07-31T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Las Lomitas",
+    "estacion": "Rivadavia",
     "fecha_hora": "2026-07-31T15:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": 35.0,
+    "temperatura": 37.2,
     "termica": null,
-    "humedad": 38,
-    "viento_dir": "Noreste",
-    "viento_vel": 27,
-    "presion": 988.1
+    "humedad": 32,
+    "viento_dir": "Norte",
+    "viento_vel": 3,
+    "presion": 974.1
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -31,27 +31,27 @@
     "presion": 953.8
   },
   "mayor_viento": {
-    "estacion": "Corrientes",
-    "fecha_hora": "2026-07-31T15:00:00-03:00",
-    "estado": "Despejado",
-    "visibilidad": "10 km",
-    "temperatura": 31.7,
-    "termica": 31.5,
-    "humedad": 44,
-    "viento_dir": "Noreste",
-    "viento_vel": 40,
-    "presion": 997.8
+    "estacion": "Paraná",
+    "fecha_hora": "2026-07-31T17:00:00-03:00",
+    "estado": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura": 28.0,
+    "termica": 27.0,
+    "humedad": 62,
+    "viento_dir": "Norte",
+    "viento_vel": 38,
+    "presion": 991.4
   },
   "mayor_humedad": {
-    "estacion": "Punta Indio B.A.",
+    "estacion": "Olavarría",
     "fecha_hora": "2026-07-31T15:00:00-03:00",
-    "estado": "Parcialmente nublado con tormenta en la hora anterior",
-    "visibilidad": "10 km",
-    "temperatura": 17.0,
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "3.0 km",
+    "temperatura": 15.2,
     "termica": null,
-    "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 22,
-    "presion": 1002.2
+    "humedad": 99,
+    "viento_dir": "Noreste",
+    "viento_vel": 18,
+    "presion": 981.7
   }
 }
