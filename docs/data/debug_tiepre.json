@@ -4,11 +4,8 @@
   "archivos_zip": [
     "estado_tiempo20260731.txt"
   ],
-  "cantidad_estaciones": 119,
-  "lineas_invalidas_muestra": [
-    "ERROR: could not convert string to float: '---' | LINEA: Base Belgrano II;31-julio-2026;03:00;Algo nublado;20 km;-34.6;---; 26;Sudeste  24;956.8 /",
-    "ERROR: could not convert string to float: '---' | LINEA: Base Marambio;31-julio-2026;05:00;Despejado con niebla;500 mts;-29.6;---; 18;Sur  64;979.7 /"
-  ],
-  "primeros_500_caracteres": "Azul;31-julio-2026;05:00;Cubierto con neblina;7 km;11.4;No se calcula; 92;Noreste  16;993 / \r\n Bahía Blanca;31-julio-2026;05:00;Cubierto;15 km;13.4;No se calcula; 88;Noreste  13;997 / \r\n Benito Juárez;30-julio-2026;21:00;Cubierto;15 km;11;No se calcula; 84;Norte  33;989.8 / \r\n Bolívar;30-julio-2026;21:00;Cubierto;15 km;11.8;No se calcula; 90;Este  18;1002.9 / \r\n Campo de Mayo;30-julio-2026;21:00;Algo nublado;10 km;14.2;No se calcula; 86;Noreste  14;1012.8 / \r\n Coronel Suarez;30-julio-2026;21:00;",
-  "actualizado_github": "2026-07-31T08:40:24.825741Z"
+  "cantidad_estaciones": 121,
+  "lineas_invalidas_muestra": [],
+  "primeros_500_caracteres": "Azul;31-julio-2026;07:00;Cubierto;15 km;11.8;No se calcula; 93;Noreste  11;992.2 / \r\n Bahía Blanca;31-julio-2026;06:00;Cubierto con llovizna en la hora anterior;15 km;13.5;No se calcula; 89;Norte  18;996.1 / \r\n Benito Juárez;30-julio-2026;21:00;Cubierto;15 km;11;No se calcula; 84;Norte  33;989.8 / \r\n Bolívar;30-julio-2026;21:00;Cubierto;15 km;11.8;No se calcula; 90;Este  18;1002.9 / \r\n Campo de Mayo;30-julio-2026;21:00;Algo nublado;10 km;14.2;No se calcula; 86;Noreste  14;1012.8 / \r\n Coronel Sua",
+  "actualizado_github": "2026-07-31T11:25:11.202625Z"
 }

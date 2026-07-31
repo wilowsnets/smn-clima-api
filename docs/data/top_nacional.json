@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-07-31T08:40:24.825741Z",
-  "ultima_actualizacion_smn": "2026-07-31T05:00:00-03:00",
+  "actualizado_github": "2026-07-31T11:25:11.202625Z",
+  "ultima_actualizacion_smn": "2026-07-31T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -19,39 +19,39 @@
     "presion": 994.4
   },
   "mas_frio": {
-    "estacion": "Base San Martín",
-    "fecha_hora": "2026-07-31T03:00:00-03:00",
+    "estacion": "Base Belgrano II",
+    "fecha_hora": "2026-07-31T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -24.9,
-    "termica": null,
-    "humedad": 60,
-    "viento_dir": "Direcciones Variables",
-    "viento_vel": 1,
-    "presion": 1009.7
+    "temperatura": -34.7,
+    "termica": -49.7,
+    "humedad": 26,
+    "viento_dir": "Sudeste",
+    "viento_vel": 22,
+    "presion": 956.5
   },
   "mayor_viento": {
-    "estacion": "Base Esperanza",
-    "fecha_hora": "2026-07-31T03:00:00-03:00",
-    "estado": "Parcialmente nublado con ventisca baja",
-    "visibilidad": "500 mts",
-    "temperatura": -24.5,
-    "termica": -46.1,
-    "humedad": 51,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 100,
-    "presion": 998.4
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-07-31T07:00:00-03:00",
+    "estado": "Despejado",
+    "visibilidad": "15 km",
+    "temperatura": -30.0,
+    "termica": -49.2,
+    "humedad": 16,
+    "viento_dir": "Sur",
+    "viento_vel": 51,
+    "presion": 980.4
   },
   "mayor_humedad": {
-    "estacion": "Maquinchao",
-    "fecha_hora": "2026-07-31T03:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "100 mts",
-    "temperatura": 0.2,
-    "termica": null,
+    "estacion": "Esquel",
+    "fecha_hora": "2026-07-31T07:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura": 1.1,
+    "termica": -0.6,
     "humedad": 100,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 902.0
+    "viento_dir": "Oeste",
+    "viento_vel": 5,
+    "presion": 908.1
   }
 }
