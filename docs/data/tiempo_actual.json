@@ -1458,10 +1458,10 @@
       "presion": 1001.0
     }
   },
-  "actualizado_github": "2026-07-30T23:30:43.038328Z",
+  "actualizado_github": "2026-07-31T02:11:03.811793Z",
   "ultima_actualizacion_smn": "2026-07-30T18:00:00-03:00",
-  "edad_minutos": 150,
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados."
+  "edad_minutos": 311,
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN. Se muestran los últimos datos disponibles. Error: No se pudo parsear ninguna estación. Archivo interno: estado_tiempo20260731.txt. Primeros 500 caracteres: "
 }
