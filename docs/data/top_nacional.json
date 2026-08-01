@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-01T11:40:00.743973Z",
-  "ultima_actualizacion_smn": "2026-08-01T07:00:00-03:00",
+  "actualizado_github": "2026-08-01T13:05:06.668748Z",
+  "ultima_actualizacion_smn": "2026-08-01T09:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 872.9
   },
   "mayor_humedad": {
-    "estacion": "Benito Juárez",
+    "estacion": "Olavarría",
     "fecha_hora": "2026-07-31T21:00:00-03:00",
-    "estado": "Cubierto con neblina",
-    "visibilidad": "9 km",
-    "temperatura": 14.6,
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "1.0 km",
+    "temperatura": 13.8,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Oeste",
+    "viento_dir": "Norte",
     "viento_vel": 3,
-    "presion": 978.8
+    "presion": 980.2
   }
 }
