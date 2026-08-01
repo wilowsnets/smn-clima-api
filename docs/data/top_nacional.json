@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-01T10:14:26.645914Z",
-  "ultima_actualizacion_smn": "2026-08-01T05:00:00-03:00",
+  "actualizado_github": "2026-08-01T11:40:00.743973Z",
+  "ultima_actualizacion_smn": "2026-08-01T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-01T03:00:00-03:00",
+    "fecha_hora": "2026-08-01T06:00:00-03:00",
     "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -34.6,
+    "temperatura": -33.2,
     "termica": null,
-    "humedad": 26,
-    "viento_dir": "Noreste",
-    "viento_vel": 3,
-    "presion": 953.6
+    "humedad": 33,
+    "viento_dir": "Sudeste",
+    "viento_vel": 1,
+    "presion": 953.7
   },
   "mayor_viento": {
     "estacion": "Tinogasta",
