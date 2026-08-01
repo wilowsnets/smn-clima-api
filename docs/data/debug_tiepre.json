@@ -1,11 +1,11 @@
 {
   "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260731.txt",
+  "archivo_zip_usado": "estado_tiempo20260801.txt",
   "archivos_zip": [
-    "estado_tiempo20260731.txt"
+    "estado_tiempo20260801.txt"
   ],
-  "cantidad_estaciones": 121,
+  "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;31-julio-2026;19:00;Nublado con llovizna;2.0 km;16.2;No se calcula; 98;Calma;984.2 / \r\n Bahía Blanca;31-julio-2026;19:00;Cubierto;15 km;15.2;No se calcula; 95;Oeste  16;994.4 / \r\n Benito Juárez;31-julio-2026;15:00;Nublado;10 km;14.1;No se calcula; 98;Norte  24;976.2 / \r\n Bolívar;31-julio-2026;19:00;Cubierto con niebla;600 mts;17.2;No se calcula; 100;Oeste  5;991.8 / \r\n Campo de Mayo;31-julio-2026;18:00;Parcialmente nublado;10 km;23.8;No se calcula; 82;Norte  16;998.4 / \r\n Coronel Suarez;31-",
-  "actualizado_github": "2026-07-31T23:56:34.755307Z"
+  "primeros_500_caracteres": "Azul;31-julio-2026;23:00;Nublado con llovizna en la hora anterior;15 km;15.7;No se calcula; 94;Sudoeste  11;988.3 / \r\n Bahía Blanca;31-julio-2026;22:00;Nublado;15 km;14.4;No se calcula; 93;Oeste  18;997 / \r\n Benito Juárez;31-julio-2026;21:00;Cubierto con neblina;9 km;14.6;No se calcula; 100;Oeste  3;978.8 / \r\n Bolívar;31-julio-2026;21:00;Cubierto con niebla en la hora anterior;3.0 km;17.4;No se calcula; 98;Sudoeste  18;992.6 / \r\n Campo de Mayo;31-julio-2026;21:00;Nublado con tormenta;8 km;21;No ",
+  "actualizado_github": "2026-08-01T02:34:06.399352Z"
 }
