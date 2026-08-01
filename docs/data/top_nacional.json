@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-01T19:13:26.679005Z",
-  "ultima_actualizacion_smn": "2026-08-01T15:00:00-03:00",
+  "actualizado_github": "2026-08-01T20:24:41.633474Z",
+  "ultima_actualizacion_smn": "2026-08-01T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
     "estacion": "Orán",
-    "fecha_hora": "2026-08-01T15:00:00-03:00",
+    "fecha_hora": "2026-08-01T17:00:00-03:00",
     "estado": "Algo nublado con humo",
     "visibilidad": "5 km",
-    "temperatura": 30.2,
+    "temperatura": 29.5,
     "termica": null,
     "humedad": 39,
-    "viento_dir": "Sur",
-    "viento_vel": 14,
-    "presion": 970.6
+    "viento_dir": "Sudeste",
+    "viento_vel": 9,
+    "presion": 970.1
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Villa Reynolds",
-    "fecha_hora": "2026-08-01T15:00:00-03:00",
-    "estado": "Algo nublado",
+    "fecha_hora": "2026-08-01T17:00:00-03:00",
+    "estado": "Parcialmente nublado",
     "visibilidad": "10 km",
-    "temperatura": 19.2,
+    "temperatura": 19.5,
     "termica": null,
-    "humedad": 41,
+    "humedad": 36,
     "viento_dir": "Noreste",
-    "viento_vel": 31,
-    "presion": 956.9
+    "viento_vel": 33,
+    "presion": 955.3
   },
   "mayor_humedad": {
-    "estacion": "Gualeguaychú",
-    "fecha_hora": "2026-08-01T14:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "3.0 km",
-    "temperatura": 15.8,
-    "termica": null,
-    "humedad": 99,
-    "viento_dir": "Oeste",
-    "viento_vel": 14,
-    "presion": 1009.4
+    "estacion": "Maquinchao",
+    "fecha_hora": "2026-08-01T16:00:00-03:00",
+    "estado": "Nublado con nevada",
+    "visibilidad": "1.0 km",
+    "temperatura": 0.6,
+    "termica": -2.4,
+    "humedad": 100,
+    "viento_dir": "Este",
+    "viento_vel": 9,
+    "presion": 907.8
   }
 }
