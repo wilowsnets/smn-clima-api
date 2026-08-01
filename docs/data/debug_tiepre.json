@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;01-agosto-2026;03:00;Nublado;15 km;14.4;No se calcula; 87;Sur  16;989.9 / \r\n Bahía Blanca;01-agosto-2026;03:00;Despejado;15 km;10.2;No se calcula; 89;Oeste  14;1000.4 / \r\n Benito Juárez;31-julio-2026;21:00;Cubierto con neblina;9 km;14.6;No se calcula; 100;Oeste  3;978.8 / \r\n Bolívar;31-julio-2026;21:00;Cubierto con niebla en la hora anterior;3.0 km;17.4;No se calcula; 98;Sudoeste  18;992.6 / \r\n Campo de Mayo;31-julio-2026;21:00;Nublado con tormenta;8 km;21;No se calcula; 92;Norte  27;998.5 ",
-  "actualizado_github": "2026-08-01T08:10:15.662054Z"
+  "primeros_500_caracteres": "Azul;01-agosto-2026;05:00;Cubierto;15 km;13.1;No se calcula; 88;Sur  14;990.1 / \r\n Bahía Blanca;01-agosto-2026;05:00;Algo nublado;15 km;8.4;5.7; 89;Oeste  16;1001.4 / \r\n Benito Juárez;31-julio-2026;21:00;Cubierto con neblina;9 km;14.6;No se calcula; 100;Oeste  3;978.8 / \r\n Bolívar;31-julio-2026;21:00;Cubierto con niebla en la hora anterior;3.0 km;17.4;No se calcula; 98;Sudoeste  18;992.6 / \r\n Campo de Mayo;31-julio-2026;21:00;Nublado con tormenta;8 km;21;No se calcula; 92;Norte  27;998.5 / \r\n Co",
+  "actualizado_github": "2026-08-01T10:14:26.645914Z"
 }
