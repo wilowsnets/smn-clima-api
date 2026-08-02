@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-02T11:12:34.384988Z",
-  "ultima_actualizacion_smn": "2026-08-02T07:00:00-03:00",
+  "actualizado_github": "2026-08-02T12:34:26.394507Z",
+  "ultima_actualizacion_smn": "2026-08-02T09:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-02T06:00:00-03:00",
+    "fecha_hora": "2026-08-02T09:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": -29.7,
-    "termica": null,
-    "humedad": 32,
-    "viento_dir": "Noreste",
-    "viento_vel": 1,
-    "presion": 956.4
+    "temperatura": -27.4,
+    "termica": -35.6,
+    "humedad": 30,
+    "viento_dir": "Sudeste",
+    "viento_vel": 9,
+    "presion": 958.6
   },
   "mayor_viento": {
-    "estacion": "Perito Moreno",
-    "fecha_hora": "2026-08-01T21:00:00-03:00",
-    "estado": "Cubierto con nevada",
-    "visibilidad": "5 km",
-    "temperatura": -1.1,
-    "termica": -9.4,
-    "humedad": 99,
-    "viento_dir": "Este",
-    "viento_vel": 46,
-    "presion": 956.4
+    "estacion": "Base Marambio",
+    "fecha_hora": "2026-08-02T09:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura": -5.8,
+    "termica": -15.5,
+    "humedad": 69,
+    "viento_dir": "Sur",
+    "viento_vel": 44,
+    "presion": 982.2
   },
   "mayor_humedad": {
-    "estacion": "Las Flores",
-    "fecha_hora": "2026-08-02T06:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "10 km",
-    "temperatura": 9.2,
+    "estacion": "Concordia",
+    "fecha_hora": "2026-08-02T09:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "200 mts",
+    "temperatura": 13.4,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 3,
-    "presion": 1010.1
+    "viento_vel": 16,
+    "presion": 1011.7
   }
 }
