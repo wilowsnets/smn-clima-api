@@ -9,5 +9,5 @@
     "ERROR: could not convert string to float: '-' | LINEA: Orán;02-agosto-2026;13:00;Despejado con bruma;4.0 km;25.3;No se calcula; 49;Calma;- /"
   ],
   "primeros_500_caracteres": "Azul;02-agosto-2026;13:00;Nublado con neblina;8 km;11.6;No se calcula; 87;Este  20;997.6 / \r\n Bahía Blanca;02-agosto-2026;13:00;Parcialmente nublado;15 km;14.8;No se calcula; 70;Norte  37;1001.2 / \r\n Benito Juárez;01-agosto-2026;21:00;Despejado con neblina;9 km;7.2;No se calcula; 94;Calma;988.8 / \r\n Bolívar;02-agosto-2026;13:00;Cubierto con neblina;7 km;12.4;No se calcula; 90;Noreste  14;1004.2 / \r\n Campo de Mayo;02-agosto-2026;13:00;Cubierto;10 km;15.8;No se calcula; 88;Este  16;1013.6 / \r\n Cor",
-  "actualizado_github": "2026-08-02T16:52:51.935401Z"
+  "actualizado_github": "2026-08-02T17:56:32.358819Z"
 }
