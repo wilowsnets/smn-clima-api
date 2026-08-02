@@ -1,22 +1,22 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-02T12:34:26.394507Z",
-  "ultima_actualizacion_smn": "2026-08-02T09:00:00-03:00",
+  "actualizado_github": "2026-08-02T14:25:12.977959Z",
+  "ultima_actualizacion_smn": "2026-08-02T11:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Rivadavia",
-    "fecha_hora": "2026-08-01T21:00:00-03:00",
-    "estado": "Despejado",
-    "visibilidad": "20 km",
-    "temperatura": 23.0,
+    "estacion": "Orán",
+    "fecha_hora": "2026-08-02T11:00:00-03:00",
+    "estado": "Despejado con bruma",
+    "visibilidad": "4.0 km",
+    "temperatura": 20.6,
     "termica": null,
-    "humedad": 76,
-    "viento_dir": "Calma",
-    "viento_vel": 0,
-    "presion": 979.5
+    "humedad": 58,
+    "viento_dir": "Sur",
+    "viento_vel": 9,
+    "presion": 968.3
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
@@ -32,26 +32,26 @@
   },
   "mayor_viento": {
     "estacion": "Base Marambio",
-    "fecha_hora": "2026-08-02T09:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-08-02T11:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "15 km",
-    "temperatura": -5.8,
-    "termica": -15.5,
-    "humedad": 69,
-    "viento_dir": "Sur",
-    "viento_vel": 44,
-    "presion": 982.2
+    "temperatura": -4.0,
+    "termica": -13.4,
+    "humedad": 66,
+    "viento_dir": "Sudoeste",
+    "viento_vel": 48,
+    "presion": 982.6
   },
   "mayor_humedad": {
-    "estacion": "Concordia",
-    "fecha_hora": "2026-08-02T09:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "200 mts",
-    "temperatura": 13.4,
-    "termica": null,
+    "estacion": "Mar del Plata",
+    "fecha_hora": "2026-08-02T11:00:00-03:00",
+    "estado": "Cubierto con neblina",
+    "visibilidad": "1.2 km",
+    "temperatura": 8.6,
+    "termica": 8.0,
     "humedad": 100,
-    "viento_dir": "Este",
-    "viento_vel": 16,
-    "presion": 1011.7
+    "viento_dir": "Noreste",
+    "viento_vel": 5,
+    "presion": 1016.4
   }
 }
