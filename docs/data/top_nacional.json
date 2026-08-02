@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-02T09:34:09.745099Z",
-  "ultima_actualizacion_smn": "2026-08-02T05:00:00-03:00",
+  "actualizado_github": "2026-08-02T11:12:34.384988Z",
+  "ultima_actualizacion_smn": "2026-08-02T07:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,38 +20,38 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-02T03:00:00-03:00",
+    "fecha_hora": "2026-08-02T06:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": -32.5,
-    "termica": -41.7,
-    "humedad": 36,
-    "viento_dir": "Sudeste",
-    "viento_vel": 9,
-    "presion": 953.6
+    "temperatura": -29.7,
+    "termica": null,
+    "humedad": 32,
+    "viento_dir": "Noreste",
+    "viento_vel": 1,
+    "presion": 956.4
   },
   "mayor_viento": {
-    "estacion": "Base Marambio",
-    "fecha_hora": "2026-08-02T05:00:00-03:00",
-    "estado": "Nublado",
-    "visibilidad": "15 km",
-    "temperatura": -1.3,
-    "termica": -10.5,
-    "humedad": 47,
-    "viento_dir": "Sudoeste",
-    "viento_vel": 59,
-    "presion": 980.1
+    "estacion": "Perito Moreno",
+    "fecha_hora": "2026-08-01T21:00:00-03:00",
+    "estado": "Cubierto con nevada",
+    "visibilidad": "5 km",
+    "temperatura": -1.1,
+    "termica": -9.4,
+    "humedad": 99,
+    "viento_dir": "Este",
+    "viento_vel": 46,
+    "presion": 956.4
   },
   "mayor_humedad": {
-    "estacion": "Posadas",
-    "fecha_hora": "2026-08-02T05:00:00-03:00",
-    "estado": "Cielo invisible con niebla",
-    "visibilidad": "200 mts",
-    "temperatura": 14.6,
+    "estacion": "Las Flores",
+    "fecha_hora": "2026-08-02T06:00:00-03:00",
+    "estado": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura": 9.2,
     "termica": null,
     "humedad": 100,
     "viento_dir": "Este",
-    "viento_vel": 9,
-    "presion": 999.7
+    "viento_vel": 3,
+    "presion": 1010.1
   }
 }
