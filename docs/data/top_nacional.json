@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-02T04:51:51.245373Z",
-  "ultima_actualizacion_smn": "2026-08-02T01:00:00-03:00",
+  "actualizado_github": "2026-08-02T07:28:53.244946Z",
+  "ultima_actualizacion_smn": "2026-08-02T03:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -20,15 +20,15 @@
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-02T00:00:00-03:00",
+    "fecha_hora": "2026-08-02T03:00:00-03:00",
     "estado": "Despejado",
     "visibilidad": "20 km",
-    "temperatura": -28.5,
-    "termica": null,
-    "humedad": 24,
+    "temperatura": -32.5,
+    "termica": -41.7,
+    "humedad": 36,
     "viento_dir": "Sudeste",
-    "viento_vel": 3,
-    "presion": 952.9
+    "viento_vel": 9,
+    "presion": 953.6
   },
   "mayor_viento": {
     "estacion": "Perito Moreno",
@@ -43,15 +43,15 @@
     "presion": 956.4
   },
   "mayor_humedad": {
-    "estacion": "Santa Cruz",
-    "fecha_hora": "2026-08-01T21:00:00-03:00",
-    "estado": "Nublado con llovizna",
-    "visibilidad": "1.5 km",
-    "temperatura": 1.4,
-    "termica": -1.4,
+    "estacion": "La Plata",
+    "fecha_hora": "2026-08-02T03:00:00-03:00",
+    "estado": "Parcialmente nublado con niebla en la hora anterior",
+    "visibilidad": "10 km",
+    "temperatura": 9.6,
+    "termica": 8.3,
     "humedad": 100,
     "viento_dir": "Este",
     "viento_vel": 9,
-    "presion": 998.9
+    "presion": 1012.8
   }
 }

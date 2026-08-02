@@ -6,6 +6,6 @@
   ],
   "cantidad_estaciones": 120,
   "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;02-agosto-2026;01:00;Algo nublado con neblina;10 km;5.2;4.1; 98;Noreste  5;997.4 / \r\n Bahía Blanca;02-agosto-2026;01:00;Cubierto;15 km;8.3;5.9; 92;Noreste  14;1003.4 / \r\n Benito Juárez;01-agosto-2026;21:00;Despejado con neblina;9 km;7.2;No se calcula; 94;Calma;988.8 / \r\n Bolívar;01-agosto-2026;21:00;Algo nublado;15 km;8.5;No se calcula; 82;Calma;1002.9 / \r\n Campo de Mayo;01-agosto-2026;21:00;Despejado con banco delgado de niebla;10 km;10.6;No se calcula; 94;Este  7;1011.6 / \r\n Coronel Suare",
-  "actualizado_github": "2026-08-02T04:51:51.245373Z"
+  "primeros_500_caracteres": "Azul;02-agosto-2026;03:00;Parcialmente nublado;15 km;5.1;4.0; 98;Este  5;997.8 / \r\n Bahía Blanca;02-agosto-2026;03:00;Cubierto;15 km;8.2;6.0; 92;Noreste  13;1003.3 / \r\n Benito Juárez;01-agosto-2026;21:00;Despejado con neblina;9 km;7.2;No se calcula; 94;Calma;988.8 / \r\n Bolívar;01-agosto-2026;21:00;Algo nublado;15 km;8.5;No se calcula; 82;Calma;1002.9 / \r\n Campo de Mayo;01-agosto-2026;21:00;Despejado con banco delgado de niebla;10 km;10.6;No se calcula; 94;Este  7;1011.6 / \r\n Coronel Suarez;01-ag",
+  "actualizado_github": "2026-08-02T07:28:53.244946Z"
 }
