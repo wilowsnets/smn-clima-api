@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-02T19:05:34.906002Z",
-  "ultima_actualizacion_smn": "2026-08-02T15:00:00-03:00",
+  "actualizado_github": "2026-08-02T20:26:58.218416Z",
+  "ultima_actualizacion_smn": "2026-08-02T17:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -43,15 +43,15 @@
     "presion": 969.2
   },
   "mayor_humedad": {
-    "estacion": "San Julián",
-    "fecha_hora": "2026-08-02T15:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "5 km",
-    "temperatura": 4.4,
-    "termica": -0.8,
-    "humedad": 98,
-    "viento_dir": "Este",
-    "viento_vel": 31,
-    "presion": 1002.6
+    "estacion": "Bolívar",
+    "fecha_hora": "2026-08-02T17:00:00-03:00",
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "800 mts",
+    "temperatura": 12.0,
+    "termica": null,
+    "humedad": 99,
+    "viento_dir": "Noreste",
+    "viento_vel": 5,
+    "presion": 1004.1
   }
 }
