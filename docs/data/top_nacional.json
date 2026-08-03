@@ -1,11 +1,11 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-03T15:23:28.129644Z",
+  "actualizado_github": "2026-08-03T17:23:25.605491Z",
   "ultima_actualizacion_smn": "2026-08-03T12:00:00-03:00",
-  "estado": "ok",
-  "desactualizado": false,
-  "mensaje": "Datos actualizados.",
+  "estado": "desactualizado",
+  "desactualizado": true,
+  "mensaje": "No se pudo actualizar desde SMN. Se muestran los últimos datos disponibles. Error: 403 Client Error: Forbidden for url: https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=tiepre",
   "mas_calor": {
     "estacion": "Las Lomitas",
     "fecha_hora": "2026-08-03T12:00:00-03:00",

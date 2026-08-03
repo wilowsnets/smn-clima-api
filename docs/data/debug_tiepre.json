@@ -1,11 +1,5 @@
 {
-  "estado": "ok",
-  "archivo_zip_usado": "estado_tiempo20260803.txt",
-  "archivos_zip": [
-    "estado_tiempo20260803.txt"
-  ],
-  "cantidad_estaciones": 121,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;03-agosto-2026;12:00;Nublado con niebla en la hora anterior;9 km;13.8;No se calcula; 90;Sur  7;1001 / \r\n Bahía Blanca;03-agosto-2026;12:00;Cubierto;15 km;12.2;No se calcula; 72;Oeste  14;1009.3 / \r\n Benito Juárez;03-agosto-2026;09:00;Cubierto con neblina;9 km;10.4;No se calcula; 100;Calma;992.1 / \r\n Bolívar;03-agosto-2026;12:00;Parcialmente nublado con niebla en la hora anterior;6 km;14.8;No se calcula; 95;Sudeste  9;1007.3 / \r\n Campo de Mayo;03-agosto-2026;12:00;Nublado con neblina;3.0 km;",
-  "actualizado_github": "2026-08-03T15:23:28.129644Z"
+  "estado": "error",
+  "error": "403 Client Error: Forbidden for url: https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=tiepre",
+  "actualizado_github": "2026-08-03T17:23:25.605657Z"
 }
