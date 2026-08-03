@@ -1,8 +1,8 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-03T04:59:36.522471Z",
-  "ultima_actualizacion_smn": "2026-08-03T01:00:00-03:00",
+  "actualizado_github": "2026-08-03T08:33:29.602524Z",
+  "ultima_actualizacion_smn": "2026-08-03T05:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
@@ -19,16 +19,16 @@
     "presion": 968.2
   },
   "mas_frio": {
-    "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-03T00:00:00-03:00",
-    "estado": "Algo nublado",
+    "estacion": "Base Orcadas",
+    "fecha_hora": "2026-08-03T03:00:00-03:00",
+    "estado": "Cubierto",
     "visibilidad": "20 km",
-    "temperatura": -21.2,
-    "termica": -31.0,
-    "humedad": 26,
-    "viento_dir": "Sudeste",
-    "viento_vel": 16,
-    "presion": 957.0
+    "temperatura": -20.2,
+    "termica": -30.8,
+    "humedad": 78,
+    "viento_dir": "Norte",
+    "viento_vel": 20,
+    "presion": 1011.4
   },
   "mayor_viento": {
     "estacion": "El Bolsón",
@@ -43,15 +43,15 @@
     "presion": 972.1
   },
   "mayor_humedad": {
-    "estacion": "Las Flores",
-    "fecha_hora": "2026-08-02T21:00:00-03:00",
-    "estado": "Cubierto con llovizna",
-    "visibilidad": "6 km",
-    "temperatura": 13.4,
+    "estacion": "Azul",
+    "fecha_hora": "2026-08-03T05:00:00-03:00",
+    "estado": "Cielo invisible con niebla",
+    "visibilidad": "Menor a 100 mts",
+    "temperatura": 11.0,
     "termica": null,
     "humedad": 100,
-    "viento_dir": "Este",
+    "viento_dir": "Sudeste",
     "viento_vel": 3,
-    "presion": 1012.0
+    "presion": 998.6
   }
 }
