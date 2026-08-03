@@ -4,8 +4,10 @@
   "archivos_zip": [
     "estado_tiempo20260803.txt"
   ],
-  "cantidad_estaciones": 119,
-  "lineas_invalidas_muestra": [],
-  "primeros_500_caracteres": "Azul;02-agosto-2026;21:00;Cielo invisible con niebla;Menor a 100 mts;11.1;No se calcula; 99;Este  1;998.5 / \r\n Bahía Blanca;02-agosto-2026;21:00;Despejado;15 km;10.4;No se calcula; 92;Norte  18;1004.4 / \r\n Benito Juárez;01-agosto-2026;21:00;Despejado con neblina;9 km;7.2;No se calcula; 94;Calma;988.8 / \r\n Bolívar;02-agosto-2026;21:00;Cubierto con neblina;5 km;10.3;No se calcula; 89;Calma;1004.8 / \r\n Campo de Mayo;02-agosto-2026;21:00;Parcialmente nublado;10 km;16;No se calcula; 91;Sudeste  9;101",
-  "actualizado_github": "2026-08-03T01:06:17.460986Z"
+  "cantidad_estaciones": 118,
+  "lineas_invalidas_muestra": [
+    "ERROR: could not convert string to float: '---' | LINEA: Uspallata;02-agosto-2026;21:00;Algo nublado;15 km;---;---;---;Sudeste  3;809.7 /"
+  ],
+  "primeros_500_caracteres": "Azul;03-agosto-2026;01:00;Cielo invisible con niebla;Menor a 100 mts;11.2;No se calcula; 98;Calma;1000.2 / \r\n Bahía Blanca;03-agosto-2026;01:00;Despejado;15 km;8.7;5.7; 94;Norte  20;1005.8 / \r\n Benito Juárez;01-agosto-2026;21:00;Despejado con neblina;9 km;7.2;No se calcula; 94;Calma;988.8 / \r\n Bolívar;02-agosto-2026;21:00;Cubierto con neblina;5 km;10.3;No se calcula; 89;Calma;1004.8 / \r\n Campo de Mayo;02-agosto-2026;21:00;Parcialmente nublado;10 km;16;No se calcula; 91;Sudeste  9;1014.6 / \r\n Cor",
+  "actualizado_github": "2026-08-03T04:59:36.522471Z"
 }

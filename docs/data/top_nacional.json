@@ -1,34 +1,34 @@
 {
   "fuente": "Servicio Meteorológico Nacional",
   "producto": "top_nacional",
-  "actualizado_github": "2026-08-03T01:06:17.460986Z",
-  "ultima_actualizacion_smn": "2026-08-02T21:00:00-03:00",
+  "actualizado_github": "2026-08-03T04:59:36.522471Z",
+  "ultima_actualizacion_smn": "2026-08-03T01:00:00-03:00",
   "estado": "ok",
   "desactualizado": false,
   "mensaje": "Datos actualizados.",
   "mas_calor": {
-    "estacion": "Tinogasta",
-    "fecha_hora": "2026-08-02T18:00:00-03:00",
-    "estado": "Algo nublado",
-    "visibilidad": "20 km",
-    "temperatura": 28.2,
-    "termica": null,
-    "humedad": 15,
-    "viento_dir": "Este",
-    "viento_vel": 14,
-    "presion": 871.4
+    "estacion": "Villa María Del Río Seco",
+    "fecha_hora": "2026-08-02T15:00:00-03:00",
+    "estado": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura": 26.4,
+    "termica": 26.6,
+    "humedad": 44,
+    "viento_dir": "Norte",
+    "viento_vel": 3,
+    "presion": 968.2
   },
   "mas_frio": {
     "estacion": "Base Belgrano II",
-    "fecha_hora": "2026-08-02T18:00:00-03:00",
-    "estado": "Parcialmente nublado",
+    "fecha_hora": "2026-08-03T00:00:00-03:00",
+    "estado": "Algo nublado",
     "visibilidad": "20 km",
-    "temperatura": -22.2,
-    "termica": -32.8,
-    "humedad": 35,
+    "temperatura": -21.2,
+    "termica": -31.0,
+    "humedad": 26,
     "viento_dir": "Sudeste",
-    "viento_vel": 18,
-    "presion": 960.2
+    "viento_vel": 16,
+    "presion": 957.0
   },
   "mayor_viento": {
     "estacion": "El Bolsón",
@@ -43,15 +43,15 @@
     "presion": 972.1
   },
   "mayor_humedad": {
-    "estacion": "Mar del Plata",
+    "estacion": "Las Flores",
     "fecha_hora": "2026-08-02T21:00:00-03:00",
-    "estado": "Nublado con lluvia",
-    "visibilidad": "9 km",
-    "temperatura": 9.6,
-    "termica": 6.5,
+    "estado": "Cubierto con llovizna",
+    "visibilidad": "6 km",
+    "temperatura": 13.4,
+    "termica": null,
     "humedad": 100,
-    "viento_dir": "Noreste",
-    "viento_vel": 24,
-    "presion": 1014.4
+    "viento_dir": "Este",
+    "viento_vel": 3,
+    "presion": 1012.0
   }
 }
