@@ -1458,9 +1458,9 @@
       "presion": 1018.8
     }
   },
-  "actualizado_github": "2026-08-08T16:28:31.726723Z",
+  "actualizado_github": "2026-08-08T17:03:02.807872Z",
   "ultima_actualizacion_smn": "2026-08-03T12:00:00-03:00",
-  "edad_minutos": 7288,
+  "edad_minutos": 7323,
   "estado": "desactualizado",
   "desactualizado": true,
   "mensaje": "No se pudo actualizar desde SMN. Se muestran los últimos datos disponibles. Error: 403 Client Error: Forbidden for url: https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=tiepre"
